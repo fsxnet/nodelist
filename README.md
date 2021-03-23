@@ -1,3 +1,14 @@
+                   ____                    _   __         __ 
+                  / __/   _____   _  __   / | / /  ___   / /_
+                 / /_    / ___/  | |/_/  /  |/ /  / _ \ / __/
+                / __/   (__  )  _>  <   / /|  /  /  __// /_  
+               /_/     /____/  /_/|_/  /_/ |_/   \___/ \__/  
+
+
+               The [F]un, [S]imple, e[X]perimental Network
+               ===========================================
+
+
 This repository contains copies of current and past fsxNet nodelists.
 
 The current compressed and uncompressed nodelist can be found in the root directory. 
