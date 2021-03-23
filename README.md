@@ -18,3 +18,6 @@ FSXNET.?nn files are compressed using Zip with ?? equal to the last two digits o
 
 FSXNET.nnn files are uncompressed and use a convention where nnn is a three digit number representing 
 the day-of-year of the Friday publication date, with zeros filling positions to the left if necessary.
+
+For more info on fsxNet be sure to visit fsxnet.nz
+
