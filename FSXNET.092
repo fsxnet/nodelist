@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 2, 2021 -- Day number 092 : 33121
+;A fsxNet Nodelist for Friday, April 2, 2021 -- Day number 092 : 55947
 ;A
 ;A fsxNet, All rights reserved, Copyright 2015-2021
 ;A
@@ -284,6 +284,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,216,Infinite_Space_BBS,Orlando_USA,Lenny_Lacey,-Unpublished-,300,CM,INA:infinitespacebbs.ddns.net,IBN
 ,217,Battlestar_Pegasus_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:pegasusbbs.dyndns.org,IBN:24557
 ,218,KCM_BBS,Kautzen_AUT,Andreas_Zahrl,-Unpublished-,300,CM,INA:zahrl.ddns.net,IBN
+,219,Radio_Freqs_&_Geeks_BBS,Albany_USA,Rich_Gattie,-Unpublished-,300,CM,INA:rfgeeksbbs.ddns.net,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
