@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 9, 2021 -- Day number 099 : 07654
+;A fsxNet Nodelist for Friday, April 16, 2021 -- Day number 106 : 13488
 ;A
 ;A fsxNet, All rights reserved, Copyright 2015-2021
 ;A
@@ -269,7 +269,8 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,199,Clutch_BBS,Ontario_CAN,Mark_Stark,-Unpublished-,300,CM,INA:bbs.clutchbbs.com,IBN
 Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,201,Decker's_Heaven_BBS,Gainesville_USA,Eric_Renfro,-Unpublished-,300,CM,INA:bbs.deckersheaven.com,IBN
-,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,-Unpublished-,300,CM,XW,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177
+;E ,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,33600,ICM,TJT,XW,V90C,X2C,VFC,V32T,H16,V42B,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
+;E  -- Invalid baud rate -- '33600'
 ,203,Rocket_Town_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
 ,204,Family_BBS,Auckland_NZL,Tony_Pawson,-Unpublished-,300,CM,INA:familybbs.ddns.net,IBN
 ,205,Magnum_BBS,Huddersfield_GBR,Keyop_Troy,-Unpublished-,300,CM,INA:bbs.magnum.uk.net,IBN
@@ -348,6 +349,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,165,LoFi_BBS,Ottawa_CAN,Matt_Gibson,-Unpublished-,300,CM,INA:lofi.ooo,IBN
 ,166,Dark_Carnival_BBS,LaGrange_USA,Richard_Matthews,-Unpublished-,300,CM,INA:bbs.darkcarnival.org,IBN
 ,167,ITBNET_BBS,Rome_ITA,Pasquale_Monti,-Unpublished-,300,CM,INA:bbs.itbnet.eu,IBN
+,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
 Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsxnet.nz,IBN,ITN:60177
@@ -364,7 +366,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,113,Pweck's_Retreat_BBS,Omaha_USA,Dean_Lodge,-Unpublished-,300,CM,INA:pwecksretreat.com,IBN
 Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,117,Radio_Mentor_BBS,Milwaukee_USA,Andre_Robitalle,-Unpublished-,300,CM,INA:bbs.k9zn.org,IBN
-,118,Panopticon,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:panoptic.onl,IBN
+,118,Panopticon,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:stolas.ink,IBN:74554
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,121,ElGringo_BBS,Montreal_CAN,Yanick_McDonald,-Unpublished-,300,CM,INA:bbs.el-gringo.ca,IBN
@@ -386,6 +388,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,138,Taliadon_BBS,South_Wales_GBR,Lee_Westlake,-Unpublished-,300,CM,INA:taliadon.ddns.net,IBN
 ,139,The_Bat_Cave,Powell_USA,Minh_Nguyen,-Unpublished-,300,CM,INA:batcave.the-nguyens.net,IBN
 ,140,Ground_Central,Jacksonville_USA,Matthew_Blocker,-Unpublished-,300,CM,INA:gcbbs.duckdns.org,IBN
+,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
