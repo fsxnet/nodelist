@@ -1,165 +1,75 @@
-;A fsxNet Nodelist for Friday, April 16, 2021 -- Day number 106 : 13488
+;A fsxNet Nodelist for Friday, April 23, 2021 -- Day number 113 : 22425
 ;A
-;A fsxNet, All rights reserved, Copyright 2015-2021
+;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
-;S fsxNet is a fun, simple and experimental network established in late 2015
-;S
-;S fsxNet is not a prescriptive network. e[X]perimentation is at heart
-;S of its name and members are actively encouraged to be creative in their
-;S use of the network. Only a handfull of message areas and file bases are
-;S used - setup is quick and [S]imple.
-;S
-;S Technologies covered by the network include (but are not limited to)
-;S BBSing, ANSI art, Amateur (HAM) Radio, Retro / Vintage Computers & Gaming,
-;S FTN communications, network protocols & topologies, encryption methods,
-;S contemporary computers (e.g. Raspberry Pi), computer coding and more.
-;S
-;S fsxNet sees a number of messages posted to it every week. It is an
-;S active support network for several developers of BBS software spanning
-;S BBS systems, door games and more.
-;S
-;S fsxNet is not an invite-only closed network, rather it is an open
-;S community and everyone who wishes to join is welcome.
-;S
-;S Do you find it [F]un to learn about and use retro computing technologies?
-;S Would you like to be part of a group that enjoy experimenting and developing
-;S those technologies further? If the answer is yes, then we invite you to
-;S join us :)
-;S
-;S == Goals ====================================================================
-;S
-;S Develop and encourage international communications between 100 (or more)
-;S geographically diverse bulletin board system operators (members)
-;S and their users in order to:
-;S
-;S - Support and create learning and experimental opportunities
-;S - Explore and develop new and interesting methods of online communication
-;S - Foster international friendships without borders
-;S - Raise awareness of BBS as a hobby and communications option for
-;S   the 21st century
-;S
-;S == Values ===================================================================
-;S
-;S - Have fun!
-;S - Keep it simple
-;S - Be kind, respectful and helpful
-;S - Reject disruptive conduct that willfully incites discord
-;S
-;S == Housekeeping =============================================================
-;S
-;S Members of fsxNet and their users to conduct themselves with the above goals
-;S and values in mind. Failure to do so risks being de-listed and/or removed
-;S by the Network Coordinator
-;S
-;S Please don't post echomail to fsxNet about country politics or religion.
-;S These subjects inevitably seem to cause discord and are best left for
-;S discussion on other message networks.
-;S
-;S The use of the fsxNet for illegal purposes is not permitted. Members or users
-;S deemed to be engaged in such activities will be de-listed and/or removed by
-;S the Network Coordinator
-;S
-;S Members real names are used in the nodelist, members and users’ aliases or
-;S real names are welcome in all echoareas
-;S
-;S Messages containing ANSI should use a [ANSI] prefix in the message subject
-;S line. This allows members who can’t view ANSI content to opt out reading it
-;S if they are unable to do so. e.g. Subject: [ANSI] Something I drew last night
-;S
-;S Please do not gate fsxNet traffic to other FTN/QWK networks, Usenet,
-;S or any other network without first discussing your request in FSX_GEN
-;S and obtaining approval from the Zone 21 ZC.
-;S
-;S == Echoareas ================================================================
-;S
-;S Message Echos:
-;S
-;S FSX_TST - Test messages and other experimentation is welcome here! Messages
-;S           using the subject of 'Test' *should* receive an automated response
-;S           from a roBOT. Humans can also appear magically with reports too.
-;S           "Your mileage may vary. Offer not available at Vanda Station"
-;S
-;S FSX_GEN - A general discussion echoarea covering many topics.
-;S
-;S FSX_MYS - Mystic BBS discussions, support and development.
-;S
-;S FSX_MAG - Talisman + Magicka BBS discussions, support and development.
-;S
-;S FSX_BBS - BBS software, development and support. The echoarea is also
-;S           host to fsxNet Wiki (wiki.fsxnet.nz) discussions and support.
-;S
-;S FSX_ENG - ENiGMA 1/2 BBS discussions, support and development.
-;S
-;S FSX_HAM - Amateur Radio discussions. Covers all aspects of HAM radio
-;S           including DX, HF, VHF/UHF, various digital modes etc.
-;S
-;S FSX_CRY - Cryptographic discussion and experimentation.
-;S           Public key sharing, encoded messages, testing etc.
-;S           is welcome here.
-;S
-;S FSX_NET - Discussions about fsxNet. Chat about current network operations,
-;S           plans for the future and how to best implement them.
-;S
-;S FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
-;S           language conversations. Like FSX_GEN it is a general discussion
-;S           echoarea covering many topics. Test messages and other
-;S           experimentation is welcome.
-;S
-;S           Este echoarea ofrece un lugar para conversaciones en espanol.
-;S           Al igual que FSX_GEN, es una discusión general que abarca muchos
-;S           temas. Mensajes de prueba y otros experimentos son bienvenidos.
-;S
-;S FSX_ADS - BBS and NETwork Ads. Run a BBS you want to tell the world about?
-;S           Use a roBOT or manually post your BBS ASCII / ANSI ads here.
-;S           Please don't post the same thing more than once a week (7 days).
-;S           Let's keep it 'minty fresh' - too much of the same thing usually
-;S           ends in a diet :)
-;S
-;S FSX_BOT - We welcome non-human roBOT output here. Gated or original content
-;S           (e.g. weather, telemetry, entertainment etc.) lives here. BBS ads
-;S           (FSX_ADS) , echomail stats (FSX_STA) or file announcements (FSX_FIL)
-;S           live elsewhere.
-;S
-;S FSX_STA - Echomail + Network Stats. The echoarea for roBOT posts about
-;S           echomail area stats, BBS mailer traffic and gateway activity.
-;S           FTN network stats / reports are also posted here. Some people
-;S           read them cover to cover while others like horoscopes better :)
-;S
-;S FSX_FIL - File Announcements. I like files, you like files, we all like files!
-;S           This echoarea contains roBOT posts covering files received by fsxNet
-;S           member BBS or files hatched from fsxNet HUBS to the wider community.
-;S
-;S FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS
-;S           Oneliners, Last Caller Mods etc to send inter-BBS data between nodes
-;S           in fsxNet. In most cases the data is not readable or of interest to
-;S           human eyes. Sysops may wish to hide this echo from BBS users.
-;S
-;S
-;S File Bases:
-;S
-;S FSX_NODE - Weekly Nodelists (fsxNet, etc.)
-;S FSX_INFO - Weekly Infopacks (fsxNet, etc.)
-;S
-;S FSX_MYST - Mystic BBS Software
-;S FSX_MUTL - Mystic BBS Utils, Mods etc.
-;S
-;S FSX_SOFT - BBS Software (Current + Legacy)
-;S FSX_DOOR - BBS Doors, Games etc.
-;S FSX_UTLS - BBS Utils, Tools, Networking etc.
-;S
-;S FSX_ARTS - ANSI Art - Groups, Individuals etc.
-;S FSX_IMGE - Image Files (Various)
-;S FSX_TEXT - Text Files (Various)
-;S
-;S
-;S
-;S == ChangeLog ================================================================
-;S
-;S For a full list of changes refer to the HISTORY.TXT file in the fsxNet
-;S infopack:
-;S
-;S =============================================================================
-;S
+;A                 ____                    _   __         __
+;A                / __/   _____   _  __   / | / /  ___   / /_
+;A               / /_    / ___/  | |/_/  /  |/ /  / _ \ / __/
+;A              / __/   (__  )  _>  <   / /|  /  /  __// /_
+;A             /_/     /____/  /_/|_/  /_/ |_/   \___/ \__/
+;A
+;A
+;A            The [F]un, [S]imple, e[X]perimental Network
+;A            ===========================================
+;A
+;A                  (Est. 2015 | Zone 21 | fsxnet.nz)
+;A
+;A fsxNet is a fun, simple and experimental network established in late 2015
+;A
+;A fsxNet is not a prescriptive network. e[X]perimentation is at heart
+;A of its name and members are actively encouraged to be creative in their
+;A use of the network. Only a handfull of message areas and file bases are
+;A used - setup is quick and [S]imple.
+;A
+;A Technologies covered by the network include (but are not limited to)
+;A BBSing, ANSI art, Amateur (HAM) Radio, Retro / Vintage Computers & Gaming,
+;A FTN communications, network protocols & topologies, encryption methods,
+;A contemporary computers (e.g. Raspberry Pi), computer coding and more.
+;A
+;A fsxNet sees a number of messages posted to it every week. It is an
+;A active support network for several developers of BBS software spanning
+;A BBS systems, door games and more.
+;A
+;A fsxNet is not an invite-only closed network, rather it is an open
+;A community and everyone who wishes to join is welcome.
+;A
+;A Do you find it [F]un to learn about and use retro computing technologies?
+;A Would you like to be part of a group that enjoy experimenting and
+;A developing those technologies further? If the answer is yes, then we
+;A invite you to join us :)
+;A
+;A== Join Us ================================================================
+;A
+;A If you would like to join head to fsxnet.nz and grab a copy of the
+;A infopack just complete the application form and email to avon@bbs.nz or
+;A send Fidonet a netmail to Paul Hayton (3:770/100) at agency.bbs.nz
+;A
+;A== Goals ==================================================================
+;A
+;A Develop and encourage international communications between 100 (or more)
+;A geographically diverse bulletin board system operators (members)
+;A and their users in order to:
+;A
+;A - Support and create learning and experimental opportunities
+;A - Explore and develop new and interesting methods of online communication
+;A - Foster international friendships without borders
+;A - Raise awareness of BBS as a hobby and communications option for
+;A   the 21st century
+;A
+;A== Values =================================================================
+;A
+;A - Have fun!
+;A - Keep it simple
+;A - Be kind, respectful and helpful
+;A - Reject disruptive conduct that willfully incites discord
+;A
+;A== ChangeLog ==============================================================
+;A
+;A For a full list of changes refer to the HISTORY.TXT file in the fsxNet
+;A infopack. You can find this at fsxnet.nz
+;A
+;A===========================================================================
+;A
 ;
 Zone,21,fsxNet_ZC,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,ICM,MO,INA:net1.fsxnet.nz,IBN:24556,ZEC
 ;
@@ -269,8 +179,7 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,199,Clutch_BBS,Ontario_CAN,Mark_Stark,-Unpublished-,300,CM,INA:bbs.clutchbbs.com,IBN
 Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,201,Decker's_Heaven_BBS,Gainesville_USA,Eric_Renfro,-Unpublished-,300,CM,INA:bbs.deckersheaven.com,IBN
-;E ,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,33600,ICM,TJT,XW,V90C,X2C,VFC,V32T,H16,V42B,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
-;E  -- Invalid baud rate -- '33600'
+,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJT,XW,V90C,X2C,VFC,V32T,H16,V42B,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
 ,203,Rocket_Town_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
 ,204,Family_BBS,Auckland_NZL,Tony_Pawson,-Unpublished-,300,CM,INA:familybbs.ddns.net,IBN
 ,205,Magnum_BBS,Huddersfield_GBR,Keyop_Troy,-Unpublished-,300,CM,INA:bbs.magnum.uk.net,IBN
@@ -366,7 +275,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,113,Pweck's_Retreat_BBS,Omaha_USA,Dean_Lodge,-Unpublished-,300,CM,INA:pwecksretreat.com,IBN
 Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,117,Radio_Mentor_BBS,Milwaukee_USA,Andre_Robitalle,-Unpublished-,300,CM,INA:bbs.k9zn.org,IBN
-,118,Panopticon,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:stolas.ink,IBN:74554
+,118,Stolas'_Library,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:stolas.ink,IBN:74554
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,121,ElGringo_BBS,Montreal_CAN,Yanick_McDonald,-Unpublished-,300,CM,INA:bbs.el-gringo.ca,IBN
@@ -378,7 +287,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
 ,129,Red_Mud_BBS,Oaklahoma_City_USA,David_Snyder,-Unpublished-,300,CM,INA:redmudbbs.com,IBN
 ,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
-,131,Hundred_Acre_BBS,Little_Rock_USA,Aaron_Clark,-Unpublished-,300,CM,INA:hundredacrebbs.ddns.net
+Down,131,Hundred_Acre_BBS,Little_Rock_USA,Aaron_Clark,-Unpublished-,300,CM,INA:hundredacrebbs.ddns.net
 ,132,Herp_Derp_BBS,Roodepoort_ZAF,Andrew_Lewis,-Unpublished-,300,CM,INA:herp.derp.org.org.za,IBN
 ,133,Slate_Hell_BBS,Mooresburg_USA,Anthony_Stump,-Unpublished-,300,CM,INA:msbgtn01.synchro.net,IBN
 ,134,Westwood_BBS_II,King_George_USA,Mike_Newkirk,-Unpublished-,300,CM,INA:westwoodbbs.net,IBN
@@ -465,12 +374,10 @@ Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.
 ,102,TAK_Software_BBS,Murfreesboro_USA,Thomas_Kloos,-Unpublished-,300,CM,INA:bbs.taksoftware.com,IVM
 ,103,The_Computer_Express,Anoka_USA,Chris_Costakis,-Unpublished-,300,CM,INA:bbs.costakis.org,ITN:3141,IVM
 ,104,EMS_BBS,Anaheim_USA,Scott_Labrecque,-Unpublished-,300,CM,INA:ems-bbs.com,IVM
-;
-;S
-;S == Nodelist Flags ===========================================================
-;S
-;S   Details of the permitted nodelist flags can be found in the Fidonet
-;S   Technical Standards Committee document FTSC-5001. Copies of this
-;S   document are available from http://www.ftsc.org/docs/
-;S
+;A
+;A == Nodelist Flags ========================================================
+;A
+;A  Details of the permitted nodelist flags can be found in the Fidonet
+;A  Technical Standards Committee document FTSC-5001. Copies of this
+;A  document are available from http://www.ftsc.org/docs/
 
