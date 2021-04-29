@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 30, 2021 -- Day number 120 : 27462
+;A fsxNet Nodelist for Friday, April 30, 2021 -- Day number 120 : 54134
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -77,7 +77,7 @@ Region,21,fsxNet_RC,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,ICM,MO,INA:net1.fs
 ;
 Host,1,fsxNet_(NET_1),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN
 ,10,fsxNet_Games_+_Usenet_Gateway,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN:24557
-,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN:24556,SDS
+,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,SDS,PING
 ,101,Agency_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,INA:ipv4.agency.bbs.nz,IBN:24555
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
 Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
@@ -179,7 +179,7 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,199,Clutch_BBS,Ontario_CAN,Mark_Stark,-Unpublished-,300,CM,INA:bbs.clutchbbs.com,IBN
 Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,201,Decker's_Heaven_BBS,Gainesville_USA,Eric_Renfro,-Unpublished-,300,CM,INA:bbs.deckersheaven.com,IBN
-,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJT,XW,V90C,X2C,VFC,V32T,H16,V42B,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
+,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJT,XW,V90C,X2C,VFC,V32T,H16,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
 ,203,Rocket_Town_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:rtbbs.ddns.net,IBN
 ,204,Family_BBS,Auckland_NZL,Tony_Pawson,-Unpublished-,300,CM,INA:familybbs.ddns.net,IBN
 ,205,Magnum_BBS,Huddersfield_GBR,Keyop_Troy,-Unpublished-,300,CM,INA:bbs.magnum.uk.net,IBN
@@ -287,7 +287,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,125,Inner_Realm,Charlotte_USA,Michael_Long,-Unpublished-,300,CM,INA:innerrealmbbs.us,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
-,129,Red_Mud_BBS,Oaklahoma_City_USA,David_Snyder,-Unpublished-,300,CM,INA:redmudbbs.com,IBN
+,129,Red_Mud_BBS,Oaklahoma_City_USA,David_Snyder,-Unpublished-,300,CM,INA:bbs.redmudbbs.com,IBN
 ,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
 Down,131,Hundred_Acre_BBS,Little_Rock_USA,Aaron_Clark,-Unpublished-,300,CM,INA:hundredacrebbs.ddns.net
 ,132,Herp_Derp_BBS,Roodepoort_ZAF,Andrew_Lewis,-Unpublished-,300,CM,INA:herp.derp.org.org.za,IBN
