@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 30, 2021 -- Day number 120 : 54134
+;A fsxNet Nodelist for Friday, May 7, 2021 -- Day number 127 : 57794
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -77,7 +77,7 @@ Region,21,fsxNet_RC,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,ICM,MO,INA:net1.fs
 ;
 Host,1,fsxNet_(NET_1),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN
 ,10,fsxNet_Games_+_Usenet_Gateway,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN:24557
-,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,SDS,PING
+,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,SDS,PING,TRACE
 ,101,Agency_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,INA:ipv4.agency.bbs.nz,IBN:24555
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
 Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
@@ -199,6 +199,8 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,220,swissIRC_BBS,Buchserstrasse_CHE,Alisha_Stutz,-Unpublished-,300,CM,INA:swissirc.fsxnet.nz,IBN:24555
 ,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:twinklebbs.xyz,IBN
 ,222,Tiny's_BBS_II,Oshawa_CAN,Shawn_Highfield,-Unpublished-,300,CM,INA:tinysbbs.com,IBN:24555
+,223,OldComp_EU_BBS,Louny_CZE,Cerny_Eduard,-Unpublished-,300,CM,INA:bbs1.oldcomp.eu,IBN
+,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
@@ -209,7 +211,6 @@ Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net
 ,103,Resistance_Pride_BBS,Pittsboro_USA,Kevin_Sonney,-Unpublished-,300,CM,INA:resistancepride.sytes.net,IBN
 ,104,Vger_Cloud_BBS,Torrance_USA,Bradley_Thornton,-Unpublished-,300,CM,INA:vger.fsxnet.nz,IBN
 ,105,The_New_Frontier_2_BBS,Akron_USA,Charles_Stephenson,-Unpublished-,300,CM,INA:frontierbbs.net,IBN:24556
-,106,NeoCincinnati_BBS,Cincinnati_USA,Nikki_Jenks,-Unpublished-,300,CM,INA:neocinci.bbs.io,IBN
 ,107,The_Mage's_Keep_BBS,Las_Vegas_USA,Joe_Derr,-Unpublished-,300,CM,INA:bbs.themageskeep.com,IBN
 ,108,Storm_BBS,Los_Altos_USA,April_Monoceros,-Unpublished-,300,CM,INA:telnet.stormbbs.com,IBN
 ,109,Nexus_Computers_BBS,Gold_Coast_AUS,Manu_Ngamotu,-Unpublished-,300,CM,INA:bbs.nexuscomputers.com.au,IBN
