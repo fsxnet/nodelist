@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 7, 2021 -- Day number 127 : 57794
+;A fsxNet Nodelist for Friday, May 14, 2021 -- Day number 134 : 03220
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -290,7 +290,6 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
 ,129,Red_Mud_BBS,Oaklahoma_City_USA,David_Snyder,-Unpublished-,300,CM,INA:bbs.redmudbbs.com,IBN
 ,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
-Down,131,Hundred_Acre_BBS,Little_Rock_USA,Aaron_Clark,-Unpublished-,300,CM,INA:hundredacrebbs.ddns.net
 ,132,Herp_Derp_BBS,Roodepoort_ZAF,Andrew_Lewis,-Unpublished-,300,CM,INA:herp.derp.org.org.za,IBN
 ,133,Slate_Hell_BBS,Mooresburg_USA,Anthony_Stump,-Unpublished-,300,CM,INA:msbgtn01.synchro.net,IBN
 ,134,Westwood_BBS_II,King_George_USA,Mike_Newkirk,-Unpublished-,300,CM,INA:westwoodbbs.net,IBN
@@ -301,6 +300,8 @@ Down,131,Hundred_Acre_BBS,Little_Rock_USA,Aaron_Clark,-Unpublished-,300,CM,INA:h
 ,139,The_Bat_Cave,Powell_USA,Minh_Nguyen,-Unpublished-,300,CM,INA:batcave.the-nguyens.net,IBN
 ,140,Ground_Central,Jacksonville_USA,Matthew_Blocker,-Unpublished-,300,CM,INA:gcbbs.duckdns.org,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
+,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
+,143,Pedalion_BBS,Louisville_USA,Joe_Ferraro,-Unpublished-,300,CM,INA:bbs.pedalion.net,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
@@ -329,14 +330,12 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,123,SpaceX_Starship_BBS,Crystal_River_USA,Sam_Penwright,-Unpublished-,300,CM,INA:bbs.spacex-starship.com,IBN
 ,124,The_Dungeon_BBS,Canberra_AUS,Keith_Matthews,-Unpublished-,300,CM,INA:dungeon.barnabasmusic.com,IBN
 ,125,Veleno_BBS,Rovereto_ITA,Thomas_Bampi,-Unpublished-,300,CM,INA:velenobbs.ddns.net,IBN
-,126,Another_F-ing_BBS,CasaGrande_USA,Gary_Crunk,-Unpublished-,300,CM,INA:anotherbbs.dynu.net,IBN
 ,127,The_Oasis_BBS,Houston_USA,Charles_Pierson,-Unpublished-,300,CM,INA:theoasisbbs.ddns.net,IBN
 ,128,DragonsWeb_Labs_BBS,Pembroke_USA,James_DiGriz,-Unpublished-,300,CM,INA:bbs.dragonsweb.org,IBN
 ,129,Hive_32,Oklahoma_City_USA,Luke_Galutia,-Unpublished-,300,CM,INA:bbs.hive32.com,IBN
 ,130,Traders_Bay_BBS,Hideaway_TX_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.tradersbay.net,IBN
 ,131,The_Wrong_Number_[]_BBS,Yorktown_Heights_USA,Al_DeRosa,-Unpublished-,300,CM,INA:wn2.duckdns.org,IBN
 ,132,Black_Flag,Hudson_FL_USA,Hawk_Hubbard,-Unpublished-,300,CM,INA:blackflag.acid.org,IBN:24557
-,133,Fading_Black_BBS,Hamilton_CAN,Will_Smith,-Unpublished-,300,CM,INA:fadingblack.net,IBN
 ,134,Possum_Lodge_South_BBS,Frankfort_USA,Mike_Powell,-Unpublished-,300,CM,INA:possumso.fsxnet.nz,IBN:24555,ITN:7636
 ,135,Veteran_BBS,Clanton_USA,Mike_Welborn,-Unpublished-,300,CM,INA:vetbbs.fsxnet.nz,IBN
 ,136,Total_Lost_BBS,Harnosand_SWE,Dennis_Eklund,-Unpublished-,300,CM,INA:bbs.deek.se,IBN
@@ -362,7 +361,6 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,157,LostCause_Halfway_House,Alden_USA,Ernest_Gainey,-Unpublished-,300,CM,INA:bbs.lostcause.house,IBN
 ,158,Card_&_Claw_BBS,Berkely_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:cardandclaw.servebbs.com,IBN
 ,160,Brotherhood_of_Groovyness_BBS,Sioux_City_USA,John_Porterfield,-Unpublished-,300,CM,INA:b-o-g.net,IBN
-,161,Gerlach_BBS,Zvolen_SVK,Dominik_Madarasz,-Unpublished-,300,CM,INA:bbs.madaraszd.net,IBN,ITN:4321
 ,164,FuSiON_BBS,Deer_Park_USA,Chris_Schneider,-Unpublished-,300,CM,INA:fusion.zapto.org,IBN
 ,165,w0pr.win,Sparta_USA,Richard_Swartz,-Unpublished-,300,CM,INA:w0pr.win,IBN
 ,166,Black_Lodge_Research_BBS,Seattle_USA,Emory_Balmer,-Unpublished-,300,CM,INA:blacklodge.fsxnet.nz,IBN
