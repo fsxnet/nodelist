@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 21, 2021 -- Day number 141 : 29062
+;A fsxNet Nodelist for Friday, May 21, 2021 -- Day number 141 : 36615
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -202,6 +202,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
 ;E ,225,Free_Speech_You_Smeg_Head_BBS,Kingston_CAN,-Unpublished-,300,CM,INA:freespeech.smeghead.club,IBN
 ;E  -- Invalid baud rate -- 'CM'
+,226,Retro16_BBS,Melbourne_AUS,David_Florey,-Unpublished-,300,CM,INA:retro16.fsxnet.nz,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
