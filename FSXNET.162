@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 4, 2021 -- Day number 155 : 45597
+;A fsxNet Nodelist for Friday, June 11, 2021 -- Day number 162 : 04207
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -200,9 +200,9 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,222,Tiny's_BBS_II,Oshawa_CAN,Shawn_Highfield,-Unpublished-,300,CM,INA:tinysbbs.com,IBN:24555
 ,223,OldComp_EU_BBS,Louny_CZE,Cerny_Eduard,-Unpublished-,300,CM,INA:bbs1.oldcomp.eu,IBN
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
-;E ,225,Free_Speech_You_Smeg_Head_BBS,Kingston_CAN,-Unpublished-,300,CM,INA:freespeech.smeghead.club,IBN
-;E  -- Invalid baud rate -- 'CM'
+,225,Free_Speech_You_Smeg_Head_BBS,Kingston_CAN,Doug_McComber,-Unpublished-,300,CM,INA:freespeech.smeghead.club,IBN
 ,226,Retro16_BBS,Melbourne_AUS,David_Florey,-Unpublished-,300,CM,INA:retro16.fsxnet.nz,IBN
+,227,Shipwrecks_&_Shibboleths_BBS,Marana_USA,Chris_Hizny,-Unpublished-,300,CM,INA:shibboleths.fsxnet.nz,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
@@ -304,6 +304,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,143,Pedalion_BBS,Louisville_USA,Joe_Ferraro,-Unpublished-,300,CM,INA:bbs.pedalion.net,IBN
+Pvt,144,flocks_BBS,Askania-Nova_UKR,Ruslan_Ivanyuk,-Unpublished-,300,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
