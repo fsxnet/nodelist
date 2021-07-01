@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 25, 2021 -- Day number 176 : 45732
+;A fsxNet Nodelist for Friday, July 2, 2021 -- Day number 183 : 19484
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -309,6 +309,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,143,Pedalion_BBS,Louisville_USA,Joe_Ferraro,-Unpublished-,300,CM,INA:bbs.pedalion.net,IBN
 Pvt,144,flocks_BBS,Askania-Nova_UKR,Ruslan_Ivanyuk,-Unpublished-,300,IBN
 ,145,Darkest_Hour_BBS,Maricopa_USA,Shawn_Rapp,-Unpublished-,300,CM,INA:dhbbs.org,IBN
+,146,Lost_Worlds_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:bbs.lostworlds.com,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
