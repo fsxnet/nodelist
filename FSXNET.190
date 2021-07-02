@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 2, 2021 -- Day number 183 : 16628
+;A fsxNet Nodelist for Friday, July 9, 2021 -- Day number 190 : 41467
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -120,7 +120,7 @@ Pvt,139,bitHaven_BBS,Ontario_CAN,Jean-Francois_Joly,-Unpublished-,300
 ,141,Pie33_BBS,Amsterdam_NLD,Moises_Aranas,-Unpublished-,300,CM,INA:pie33.com,IBN,ITN:2223
 ,142,Trashcan_BBS,Auckland_NZL,Nick_MacKechnie,-Unpublished-,300,CM,INA:bbs.thenet.gen.nz,IBN
 ,143,The_Bridge_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:bridge.vkradio.com,IBN
-,144,PBBS_WHQ_Support,Richmond_USA,Ozz_Nixon,-Unpublished-,300,CM,INA:exchangebbs.com,IBN
+,144,Brain_Patchwork_DX,Richmond_USA,Ozz_Nixon,-Unpublished-,300,CM,INA:exchangebbs.com,IBN
 ,145,Mystic_Pi_BBS,Nashua_USA,Brian_Wallace,-Unpublished-,300,CM,INA:bcw142.zapto.org,IBN:24556
 ,146,Saturn's_Orbit_BBS,Rio_de_Janeiro_BRA,Flavio_Bessa,-Unpublished-,300,CM,INA:saturnsorbit.ddns.net,IBN
 ,147,The_Comm's_Nut_BBS,Gagebrook_AUS,Danny_Moss,-Unpublished-,300,CM,INA:tcnbbs.fsxnet.nz,IBN
@@ -205,6 +205,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,227,Shipwrecks_&_Shibboleths_BBS,Marana_USA,Chris_Hizny,-Unpublished-,300,CM,INA:shibboleths.fsxnet.nz,IBN
 ,228,El_Gato_de_Fuego_BBS,Pedasi_PAN,John_Dovey,-Unpublished-,300,CM,INA:elgato.fsxnet.nz,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
+,230,Lost_Underground_BBS,Wellington_NZL,Spiro_Harvey,-Unpublished-,300,CM,INA:lostunderground.org,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
