@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 9, 2021 -- Day number 190 : 41467
+;A fsxNet Nodelist for Friday, July 9, 2021 -- Day number 190 : 03722
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -206,6 +206,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,228,El_Gato_de_Fuego_BBS,Pedasi_PAN,John_Dovey,-Unpublished-,300,CM,INA:elgato.fsxnet.nz,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
 ,230,Lost_Underground_BBS,Wellington_NZL,Spiro_Harvey,-Unpublished-,300,CM,INA:lostunderground.org,IBN
+,231,DelNet_BBS,New_Castle_USA,Don_Stratton,-Unpublished-,300,CM,INA:delnetbbs.ddns.net,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
@@ -287,7 +288,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,118,Stolas'_Library,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:stolas.ink,IBN:74554
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
-,121,ElGringo_BBS,Montreal_CAN,Yanick_McDonald,-Unpublished-,300,CM,INA:bbs.el-gringo.ca,IBN
+Down,121,ElGringo_BBS,Montreal_CAN,Yanick_McDonald,-Unpublished-,300,CM,INA:bbs.el-gringo.ca,IBN
 ,122,Final_Zone_BBS,Memphis_USA,Chris_Eldridge,-Unpublished-,300,CM,INA:finalzone.ddns.net,IBN
 ,123,Binary_Dreams_BBS,Little_Flock_USA,Vincent_Jacobs,-Unpublished-,300,CM,INA:binarydreamsbbs.ddns.net,IBN
 ,124,Coffee_House_BBS,Lisle_USA,Jeffrey_Bodenstein,-Unpublished-,300,CM,INA:bbs.coffeehousebbs.me,IBN
@@ -310,7 +311,7 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,143,Pedalion_BBS,Louisville_USA,Joe_Ferraro,-Unpublished-,300,CM,INA:bbs.pedalion.net,IBN
 Pvt,144,flocks_BBS,Askania-Nova_UKR,Ruslan_Ivanyuk,-Unpublished-,300,IBN
 ,145,Darkest_Hour_BBS,Maricopa_USA,Shawn_Rapp,-Unpublished-,300,CM,INA:dhbbs.org,IBN
-,146,Lost_Worlds_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:bbs.lostworlds.com,IBN
+,146,Lost_Worlds_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:bbs.lostworldsbbs.com,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
