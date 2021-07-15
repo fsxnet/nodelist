@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 9, 2021 -- Day number 190 : 03722
+;A fsxNet Nodelist for Friday, July 16, 2021 -- Day number 197 : 01486
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -249,6 +249,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,139,Gryphus_BBS,Nowra_AUS,Stephen_Arnold,-Unpublished-,300,CM,INA:gryphus.vk2sja.org,IBN,ITN:5632
 ,140,Subcarrier_BBS,Ottawa_CAN,John_McCoy,-Unpublished-,300,CM,INA:subcarrier.ignorelist.com,IBN,ITN:2323
 ,141,SiliconUnderground_BBS,Rochester_USA,Jason_Bock,-Unpublished-,300,CM,INA:siliconu.fsxnet.nz,IBN
+,142,TheViper_BBS,Fernley_USA,LLoyd_Fellon,-Unpublished-,300,CM,INA:theviperbbs.mywire.org,IBN
 ,144,Outremer_BBS,Vancouver_CAN,Pieter_Bakker,-Unpublished-,300,CM,INA:outremer.fsxnet.nz,IBN
 ,145,Mike's_Mansion_BBS,Portland_USA,Michael_Pierce,-Unpublished-,300,CM,INA:mansion.dynv6.net,IBN
 ,147,ACME_BBS,Albany_USA,Don_Lowery,-Unpublished-,300,CM,INA:acmebbs.ddns.net,IBN
@@ -288,7 +289,6 @@ Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,118,Stolas'_Library,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:stolas.ink,IBN:74554
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
-Down,121,ElGringo_BBS,Montreal_CAN,Yanick_McDonald,-Unpublished-,300,CM,INA:bbs.el-gringo.ca,IBN
 ,122,Final_Zone_BBS,Memphis_USA,Chris_Eldridge,-Unpublished-,300,CM,INA:finalzone.ddns.net,IBN
 ,123,Binary_Dreams_BBS,Little_Flock_USA,Vincent_Jacobs,-Unpublished-,300,CM,INA:binarydreamsbbs.ddns.net,IBN
 ,124,Coffee_House_BBS,Lisle_USA,Jeffrey_Bodenstein,-Unpublished-,300,CM,INA:bbs.coffeehousebbs.me,IBN
@@ -368,6 +368,7 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,158,Card_&_Claw_BBS,Berkely_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:cardandclaw.servebbs.com,IBN
 ,160,Brotherhood_of_Groovyness_BBS,Sioux_City_USA,John_Porterfield,-Unpublished-,300,CM,INA:b-o-g.net,IBN
 ,162,SlipStream_BBS,Oshawa_CAN,Scott_Styles,-Unpublished-,300,CM,INA:slipstreambbs.net,IBN
+,163,Jensencloud,Fresno_CA_USA,Pat_Jensen,-Unpublished-,300,CM,INA:jensencloud.net,IBN
 ,164,FuSiON_BBS,Deer_Park_USA,Chris_Schneider,-Unpublished-,300,CM,INA:fusion.zapto.org,IBN
 ,165,w0pr.win,Sparta_USA,Richard_Swartz,-Unpublished-,300,CM,INA:w0pr.win,IBN
 ,166,Black_Lodge_Research_BBS,Seattle_USA,Emory_Balmer,-Unpublished-,300,CM,INA:blacklodge.fsxnet.nz,IBN
