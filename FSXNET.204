@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 23, 2021 -- Day number 204 : 60353
+;A fsxNet Nodelist for Friday, July 23, 2021 -- Day number 204 : 30338
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -192,7 +192,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,218,KCM_BBS,Kautzen_AUT,Andreas_Zahrl,-Unpublished-,300,CM,INA:zahrl.ddns.net,IBN
 ,219,Radio_Freqs_&_Geeks_BBS,Albany_USA,Rich_Gattie,-Unpublished-,300,CM,INA:rfgeeksbbs.ddns.net,IBN
 ,220,swissIRC_BBS,Buchserstrasse_CHE,Alisha_Stutz,-Unpublished-,300,CM,INA:swissirc.fsxnet.nz,IBN:24555
-,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:twinklebbs.xyz,IBN
+Down,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:twinklebbs.xyz,IBN
 ,222,Tiny's_BBS_II,Oshawa_CAN,Shawn_Highfield,-Unpublished-,300,CM,INA:bbs.tinysbbs.com,IBN:24555
 ,223,OldComp_EU_BBS,Louny_CZE,Cerny_Eduard,-Unpublished-,300,CM,INA:bbs1.oldcomp.eu,IBN
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
@@ -355,7 +355,7 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,154,Diskshop_BBS,Toronto_CAN,Frank_Linhares,-Unpublished-,300,CM,INA:bbs.diskshop.ca,IBN
 ,156,The_Rock_BBS_III,Goshen_USA,Michael_Batts,-Unpublished-,300,CM,INA:therockbbs.net,IBN,ITN:10023
 ,157,LostCause_Halfway_House,Alden_USA,Ernest_Gainey,-Unpublished-,300,CM,INA:bbs.lostcause.house,IBN
-,158,Card_&_Claw_BBS,Berkely_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:cardandclaw.servebbs.com,IBN
+,158,The_Alpha_Complex,Berkely_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:alphacomplex.us,IBN,ITN:2323
 ,160,Brotherhood_of_Groovyness_BBS,Sioux_City_USA,John_Porterfield,-Unpublished-,300,CM,INA:b-o-g.net,IBN
 ,162,SlipStream_BBS,Oshawa_CAN,Scott_Styles,-Unpublished-,300,CM,INA:slipstreambbs.net,IBN
 ,163,Jensencloud,Fresno_CA_USA,Pat_Jensen,-Unpublished-,300,CM,INA:jensencloud.net,IBN
