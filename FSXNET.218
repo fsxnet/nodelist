@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 30, 2021 -- Day number 211 : 43641
+;A fsxNet Nodelist for Friday, August 6, 2021 -- Day number 218 : 18620
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -97,7 +97,7 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,117,Mystic_Dreams_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:mysticdreams.dyndns.org,IBN:24555,ITN:24
 ,118,Crystal_Peak_BBS,Pine_City_USA,Will_Du_Chene,-Unpublished-,300,CM,INA:crystalp.duckdns.org,IBN
 ,119,Sysgod_BBS,Sydney_AUS,Scott_Little,61-2-9727-7775,300,CM,XA,V32b,V34,V42b,VFC,INA:ftn.sysgod.org,IBN,ITN:60177,IFC,PING
-Pvt,120,Starbase_11_BBS,Mischelbach_DEU,Alexander_Knerlein,-Unpublished-,300
+,120,Starbase_11_BBS,Mischelbach_DEU,Alexander_Knerlein,-Unpublished-,300,CM,INA:starbase11.fsxnet.nz,IBN
 ,121,Xibalba_BBS,Salt_Lake_City_USA,Bryan_Ashby,-Unpublished-,300,CM,INA:xibalba.l33t.codes,IBN:54554,ITN:44510
 ,122,Necronomicon_BBS,New_Bedford_USA,Carlos_Roldan,-Unpublished-,300,CM,INA:necrobbs.ddns.net,IBN
 ,123,Thiaramus_Den,Brooklyn_USA,Roman_Litvinenko,-Unpublished-,300,CM,INA:thiaramus.fsxnet.nz,IBN
