@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 6, 2021 -- Day number 218 : 18620
+;A fsxNet Nodelist for Friday, August 6, 2021 -- Day number 218 : 33708
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -204,6 +204,9 @@ Down,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:t
 ,230,Lost_Underground_BBS,Wellington_NZL,Spiro_Harvey,-Unpublished-,300,CM,INA:lostunderground.org,IBN
 ,231,DelNet_BBS,New_Castle_USA,Don_Stratton,-Unpublished-,300,CM,INA:delnetbbs.ddns.net,IBN
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
+,233,The_Swamp_BBS,Rotterdam_NLD,Maurice_den_Braber,-Unpublished-,300,CM,INA:swamp.fsxnet.nz,IBN
+,234,Crewmate's_Test_Lab_BBS,Reno_County_USA,Mike_Edwards,-Unpublished-,300,CM,INA:testlab.fsxnet.nz,IBN
+,235,Fratm's_BBS,Santa_Rosa_USA,Steve_Johnson,-Unpublished-,300,CM,INA:bbs.fratm.com,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
