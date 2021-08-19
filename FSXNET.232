@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 13, 2021 -- Day number 225 : 63388
+;A fsxNet Nodelist for Friday, August 20, 2021 -- Day number 232 : 57894
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -279,7 +279,6 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,113,Pweck's_Retreat_BBS,Omaha_USA,Dean_Lodge,-Unpublished-,300,CM,INA:pwecksretreat.com,IBN
 Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,117,Radio_Mentor_BBS,Milwaukee_USA,Andre_Robitalle,-Unpublished-,300,CM,INA:bbs.k9zn.org,IBN
-,118,Stolas'_Library,Calgary_CAN,Alex_Spezowka,-Unpublished-,300,CM,INA:stolas.ink,IBN:74554
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,122,Final_Zone_BBS,Memphis_USA,Chris_Eldridge,-Unpublished-,300,CM,INA:finalzone.ddns.net,IBN
@@ -308,6 +307,7 @@ Pvt,144,flocks_BBS,Askania-Nova_UKR,Ruslan_Ivanyuk,-Unpublished-,300,IBN
 Pvt,147,FullSys_BBS,Ottawa_CAN,Steven_Paul,-Unpublished-,300,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
 ,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
+,150,Planet_Caravan,San_Antonio_USA,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
