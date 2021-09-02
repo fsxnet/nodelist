@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 27, 2021 -- Day number 239 : 22374
+;A fsxNet Nodelist for Friday, September 3, 2021 -- Day number 246 : 29187
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -165,7 +165,7 @@ Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,189,The_Virtual_Terminal_BBS,Belleville_USA,Joseph_Werle,-Unpublished-,300,CM,INA:bbs.kernelerror.com,IBN,ITN:10023
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
-,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
+,191,The_Ruins_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theruins.ddns.net,IBN:24555,ITN:9707
 ,192,Communication_Connection_BBS,Rochester_Hills_USA,Jeff_Squires,-Unpublished-,300,CM,INA:commconnbbs.net,IBN
 ,193,Darkstar_BBS,Vienna_AUT,Alexander_Winkler,-Unpublished-,300,CM,INA:darkstar.bmxjo.org,IBN:24556
 ,194,Diamond_Mine_Online_BBS,Fredericksburg_USA,David_Perrussel,-Unpublished-,300,CM,INA:bbs.dmine.net,IBN
@@ -309,6 +309,7 @@ Pvt,147,FullSys_BBS,Ottawa_CAN,Steven_Paul,-Unpublished-,300,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
 ,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
 ,150,Planet_Caravan,San_Antonio_USA,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
+,151,daytona_BB,Den_Haag,Henk_Hilgersum,-Unpublished-,300,CM,INA:94.209.184.72,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
