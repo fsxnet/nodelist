@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, September 3, 2021 -- Day number 246 : 29187
+;A fsxNet Nodelist for Friday, September 10, 2021 -- Day number 253 : 09618
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -309,7 +309,8 @@ Pvt,147,FullSys_BBS,Ottawa_CAN,Steven_Paul,-Unpublished-,300,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
 ,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
 ,150,Planet_Caravan,San_Antonio_USA,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
-,151,daytona_BB,Den_Haag,Henk_Hilgersum,-Unpublished-,300,CM,INA:94.209.184.72,IBN
+,151,daytona_BB,Den_Haag_NLD,Henk_Hilgersum,-Unpublished-,300,CM,INA:94.209.184.72,IBN
+,152,The_Pyrasaurus_Lair,Newmarket_AUS,Pyra_Drake,-Unpublished-,300,CM,INA:pyradrake.id.au,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
