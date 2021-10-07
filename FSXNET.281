@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, October 1, 2021 -- Day number 274 : 23898
+;A fsxNet Nodelist for Friday, October 8, 2021 -- Day number 281 : 26915
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -122,7 +122,7 @@ Pvt,139,bitHaven_BBS,Ontario_CAN,Jean-Francois_Joly,-Unpublished-,300
 ,143,The_Bridge_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:bridge.vkradio.com,IBN
 ,144,Brain_Patchwork_DX,Richmond_USA,Ozz_Nixon,-Unpublished-,300,CM,INA:exchangebbs.com,IBN
 ,145,Mystic_Pi_BBS,Nashua_USA,Brian_Wallace,-Unpublished-,300,CM,INA:bcw142.zapto.org,IBN:24556
-,146,Saturn's_Orbit_BBS,Rio_de_Janeiro_BRA,Flavio_Bessa,-Unpublished-,300,CM,INA:saturnsorbit.ddns.net,IBN
+Down,146,Saturn's_Orbit_BBS,Rio_de_Janeiro_BRA,Flavio_Bessa,-Unpublished-,300,CM,INA:saturnsorbit.ddns.net,IBN
 ,147,The_Comm's_Nut_BBS,Gagebrook_AUS,Danny_Moss,-Unpublished-,300,CM,INA:tcnbbs.fsxnet.nz,IBN
 ,148,Dark_Systems_BBS,Peterborough_CAN,Aaron_Grasswell,-Unpublished-,300,CM,INA:bbs.dsbbs.ca,IBN
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
@@ -143,7 +143,7 @@ Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
 ,166,Datanet_BBS,Melbourne_AUS,Steve_Ellis,-Unpublished-,300,CM,INA:datanetbbs.net,IBN
 ,167,Nitemare_Cafe_BBS,Cardington_USA,Rod_Barnhart,-Unpublished-,300,CM,INA:bbs.nitemarecafe.com,IBN,ITN:2002
-,168,Technically_BBS,Newmarket_CAN,Jason_Billingham,-Unpublished-,300,CM,INA:bbs.billingham.ca,IBN
+Down,168,Technically_BBS,Newmarket_CAN,Jason_Billingham,-Unpublished-,300,CM,INA:bbs.billingham.ca,IBN
 ,169,Sinner's_Haven_BBS,Dothan_USA,Karl_Kunc,-Unpublished-,300,CM,INA:bbs.sinnershaven.com,IBN
 ,170,Weather_Station_Mystic_BBS,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org
 Pvt,171,Modema_Tider_BBS,Gothenburg_SWE,Andreas_Selstam,-Unpublished-,300
@@ -279,7 +279,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,111,The_Unknown_Realm_BBS,Oshawa_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,112,Nightvault,Sacramento_USA,Fang_Castro,-Unpublished-,300,CM,INA:tos.synchronetbbs.org,IBN
 ,113,Pweck's_Retreat_BBS,Omaha_USA,Dean_Lodge,-Unpublished-,300,CM,INA:pwecksretreat.com,IBN
-Pvt,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
+Down,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,117,Radio_Mentor_BBS,Milwaukee_USA,Andre_Robitalle,-Unpublished-,300,CM,INA:bbs.k9zn.org,IBN
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
@@ -316,7 +316,7 @@ Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
 ,100,Niba_HUB,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
 ,101,Back_to_the_Future_BBS,Pennsylvania_USA,Bill_Simon,-Unpublished-,300,CM,INA:bttfbbs.com,IBN
-,102,Before_the_Web_BBS,Huntsville_USA,Dallas_Vinson,-Unpublished-,300,CM,INA:furmenservices.net,IBN:24551,ITN:23232
+,102,Legends_of_Yesteryear,Huntsville_USA,Dallas_Vinson,-Unpublished-,300,CM,INA:furmenservices.net,IBN:24555,ITN:23322
 ,103,The_Undermine,Calgary_CAN,Kostie_Muirhead,-Unpublished-,300,CM,INA:bbs.undermine.ca,IBN
 ,104,Herbies_BBS_II,Weil_am_Rhein_DEU,Thorsten_Herb,-Unpublished-,300,CM,INA:herbies-bbs.ddns.net,IBN
 ,105,Phoenix_BBS,Pawcatuck_USA,Andrew_Leary,-Unpublished-,300,CM,INA:phoenix.bnbbbs.net,IBN:24555,ITN:2323
