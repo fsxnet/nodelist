@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, October 8, 2021 -- Day number 281 : 26915
+;A fsxNet Nodelist for Friday, October 15, 2021 -- Day number 288 : 11784
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -140,7 +140,7 @@ Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,161,The_Search_BBS,Goshen_USA,Karl_Harris,-Unpublished-,300,CM,INA:searchbbs.fsxnet.nz,IBN,ITN:34123
 ,163,Dreamland_BBS,North_Hollywood_USA,Tony_Master,-Unpublished-,300,CM,INA:bbs.dreamlandbbs.org,IBN
 ,164,Electronic_Chicken_BBS,Toronto_CAN,Derek_Mullin,-Unpublished-,300,CM,INA:bbs.electronicchicken.com,IBN
-,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
+Down,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
 ,166,Datanet_BBS,Melbourne_AUS,Steve_Ellis,-Unpublished-,300,CM,INA:datanetbbs.net,IBN
 ,167,Nitemare_Cafe_BBS,Cardington_USA,Rod_Barnhart,-Unpublished-,300,CM,INA:bbs.nitemarecafe.com,IBN,ITN:2002
 Down,168,Technically_BBS,Newmarket_CAN,Jason_Billingham,-Unpublished-,300,CM,INA:bbs.billingham.ca,IBN
@@ -165,7 +165,7 @@ Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,189,The_Virtual_Terminal_BBS,Belleville_USA,Joseph_Werle,-Unpublished-,300,CM,INA:bbs.kernelerror.com,IBN,ITN:10023
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
-,191,The_Ruins_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theruins.ddns.net,IBN:24555,ITN:9707
+Down,191,The_Ruins_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theruins.ddns.net,IBN:24555,ITN:9707
 ,192,Communication_Connection_BBS,Rochester_Hills_USA,Jeff_Squires,-Unpublished-,300,CM,INA:commconnbbs.net,IBN
 ,193,Darkstar_BBS,Vienna_AUT,Alexander_Winkler,-Unpublished-,300,CM,INA:darkstar.bmxjo.org,IBN:24556
 ,194,Diamond_Mine_Online_BBS,Fredericksburg_USA,David_Perrussel,-Unpublished-,300,CM,INA:bbs.dmine.net,IBN
@@ -279,7 +279,6 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,111,The_Unknown_Realm_BBS,Oshawa_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,112,Nightvault,Sacramento_USA,Fang_Castro,-Unpublished-,300,CM,INA:tos.synchronetbbs.org,IBN
 ,113,Pweck's_Retreat_BBS,Omaha_USA,Dean_Lodge,-Unpublished-,300,CM,INA:pwecksretreat.com,IBN
-Down,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,117,Radio_Mentor_BBS,Milwaukee_USA,Andre_Robitalle,-Unpublished-,300,CM,INA:bbs.k9zn.org,IBN
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
@@ -305,9 +304,8 @@ Down,116,Farm_BBS,Nashville_USA,Scott_Bogantinoff,-Unpublished-,300,IBN
 ,143,Pedalion_BBS,Louisville_USA,Joe_Ferraro,-Unpublished-,300,CM,INA:bbs.pedalion.net,IBN
 ,145,Darkest_Hour_BBS,Maricopa_USA,Shawn_Rapp,-Unpublished-,300,CM,INA:dhbbs.org,IBN
 ,146,Lost_Worlds_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:bbs.lostworldsbbs.com,IBN
-Pvt,147,FullSys_BBS,Ottawa_CAN,Steven_Paul,-Unpublished-,300,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
-Hold,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
+,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
 ,150,Planet_Caravan,San_Antonio_USA,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
 ,151,daytona_BB,Den_Haag_NLD,Henk_Hilgersum,-Unpublished-,300,CM,INA:94.209.184.72,IBN
 ,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:mortalbbs.com,IBN
@@ -363,7 +361,7 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,151,CaNerDUH_BBS,Medicine_Hat_CAN,Travis_Mehrer,-Unpublished-,300,CM,INA:bbs.canerduh.com,ITN:23905
 ,152,Blackfair's_Manor_BBS,Lancaster_USA,Keith_Cunningham,-Unpublished-,300,CM,INA:blackf.synchro.net,IBN
 ,153,ARDA_BBS,Delaware_USA,Tim_Woodland,-Unpublished-,300,CM,INA:arda-bbs.com,IBN
-,154,Diskshop_BBS,Toronto_CAN,Frank_Linhares,-Unpublished-,300,CM,INA:bbs.diskshop.ca,IBN
+Down,154,Diskshop_BBS,Toronto_CAN,Frank_Linhares,-Unpublished-,300,CM,INA:bbs.diskshop.ca,IBN
 ,156,The_Rock_BBS_III,Goshen_USA,Michael_Batts,-Unpublished-,300,CM,INA:therockbbs.net,IBN,ITN:10023
 ,157,LostCause_Halfway_House,Alden_USA,Ernest_Gainey,-Unpublished-,300,CM,INA:bbs.lostcause.house,IBN
 ,158,The_Alpha_Complex,Berkely_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:alphacomplex.us,IBN,ITN:2323
