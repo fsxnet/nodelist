@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, October 29, 2021 -- Day number 302 : 16955
+;A fsxNet Nodelist for Friday, November 5, 2021 -- Day number 309 : 42562
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -127,6 +127,7 @@ Down,146,Saturn's_Orbit_BBS,Rio_de_Janeiro_BRA,Flavio_Bessa,-Unpublished-,300,CM
 ,148,Dark_Systems_BBS,Peterborough_CAN,Aaron_Grasswell,-Unpublished-,300,CM,INA:bbs.dsbbs.ca,IBN
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
 Pvt,150,Sotano_Msx_BBS,Ibiza_ESP,Pepe_Diaz,-Unpublished-,300
+,151,The_Grinning_Cat,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:gcat.talismanbbs.com,IBN
 ,152,2nd_Choice_Core_BBS,Ashburton_NZL,Ian_Segers,-Unpublished-,300,CM,INA:2ndchoicecore.nz,IBN:24555,ITN:1024
 Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,154,Raiders_Inc_BBS,Wichita_USA,Jon_Justvig,-Unpublished-,300,CM,INA:vintagebbsing.com,IBN
@@ -218,6 +219,7 @@ Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net
 ,105,The_New_Frontier_2_BBS,Akron_USA,Charles_Stephenson,-Unpublished-,300,CM,INA:frontierbbs.net,IBN:24556
 Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,108,Storm_BBS,Los_Altos_USA,April_Monoceros,-Unpublished-,300,CM,INA:telnet.stormbbs.com,IBN
+,109,Nexus_Computers_BBS,Gold_Coast_AUS,Manu_Ngamotu,-Unpublished-,300,CM,INA:bbs.nexuscomputers.com.au,IBN
 ,110,Ink_Two_BBS,Covina_USA,Lawrence_Manuel,-Unpublished-,300,CM,INA:bbs.inktwo.com,IBN
 ,111,Leisure_Time_BBS,New_Baden_USA,Robert_Riddell,-Unpublished-,300,CM,INA:bbs.riddells.net,IBN,ITN:10023
 ,113,Fishingnet_BBS,Toronto_CAN,Matthew_Smith,-Unpublished-,300,CM,INA:fishingnet.phatstar.org,IBN
@@ -289,7 +291,6 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,131,Black_Sun_BBS,Little_Rock_USA,Aaron_Clark,-Unpublished-,300,CM,INA:blacksunbbs.ddns.net,IBN
 ,132,Herp_Derp_BBS,Roodepoort_ZAF,Andrew_Lewis,-Unpublished-,300,CM,INA:herp.derp.org.org.za,IBN
 ,133,Slate_Hell_BBS,Mooresburg_USA,Anthony_Stump,-Unpublished-,300,CM,INA:msbgtn01.synchro.net,IBN
-,134,Westwood_BBS_II,King_George_USA,Mike_Newkirk,-Unpublished-,300,CM,INA:westwoodbbs.net,IBN
 ,135,Lunatics_Unleashed_BBS,Tonawanda_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,136,Mind's_Eye_BBS,Melbourne_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:mindseye.synchronetbbs.org,IBN
 ,137,Wicked_Garden_BBS,Burnside_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgonline.pw,IBN
@@ -307,6 +308,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,151,daytona_BB,Den_Haag_NLD,Henk_Hilgersum,-Unpublished-,300,CM,INA:94.209.184.72,IBN
 ,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:mortalbbs.com,IBN
 ,154,NerdPit,Beeville_USA,Joseph_Rugar,-Unpublished-,300,CM,INA:nerdpit.duckdns.org,IBN
+,155,ON2ON_BBS,Belgium,Luc_Bodson,-Unpublished-,300,CM,INA:on2on.fsxnet.nz,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
