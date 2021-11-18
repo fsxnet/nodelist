@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, November 12, 2021 -- Day number 316 : 38865
+;A fsxNet Nodelist for Friday, November 19, 2021 -- Day number 323 : 52952
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -284,7 +284,6 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,122,Final_Zone_BBS,Memphis_USA,Chris_Eldridge,-Unpublished-,300,CM,INA:finalzone.ddns.net,IBN
 ,123,Binary_Dreams_BBS,Little_Flock_USA,Vincent_Jacobs,-Unpublished-,300,CM,INA:binarydreamsbbs.ddns.net,IBN
-,124,Coffee_House_BBS,Lisle_USA,Jeffrey_Bodenstein,-Unpublished-,300,CM,INA:bbs.coffeehousebbs.me,IBN
 ,125,Inner_Realm,Charlotte_USA,Michael_Long,-Unpublished-,300,CM,INA:innerrealmbbs.us,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
@@ -311,6 +310,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,154,NerdPit,Beeville_USA,Joseph_Rugar,-Unpublished-,300,CM,INA:nerdpit.duckdns.org,IBN
 ,155,ON2ON_BBS,Belgium,Luc_Bodson,-Unpublished-,300,CM,INA:on2on.fsxnet.nz,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,CM,INA:bbs.deepdive.net,IBN
+Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
