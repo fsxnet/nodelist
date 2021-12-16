@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 10, 2021 -- Day number 344 : 57566
+;A fsxNet Nodelist for Friday, December 17, 2021 -- Day number 351 : 30487
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -165,7 +165,6 @@ Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
 Down,191,The_Ruins_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theruins.ddns.net,IBN:24555,ITN:9707
-,192,Communication_Connection_BBS,Rochester_Hills_USA,Jeff_Squires,-Unpublished-,300,CM,INA:commconnbbs.net,IBN
 ,193,Darkstar_BBS,Vienna_AUT,Alexander_Winkler,-Unpublished-,300,CM,INA:darkstar.bmxjo.org,IBN:24556
 ,194,Diamond_Mine_Online_BBS,Fredericksburg_USA,David_Perrussel,-Unpublished-,300,CM,INA:bbs.dmine.net,IBN
 ,195,Dragon's_Claw_HUB,Melbourne_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:ftn.vk3heg.net,IBN
@@ -345,6 +344,7 @@ Down,127,The_Oasis_BBS,Houston_USA,Charles_Pierson,-Unpublished-,300,CM,INA:theo
 ,132,Black_Flag,Hudson_FL_USA,Hawk_Hubbard,-Unpublished-,300,CM,INA:blackflag.acid.org,IBN:24557
 ,133,sbbs.dynu.net,Vienna_VA_USA,Phillip_Taylor,-Unpublished-,300,CM,INA:sbbs.dynu.net,IBN:2025
 ,134,Possum_Lodge_South_BBS,Frankfort_USA,Mike_Powell,-Unpublished-,300,CM,INA:possumso.fsxnet.nz,IBN:24555,ITN:7636
+,135,PiBBS,Ottawa_CAN,Shaun_Buzza,-Unpublished-,300,CM,INA:pibbs.sytes.net,IBN
 ,136,Total_Lost_BBS,Harnosand_SWE,Dennis_Eklund,-Unpublished-,300,CM,INA:bbs.deek.se,IBN
 ,137,8_Bit_Boyz_BBS,Rio_Rancho_USA,Shane_O'Neill,-Unpublished-,300,CM,INA:8bitboyz.bbs.io,ITN:6502
 ,138,CIA_Amiga_BBS,Mayflower_USA,Tim_Grooms,-Unpublished-,300,CM,INA:ciaamigabbs.dynu.net,IBN,ITN:6400
