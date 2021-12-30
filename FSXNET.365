@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 24, 2021 -- Day number 358 : 20676
+;A fsxNet Nodelist for Friday, December 31, 2021 -- Day number 365 : 48886
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2021
 ;A
@@ -133,7 +133,7 @@ Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,154,Raiders_Inc_BBS,Wichita_USA,Jon_Justvig,-Unpublished-,300,CM,INA:vintagebbsing.com,IBN
 ,155,Haciend_BBS,Helsinki_FIN,Antti_Kiuru,-Unpublished-,300,CM,INA:haciend.com,IBN
 ,156,Central_Ontario_Remote_BBS,Campbellford_CAN,Mike_Manning,-Unpublished-,300,CM,INA:oxfordmi.synchro.net,IBN
-,157,Shadowscope_BBS,Temple_USA,Richard_Miles,-Unpublished-,300,CM,INA:bbs.shadowscope.com,IBN
+Down,157,Shadowscope_BBS,Temple_USA,Richard_Miles,-Unpublished-,300,CM,INA:bbs.shadowscope.com,IBN
 ,158,The_Quantum_Wormhole_BBS,Ramsgate_GBR,Christian_Sacks,-Unpublished-,300,CM,INA:bbs.erb.pw,IBN
 ,159,The_GateHouse_BBS,Hockley_Valley_CAN,John_Riley,-Unpublished-,300,CM,INA:bbs.digitalgatehouse.com,IBN
 ,160,Slime_City_BBS,Ahus_SWE,David_Jacoby,-Unpublished-,300,CM,INA:bbs.retrohack.se,IBN
@@ -287,10 +287,8 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,125,Inner_Realm,Charlotte_USA,Michael_Long,-Unpublished-,300,CM,INA:innerrealmbbs.us,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
-,129,Red_Mud_BBS,Oaklahoma_City_USA,David_Snyder,-Unpublished-,300,CM,INA:bbs.redmudbbs.com,IBN
 ,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
 ,132,Herp_Derp_BBS,Roodepoort_ZAF,Andrew_Lewis,-Unpublished-,300,CM,INA:herp.derp.org.org.za,IBN
-,133,Slate_Hell_BBS,Mooresburg_USA,Anthony_Stump,-Unpublished-,300,CM,INA:msbgtn01.synchro.net,IBN
 ,135,Lunatics_Unleashed_BBS,Tonawanda_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,136,Mind's_Eye_BBS,Melbourne_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:mindseye.synchronetbbs.org,IBN
 ,137,Wicked_Garden_BBS,Burnside_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgonline.pw,IBN
@@ -300,7 +298,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,143,Pedalion_BBS,Louisville_USA,Joe_Ferraro,-Unpublished-,300,CM,INA:bbs.pedalion.net,IBN
-,145,Darkest_Hour_BBS,Maricopa_USA,Shawn_Rapp,-Unpublished-,300,CM,INA:dhbbs.org,IBN
+Down,145,Darkest_Hour_BBS,Maricopa_USA,Shawn_Rapp,-Unpublished-,300,CM,INA:dhbbs.org,IBN
 ,146,Lost_Worlds_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:bbs.lostworldsbbs.com,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
 ,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
@@ -379,6 +377,7 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,172,Dark_Forces_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:darkforcesbbs.dyndns.org,IBN:24558
 ,173,Hobby_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,DM,INA:hobby-bbs.com,IBN
 ,174,Exoplanet,Severna_Park_MD_USA,Shane_Wolfe,-Unpublished-,300,CM,INA:159.89.189.80,IBN
+,175,Mystic_Hobbies_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:mystic-hobbies.us IBN
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
