@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 28, 2022 -- Day number 028 : 13327
+;A fsxNet Nodelist for Friday, February 4, 2022 -- Day number 035 : 62300
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -126,7 +126,7 @@ Down,146,Saturn's_Orbit_BBS,Rio_de_Janeiro_BRA,Flavio_Bessa,-Unpublished-,300,CM
 ,148,Dark_Systems_BBS,Peterborough_CAN,Aaron_Grasswell,-Unpublished-,300,CM,INA:bbs.dsbbs.ca,IBN
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
 Pvt,150,Sotano_Msx_BBS,Ibiza_ESP,Pepe_Diaz,-Unpublished-,300
-,151,The_Grinning_Cat,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:gcat.talismanbbs.com,IBN
+Down,151,The_Grinning_Cat,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:gcat.talismanbbs.com,IBN
 ,152,2nd_Choice_Core_BBS,Ashburton_NZL,Ian_Segers,-Unpublished-,300,CM,INA:2ndchoicecore.nz,IBN:24555,ITN:1024
 Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,154,Raiders_Inc_BBS,Wichita_USA,Jon_Justvig,-Unpublished-,300,CM,INA:vintagebbsing.com,IBN
@@ -154,7 +154,7 @@ Pvt,171,Modema_Tider_BBS,Gothenburg_SWE,Andreas_Selstam,-Unpublished-,300
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
 Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
-,182,HappyLand_2.0,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:happylandbbs.com,IBN:25447
+Down,182,HappyLand_2.0,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:happylandbbs.com,IBN:25447
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
 ,185,Lightning_BBS,Spanish_Fork_USA,Steve_Helferich,-Unpublished-,300,CM,INA:lightningbbs.com,IBN,ITN:2400
@@ -370,7 +370,6 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,170,Amiga_Retro_Brisbane_BBS,Brisbane_AUS,Mark_Casteleign,-Unpublished-,300,CM,INA:www.amigaretro.com,IBN
 ,171,Star_Frontiers_BBS,Huntsville_USA,William_Williams,-Unpublished-,300,CM,INA:starfron.synchronetbbs.org,IBN
 ,172,Dark_Forces_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:darkforcesbbs.dyndns.org,IBN:24558
-,173,Hobby_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,DM,INA:hobby-bbs.com,IBN
 ,174,Exoplanet,Severna_Park_MD_USA,Shane_Wolfe,-Unpublished-,300,CM,INA:159.89.189.80,IBN
 ,175,Mystic_Hobbies_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:mystic-hobbies.us,IBN
 ;
