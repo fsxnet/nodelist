@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 11, 2022 -- Day number 042 : 24020
+;A fsxNet Nodelist for Friday, February 18, 2022 -- Day number 049 : 23209
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -121,7 +121,6 @@ Pvt,139,bitHaven_BBS,Ontario_CAN,Jean-Francois_Joly,-Unpublished-,300
 ,143,The_Bridge_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:bridge.vkradio.com,IBN
 ,144,Brain_Patchwork_DX,Richmond_USA,Ozz_Nixon,-Unpublished-,300,CM,INA:exchangebbs.com,IBN
 ,145,Mystic_Pi_BBS,Nashua_USA,Brian_Wallace,-Unpublished-,300,CM,INA:bcw142.zapto.org,IBN:24556
-Down,146,Saturn's_Orbit_BBS,Rio_de_Janeiro_BRA,Flavio_Bessa,-Unpublished-,300,CM,INA:saturnsorbit.ddns.net,IBN
 ,147,The_Comm's_Nut_BBS,Gagebrook_AUS,Danny_Moss,-Unpublished-,300,CM,INA:tcnbbs.fsxnet.nz,IBN
 ,148,Dark_Systems_BBS,Peterborough_CAN,Aaron_Grasswell,-Unpublished-,300,CM,INA:bbs.dsbbs.ca,IBN
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
@@ -184,7 +183,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,208,S_W_A_T_S_BBS,Auckland_NZL,Stephen_Hunt,-Unpublished-,300,CM,INA:swatsbbs.ddns.net,IBN:24556
 ,209,LU8FJH_BBS,Rosario_ARG,Juan_Musso,-Unpublished-,300,CM,INA:lu8fjh.dyndns.org,IBN
 ,212,SugarRush_BBS,Eugene_USA,Jonathon_Arnold,-Unpublished-,300,CM,INA:bbs.mrhatestheworld.com,IBN
-,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vortex.redirectme.net,IBN
+Down,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vortex.redirectme.net,IBN
 ,214,Midnight_Lounge_BBS,Panama_City_Beach_USA,Allie_Prather,-Unpublished-,300,CM,INA:lounge.mbl.social,IBN
 ,215,Project_Open_Gate_BBS,Houston_USA,Justin_Waymire,-Unpublished-,300,CM,INA:pog.fsxnet.nz,IBN
 ,216,Mystic_Realms_BBS,Woodstock_CAN,Jeff_Earle,-Unpublished-,300,CM,INA:mysticrealms.ddns.net,IBN
@@ -199,6 +198,7 @@ Down,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:t
 ,225,GameBlipsBBS,Milwaukee_USA,Fred_San_Juan,-Unpublished-,300,CM,INA:gameblipsbbs.tplinkdns.net,IBN
 ,226,Retro16_BBS,Melbourne_AUS,David_Florey,-Unpublished-,300,CM,INA:bbs.retro16.com,IBN
 ,227,Shipwrecks_&_Shibboleths_BBS,Marana_USA,Chris_Hizny,-Unpublished-,300,CM,INA:shibboleths.fsxnet.nz,IBN
+,228,Vienna_Matrix_BBS,Vienna_AUT,Alexander_Payer,-Unpublished-,300,CM,INA:sbbs.viennamatrix.at,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
 ,230,Lost_Underground_BBS,Wellington_NZL,Spiro_Harvey,-Unpublished-,300,CM,INA:lostunderground.org,IBN
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
@@ -267,7 +267,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
-Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsxnet.nz,IBN,ITN:60177
+Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsxnet.nz,IBN,ITN:60177,OBN:evmfq7ktwocdcsu2a5b75kp4amqr6iqd3xiaz2ornvzpp5qszwg2phyd
 ,100,Mutura_HUB/Linucus_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsxnet.nz,IBN,ITN:60177
 ,101,The_Lower_Planes_BBS,Melbourne_AUS,Anthony_Adverse,-Unpublished-,300,CM,INA:tlp.zapto.org,ITN:119
 ,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300,OBN:fidodofthclbumg4m76nfz4mzmyzxqtgzmai57lfjjojfuybcy4d4qyd
@@ -352,7 +352,7 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,141,ConstructiveChaos_BBS,Canton_OH_USA,Craig_Hendricks,-Unpublished-,300,CM,INA:conchaos.synchro.net,IBN
 ,142,Off_the_Wall,St_Peters_MO_USA,Robert_Stinnett,-Unpublished-,300,CM,INA:offthewall.dmxrob.net,IBN
 ,143,Eggy_BBS,Chicago_USA,Matt_Richards,-Unpublished-,300,CM,INA:eggy.fsxnet.nz,IBN,ITN:2300
-,144,Sonic_BBS,Beverley_GBR,Louis_Northmore,-Unpublished-,300,CM,INA:sonicbbs.ddns.net,IBN
+,144,Sonic_BBS,North_Yorkshire_GBR,Louis_Northmore,-Unpublished-,300,CM,INA:bbs.sonicbbs.co.uk,IBN
 ,145,TFSI,London_GBR,Nick_Young,-Unpublished-,300,CM,INA:tfsi.fsxnet.nz,IBN
 ,147,Aliens'_Alcove_BBS,Taguig_City_PHL,Eric_Pareja,-Unpublished-,300,CM,INA:aliens.free.net.ph,IBN
 ,148,Roon's_BBS,Budapest_HUN,Daniel_Path,-Unpublished-,300,CM,INA:bbs.studio64.hu,IBN,ITN:1212
