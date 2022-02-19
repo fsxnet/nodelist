@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 18, 2022 -- Day number 049 : 23209
+;A fsxNet Nodelist for Friday, February 25, 2022 -- Day number 056 : 11589
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -201,6 +201,7 @@ Down,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:t
 ,228,Vienna_Matrix_BBS,Vienna_AUT,Alexander_Payer,-Unpublished-,300,CM,INA:sbbs.viennamatrix.at,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
 ,230,Lost_Underground_BBS,Wellington_NZL,Spiro_Harvey,-Unpublished-,300,CM,INA:lostunderground.org,IBN
+,231,Southern_Comfort_BBS,Savannah_USA,Mike_Giddens,-Unpublished-,300,CM,INA:soco.bbs.io,IBN
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
 ,233,The_Swamp_BBS,Rotterdam_NLD,Maurice_den_Braber,-Unpublished-,300,CM,INA:swamp.fsxnet.nz,IBN
 ,234,Crewmate's_Test_Lab_BBS,Reno_County_USA,Mike_Edwards,-Unpublished-,300,CM,INA:testlab.fsxnet.nz,IBN
@@ -384,6 +385,7 @@ Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.
 ,102,TAK_Software_BBS,Murfreesboro_USA,Thomas_Kloos,-Unpublished-,300,CM,INA:bbs.taksoftware.com,IVM
 ,103,The_Computer_Express,Anoka_USA,Chris_Costakis,-Unpublished-,300,CM,INA:bbs.costakis.org,ITN:3141,IVM
 ,104,EMS_BBS,Anaheim_USA,Scott_Labrecque,-Unpublished-,300,CM,INA:ems-bbs.com,IVM
+,107,Cavan_Rural_Community_Wirless_Network,Cavan_IRL,Steve_Reader,-Unpublished-,300,CM,INA:86.47.50.239,IVM
 ;A
 ;A == Nodelist Flags ========================================================
 ;A
