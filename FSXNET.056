@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 25, 2022 -- Day number 056 : 11589
+;A fsxNet Nodelist for Friday, February 25, 2022 -- Day number 056 : 14487
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -191,7 +191,6 @@ Down,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vort
 ,218,KCM_BBS,Kautzen_AUT,Andreas_Zahrl,-Unpublished-,300,CM,INA:zahrl.ddns.net,IBN
 ,219,Radio_Freqs_&_Geeks_BBS,Albany_USA,Rich_Gattie,-Unpublished-,300,CM,INA:rfgeeksbbs.ddns.net,IBN
 ,220,swissIRC_BBS,Buchserstrasse_CHE,Alisha_Stutz,-Unpublished-,300,CM,INA:swissirc.fsxnet.nz,IBN:24555
-Down,221,Twinkle_BBS,Albuquerque_USA,Christopher_Malo,-Unpublished-,300,CM,INA:twinklebbs.xyz,IBN
 ,222,Tiny's_BBS_II,Oshawa_CAN,Shawn_Highfield,-Unpublished-,300,CM,INA:bbs.tinysbbs.com,IBN:24555
 ,223,OldComp_EU_BBS,Louny_CZE,Cerny_Eduard,-Unpublished-,300,CM,INA:bbs1.oldcomp.eu,IBN
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
@@ -249,6 +248,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,140,Subcarrier_BBS,Ottawa_CAN,John_McCoy,-Unpublished-,300,CM,INA:subcarrier.ignorelist.com,IBN,ITN:2323
 ,141,SiliconUnderground_BBS,Rochester_USA,Jason_Bock,-Unpublished-,300,CM,INA:siliconu.fsxnet.nz,IBN
 ,142,TheViper_BBS,Fernley_USA,LLoyd_Fellon,-Unpublished-,300,CM,INA:theviperbbs.mywire.org,IBN
+,143,Digicom_BBS,Evansville_USA,Gary_Barr,-Unpublished-,300,CM,INA:bbs.digicombbs.com,IBN
 ,144,Outremer_BBS,Vancouver_CAN,Pieter_Bakker,-Unpublished-,300,CM,INA:outremer.fsxnet.nz,IBN
 ,145,Mike's_Mansion_BBS,Portland_USA,Michael_Pierce,-Unpublished-,300,CM,INA:mansion.dynv6.net,IBN
 ,150,2o_fOr_beeRS_BBS,Portland_USA,Paul_Lee,-Unpublished-,300,CM,INA:20ForBeers.com,IBN
@@ -309,6 +309,8 @@ Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,159,The_Basement,Kamloops_CAN,Adam_Clark,-Unpublished-,300,CM,INA:basement.isurf.ca,IBN
 ,160,Online_World_BBS,Swanton_USA,Jason_Garneau,-Unpublished-,300,CM,INA:bbs.onlineworld.ninja,IBN
+,161,Itchy_Butt_BBS,King_George_USA,Michael_Newkirk,-Unpublished-,300,CM,INA:itchybutt.net,IBN
+,162,Drakefire_BBS,Palestine_USA,Jake_Parks,-Unpublished-,300,CM,INA:bbs.drakefire.com,IBN
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
