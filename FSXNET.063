@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 25, 2022 -- Day number 056 : 14487
+;A fsxNet Nodelist for Friday, March 4, 2022 -- Day number 063 : 07433
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -292,7 +292,6 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,136,Mind's_Eye_BBS,Melbourne_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:mindseye.synchronetbbs.org,IBN
 ,137,Wicked_Garden_BBS,Burnside_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgonline.pw,IBN
 ,138,Taliadon_BBS,South_Wales_GBR,Lee_Westlake,-Unpublished-,300,CM,INA:taliadon.ddns.net,IBN
-,139,The_Bat_Cave,Powell_USA,Minh_Nguyen,-Unpublished-,300,CM,INA:batcave.the-nguyens.net,IBN
 ,140,Ground_Central,Jacksonville_USA,Matthew_Blocker,-Unpublished-,300,CM,INA:gcbbs.duckdns.org,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
@@ -311,6 +310,8 @@ Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,160,Online_World_BBS,Swanton_USA,Jason_Garneau,-Unpublished-,300,CM,INA:bbs.onlineworld.ninja,IBN
 ,161,Itchy_Butt_BBS,King_George_USA,Michael_Newkirk,-Unpublished-,300,CM,INA:itchybutt.net,IBN
 ,162,Drakefire_BBS,Palestine_USA,Jake_Parks,-Unpublished-,300,CM,INA:bbs.drakefire.com,IBN
+,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
+,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
