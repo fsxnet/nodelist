@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 18, 2022 -- Day number 077 : 26623
+;A fsxNet Nodelist for Friday, March 25, 2022 -- Day number 084 : 47600
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -310,8 +310,7 @@ Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,160,Online_World_BBS,Swanton_USA,Jason_Garneau,-Unpublished-,300,CM,INA:bbs.onlineworld.ninja,IBN
 ,161,Itchy_Butt_BBS,King_George_USA,Michael_Newkirk,-Unpublished-,300,CM,INA:itchybutt.net,IBN
 ,162,Drakefire_BBS,Palestine_USA,Jake_Parks,-Unpublished-,300,CM,INA:bbs.drakefire.com,IBN
-;E ,163,Caught_in_a_Dream,Morrison_USA,Brian_Klauss,Unpublished-,300,CM,INA:caughtinadream.com,IBN
-;E  -- Invalid phone number -- 'Unpublished-'
+,163,Caught_in_a_Dream,Morrison_USA,Brian_Klauss,-Unpublished-,300,CM,INA:caughtinadream.com,IBN
 ,164,angstridden.net,Portland_USA,Steve_Layton,-Unpublished-,300,CM,INA:angstridden.net,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
