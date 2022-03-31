@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 25, 2022 -- Day number 084 : 47600
+;A fsxNet Nodelist for Friday, April 1, 2022 -- Day number 091 : 11001
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -385,6 +385,7 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,174,Exoplanet,Severna_Park_MD_USA,Shane_Wolfe,-Unpublished-,300,CM,INA:159.89.189.80,IBN
 ,175,Mystic_Hobbies_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:mystic-hobbies.us,IBN
 ,176,The_Hobby_Line!_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:hobbylinebbs.com,IBN
+,177,Alcoholiday,Columbia_SC_USA,Andy_Haworth,-Unpublished-,300,CM,INA:alco.bbs.io,IBN
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
