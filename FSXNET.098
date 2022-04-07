@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 8, 2022 -- Day number 098 : 11001
+;A fsxNet Nodelist for Friday, April 8, 2022 -- Day number 098 : 46862
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -313,6 +313,7 @@ Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,163,Caught_in_a_Dream,Morrison_USA,Brian_Klauss,-Unpublished-,300,CM,INA:caughtinadream.com,IBN
 ,164,angstridden.net,Portland_USA,Steve_Layton,-Unpublished-,300,CM,INA:angstridden.net,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
+,166,The_Ratrace_Losers,EL_Paso_USA,Chad_Douglas,-Unpublished-,300,CM,INA:bbs.theratracelosers.com,IBN
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
