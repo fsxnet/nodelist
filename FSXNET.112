@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 15, 2022 -- Day number 105 : 46862
+;A fsxNet Nodelist for Friday, April 22, 2022 -- Day number 112 : 40103
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -182,6 +182,8 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,207,The_Trading_Post_[SOUTH]_BBS,Columbia_USA,Craig_Dooley,-Unpublished-,300,CM,INA:ttps.dyndns.org,IBN
 ,208,S_W_A_T_S_BBS,Auckland_NZL,Stephen_Hunt,-Unpublished-,300,CM,INA:swatsbbs.ddns.net,IBN:24556
 ,209,LU8FJH_BBS,Rosario_ARG,Juan_Musso,-Unpublished-,300,CM,INA:lu8fjh.dyndns.org,IBN
+,210,Noverdu_BBS,South_Saint_Paul_USA,Jonah_Clausen,-Unpublished-,300,CM,INA:noverdu.com,IBN
+,211,NeedFul_Things_BBS,Lindsay_CAN,Michael_Dennison,-Unpublished-,300,CM,INA:needfulthings.ddns.net,IBN
 ,212,SugarRush_BBS,Eugene_USA,Jonathon_Arnold,-Unpublished-,300,CM,INA:bbs.mrhatestheworld.com,IBN
 Down,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vortex.redirectme.net,IBN
 ,214,Midnight_Lounge_BBS,Panama_City_Beach_USA,Allie_Prather,-Unpublished-,300,CM,INA:lounge.mbl.social,IBN
@@ -274,7 +276,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300,OBN:fidodofthclbumg4m76nfz4mzmyzxqtgzmai57lfjjojfuybcy4d4qyd
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
-,108,Buckeye_Telegraph,Buckeye_USA,Dean_Galloway,-Unpublished-,300,CM,INA:mailer.buckeyetelegraph.net,IBN
+Hold,108,Buckeye_Telegraph,Buckeye_USA,Dean_Galloway,-Unpublished-,300,CM,INA:mailer.buckeyetelegraph.net,IBN
 ,109,Manic_Modem_BBS,Union_USA,John_Cameron,-Unpublished-,300,CM,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms_BBS,Binbrook_CAN,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN
 ,111,The_Unknown_Realm_BBS,Oshawa_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
@@ -387,6 +389,9 @@ Pvt,140,Redshift_BBS,Dutton_CAN,Scott_Carter,-Unpublished-,300
 ,175,Mystic_Hobbies_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:mystic-hobbies.us,IBN
 ,176,The_Hobby_Line!_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:hobbylinebbs.com,IBN
 ,177,Alcoholiday,Columbia_SC_USA,Andy_Haworth,-Unpublished-,300,CM,INA:alco.bbs.io,IBN
+,178,Lost_In_Space_BBS,Lost_In_Space_USA,Sam_Penwright,-Unpublished-,300,CM,INA:bbs.lostinspace.com,IBN,ITN:2566
+,179,Moon_Base_Camp_BBS,South_Pole_Moon_USA,Sam_Penwright,-Unpublished-,300,CM,INA:bbs.moon-basecamp.com,IBN,ITN:2569
+,180,Mars_Base_Camp_BBS,South_Pole_Mars_USA,Sam_Penwright,-Unpublished-,300,CM,INA:bbs.marsbasecamp.com,IBN,ITN:2563
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
