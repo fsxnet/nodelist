@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 22, 2022 -- Day number 112 : 40103
+;A fsxNet Nodelist for Friday, April 29, 2022 -- Day number 119 : 57719
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -81,7 +81,6 @@ Host,1,fsxNet_(NET_1),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.f
 ,101,Agency_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,INA:ipv4.agency.bbs.nz,IBN:24555
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
 Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
-,104,Shenk's_Express_BBS,Virginia_Beach_USA,Carol_Shenkenberger,-Unpublished-,300,CM,INA:shenks.dyndns.org,IBN
 ,105,Fluph_BBS,Elkview_USA,Leslie_Given,-Unpublished-,300,CM,INA:fluph.zapto.org,IBN
 ,106,BlackICE_BBS,Duesseldorf_DEU,Vitus_Zeel,-Unpublished-,300,CM,INA:blackice.bbsindex.de,IBN
 ,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
@@ -140,6 +139,7 @@ Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,163,Dreamland_BBS,North_Hollywood_USA,Tony_Master,-Unpublished-,300,CM,INA:bbs.dreamlandbbs.org,IBN
 ,164,Electronic_Chicken_BBS,Toronto_CAN,Derek_Mullin,-Unpublished-,300,CM,INA:bbs.electronicchicken.com,IBN
 ,166,Datanet_BBS,Melbourne_AUS,Steve_Ellis,-Unpublished-,300,CM,INA:datanetbbs.net,IBN
+,167,Cyber_WHQ_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:whq.cyberbbs.com,IBN
 ,168,Technically_BBS,Newmarket_CAN,Jason_Billingham,-Unpublished-,300,CM,INA:bbs.billingham.ca,IBN
 ,169,Sinner's_Haven_BBS,Dothan_USA,Karl_Kunc,-Unpublished-,300,CM,INA:bbs.sinnershaven.com,IBN
 ,170,Weather_Station_Mystic_BBS,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org
