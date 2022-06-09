@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 3, 2022 -- Day number 154 : 52590
+;A fsxNet Nodelist for Friday, June 10, 2022 -- Day number 161 : 65306
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -104,10 +104,8 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,126,Al's_Geek_Lab_BBS,Wellington_NZL,Alistair_Ross,-Unpublished-,300,CM,INA:bbs.alsgeeklab.com,IBN,ITN:2323
 ,127,Capital_Station_BBS,Nassau_USA,Gregory_Deyss,-Unpublished-,300,CM,INA:csbbs.dyndns.org,IBN
 ,129,SpaceSST_BBS,Montreal_CAN,Luc_McCarragher,-Unpublished-,300,CM,INA:mccarragher.org,IBN
-,130,Tiny's_BBS,Oshawa_CAN,Shawn_Highfield,-Unpublished-,300,CM,INA:tinysbbs.com,IBN,ITN:3023
 ,131,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
 ,132,Weather_Station_WWIV_BBS,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN
-,133,The_Parity_Error_BBS,Kelowna_CAN,Ian_McLaughlin,-Unpublished-,300,CM,INA:theparityerror.com,IBN
 ,134,Mystic_Prison_Board_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:pbmystic.rdfig.net,IBN:24555,ITN:24
 ,136,The_Oracle_BBS,Pittsburgh_USA,Alex_Sardo,-Unpublished-,300,CM,INA:theoraclebbs.com,IBN
 ,137,Digital_Distortion_BBS,Hillsboro_USA,Eric_Oulashin,-Unpublished-,300,CM,INA:digdist.synchro.net,IBN
@@ -180,7 +178,6 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,209,LU8FJH_BBS,Rosario_ARG,Juan_Musso,-Unpublished-,300,CM,INA:lu8fjh.dyndns.org,IBN
 ,210,Noverdu_BBS,South_Saint_Paul_USA,Jonah_Clausen,-Unpublished-,300,CM,INA:noverdu.com,IBN
 ,211,NeedFul_Things_BBS,Lindsay_CAN,Michael_Dennison,-Unpublished-,300,CM,INA:needfulthings.ddns.net,IBN
-,212,SugarRush_BBS,Eugene_USA,Jonathon_Arnold,-Unpublished-,300,CM,INA:bbs.mrhatestheworld.com,IBN
 Down,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vortex.redirectme.net,IBN
 ,214,Midnight_Lounge_BBS,Panama_City_Beach_USA,Allie_Prather,-Unpublished-,300,CM,INA:lounge.mbl.social,IBN
 ,215,Project_Open_Gate_BBS,Houston_USA,Justin_Waymire,-Unpublished-,300,CM,INA:pog.fsxnet.nz,IBN
@@ -384,6 +381,7 @@ Down,166,Black_Lodge_Research_BBS,Seattle_USA,Emory_Balmer,-Unpublished-,300,CM,
 ,179,Moon_Base_Camp_BBS,Crystal_River_FL_USA,Sam_Penwright,-Unpublished-,300,CM,INA:bbs.moon-basecamp.com,IBN,ITN:2569
 ,180,Mars_Base_Camp_BBS,Crystal_River_FL_USA,Sam_Penwright,-Unpublished-,300,CM,INA:bbs.marsbasecamp.com,IBN,ITN:2563
 ,181,Planet_Afr0,Virginia_Beach_VA_USA,Jason_Reznor,-Unpublished-,300,CM,INA:planetafr0.org,IBN:54554
+,182,RedFrog_BBS,Tallinn_EST,Ergo_Paalman,-Unpublished-,300,CM,INA:redfrog.duckdns.org,IBN,ITN:667
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
