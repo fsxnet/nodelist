@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 17, 2022 -- Day number 168 : 65306
+;A fsxNet Nodelist for Friday, June 24, 2022 -- Day number 175 : 41109
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -304,6 +304,9 @@ Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,166,The_Ratrace_Losers,EL_Paso_USA,Chad_Douglas,-Unpublished-,300,CM,INA:bbs.theratracelosers.com,IBN
 ,167,VETBBS,Verbena_USA,Mike_Welborn,-Unpublished-,300,CM,INA:0.tcp.ngrok.io,IBN
 ,168,ReTR0aKTiV,Greensboro_USA,Rob_Koliha,-Unpublished-,300,CM,INA:retr0aktiv.com,IBN
+,169,TassieBob_BBS,Tasmania_AUS,Bob_Purdon,-Unpublished-,300,CM,INA:bbs.tassiebob.com,IBN
+,170,RVs_and_RPGs_BBS,Phoenix_USA,Jeff_Brissette,-Unpublished-,300,CM,INA:bbs.rvsandrpgs.com,IBN
+,171,STar_Fleet_HQ,Cuyahoga_Falls_USA,Andrew_Klenotic,-Unpublished-,300,CM,INA:bbs.sfhqbbs.org,ITN:5983
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
