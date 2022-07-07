@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 1, 2022 -- Day number 182 : 41109
+;A fsxNet Nodelist for Friday, July 8, 2022 -- Day number 189 : 11644
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -121,7 +121,6 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
 Pvt,150,Sotano_Msx_BBS,Ibiza_ESP,Pepe_Diaz,-Unpublished-,300
 ,152,2nd_Choice_Core_BBS,Ashburton_NZL,Ian_Segers,-Unpublished-,300,CM,INA:2ndchoicecore.nz,IBN:24555,ITN:1024
-Pvt,153,Infoline_BBS,Prague_CZE,Mickolas_Pansky,-Unpublished-,300
 ,154,Raiders_Inc_BBS,Wichita_USA,Jon_Justvig,-Unpublished-,300,CM,INA:vintagebbsing.com,IBN
 ,155,Haciend_BBS,Helsinki_FIN,Antti_Kiuru,-Unpublished-,300,CM,INA:haciend.com,IBN
 ,156,Central_Ontario_Remote_BBS,Campbellford_CAN,Mike_Manning,-Unpublished-,300,CM,INA:oxfordmi.synchro.net,IBN
@@ -149,6 +148,7 @@ Down,177,Nephilim_BBS,Shoham_ISR,David_Abutbul,-Unpublished-,300,CM,INA:nephilim
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
 Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
+,182,Positronic_Brain_BBS,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:positronicbrain.net,IBN
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
 ,185,Lightning_BBS,Spanish_Fork_USA,Steve_Helferich,-Unpublished-,300,CM,INA:lightningbbs.com,IBN,ITN:2400
@@ -210,6 +210,7 @@ Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net
 ,104,Vger_Cloud_BBS,Torrance_USA,Bradley_Thornton,-Unpublished-,300,CM,INA:vger.fsxnet.nz,IBN
 ,105,The_New_Frontier_2_BBS,Akron_USA,Charles_Stephenson,-Unpublished-,300,CM,INA:frontierbbs.net,IBN:24556
 Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
+,107,Ed's_Place_BBS,Dunedin_USA,Edwin_Wentworth,-Unpublished-,300,CM,INA:bbs.ew3host.com,IBN
 ,108,Storm_BBS,Los_Altos_USA,April_Monoceros,-Unpublished-,300,CM,INA:telnet.stormbbs.com,IBN
 ,110,Ink_Two_BBS,Covina_USA,Lawrence_Manuel,-Unpublished-,300,CM,INA:bbs.inktwo.com,IBN
 ,111,Leisure_Time_BBS,New_Baden_USA,Robert_Riddell,-Unpublished-,300,CM,INA:bbs.riddells.net,IBN,ITN:10023
@@ -293,11 +294,10 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:mortalbbs.com,IBN
 ,154,NerdPit,Beeville_USA,Joseph_Rugar,-Unpublished-,300,CM,INA:nerdpit.duckdns.org,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,CM,INA:bbs.deepdive.net,IBN
-Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
+Down,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,159,The_Basement,Kamloops_CAN,Adam_Clark,-Unpublished-,300,CM,INA:basement.isurf.ca,IBN
 ,160,Online_World_BBS,Swanton_USA,Jason_Garneau,-Unpublished-,300,CM,INA:bbs.onlineworld.ninja,IBN
-,161,Itchy_Butt_BBS,King_George_USA,Michael_Newkirk,-Unpublished-,300,CM,INA:itchybutt.net,IBN
 ,163,42bytes,Morrison_USA,Brian_Klauss,-Unpublished-,300,CM,INA:42bytes.net,IBN
 ,164,angstridden.net,Portland_USA,Steve_Layton,-Unpublished-,300,CM,INA:angstridden.net,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
@@ -307,6 +307,7 @@ Pvt,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,169,TassieBob_BBS,Tasmania_AUS,Bob_Purdon,-Unpublished-,300,CM,INA:bbs.tassiebob.com,IBN
 ,170,RVs_and_RPGs_BBS,Phoenix_USA,Jeff_Brissette,-Unpublished-,300,CM,INA:bbs.rvsandrpgs.com,IBN
 ,171,STar_Fleet_HQ,Cuyahoga_Falls_USA,Andrew_Klenotic,-Unpublished-,300,CM,INA:bbs.sfhqbbs.org,ITN:5983
+,172,d0p3.intersrv.net,Melbourne_AUS,Nicholas_Brennan,-Unpublished-,300,CM,INA:d0p3.intersrv.net,IBN
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
