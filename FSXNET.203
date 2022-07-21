@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 15, 2022 -- Day number 196 : 37326
+;A fsxNet Nodelist for Friday, July 22, 2022 -- Day number 203 : 11696
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -212,6 +212,7 @@ Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net
 Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,107,Ed's_Place_BBS,Dunedin_USA,Edwin_Wentworth,-Unpublished-,300,CM,INA:bbs.ew3host.com,IBN
 ,108,Storm_BBS,Los_Altos_USA,April_Monoceros,-Unpublished-,300,CM,INA:telnet.stormbbs.com,IBN
+,109,ByteBarn_BBS,Sernow_GER,Markus_Maussner,-Unpublished-,300,CM,INA:bbs.bytebarn.de,IBN
 ,110,Ink_Two_BBS,Covina_USA,Lawrence_Manuel,-Unpublished-,300,CM,INA:bbs.inktwo.com,IBN
 ,111,Leisure_Time_BBS,New_Baden_USA,Robert_Riddell,-Unpublished-,300,CM,INA:bbs.riddells.net,IBN,ITN:10023
 ,112,Thunder_BBS,Danielsville_USA,Jay_Wheeler,-Unpublished-,300,CM,INA:thunderbss.ringet.org,IBN
@@ -220,12 +221,14 @@ Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,115,Mystic_Rhythms_BBS,San_Francisco_USA,Rob_Cole,-Unpublished-,300,CM,INA:mystic.wwivbbs.org,IBN
 ,116,Chinwag_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:alterant.leenooks.net,IBN:24564
 ,118,Halls_of_Valhalla_BBS,San_Francisco_USA,Morgan_Collins,-Unpublished-,300,CM,INA:hoval.synchro.net,IBN:24553
+,119,The_Other_Realm_BBS,Garland_USA,Lawrence_Stockman,-Unpublished-,300,CM,INA:theotherrealmbbs.com,IBN
 ,122,Battlestar_III_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestar3.dyndns.org,IBN
 ,123,Deadbeatz_BBS,Albuquerque_USA,Tim_Blada,-Unpublished-,300,CM,INA:deadbeatz.org,IBN
 Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
+,125,Kumpute_BBS,Kamloops_CAN,Madison_Brooks,-Unpublished-,300,CM,INA:bbs.kumpute.org,IBN
 ,126,Rust_Belt_BBS,Rochester_USA,Kevin_Miller,-Unpublished-,300,CM,INA:rbbbs.mtonetwork.com,IBN:24555
 ,127,Battlestar_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestarbbs.dyndns.org,IBN
-,128,SeeLive's_Rusty_Hedgehog_BBS,Bristol_USA,Clive_Reuben,-Unpublished-,300,CM,INA:rustyhedgehog.dynv6.net,IBN
+,128,oNyX_BBS,Bristol_USA,Clive_Reuben,-Unpublished-,300,CM,INA:onyxbbs.mywire.org,IBN
 ,129,Risky_Business_BBS,Sudbury_CAN,Roger_Ouimette,-Unpublished-,300,CM,INA:riskybusiness.hopto.org,IBN
 ,130,Delta_City_BBS,Vallentuna_SWE,Joacim_Melin,-Unpublished-,300,CM,INA:deltacity.fsxnet.nz,IBN:24556
 ,131,Orbit_BBS,Opp_USA,Allen_Scofield,-Unpublished-,300,CM,INA:orbitbbs.ddns.net,IBN
