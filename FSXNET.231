@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 12, 2022 -- Day number 224 : 04986
+;A fsxNet Nodelist for Friday, August 19, 2022 -- Day number 231 : 34301
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -322,7 +322,7 @@ Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
 ,103,The_Undermine,Calgary_CAN,Kostie_Muirhead,-Unpublished-,300,CM,INA:bbs.undermine.ca,IBN
 Down,104,Herbies_BBS_II,Weil_am_Rhein_DEU,Thorsten_Herb,-Unpublished-,300,CM,INA:herbies-bbs.ddns.net,IBN
 ,105,Phoenix_BBS,Pawcatuck_USA,Andrew_Leary,-Unpublished-,300,CM,INA:phoenix.bnbbbs.net,IBN:24555,ITN:2323
-,106,The_Rusty_Mailbox_BBS,Penticton_CAN,Alan_Ianson,-Unpublished-,300,CM,XW,INA:trmb.synchro.net,IBN
+,106,The_Rusty_Mailbox_BBS,Penticton_CAN,Alan_Ianson,-Unpublished-,300,CM,XW,INA:trmb.ca,IBN
 Down,107,Carnage!,Unionville_CT_USA,Brian_Rogers,-Unpublished-,300,CM,INA:44.88.0.9,ITN:2300
 ,108,Inland_Utopia,Ontario_USA,Matthew_Munson,-Unpublished-,300,CM,INA:iutopia.duckdns.org,IBN
 ,109,9640_News_BBS,Campbellsburg_USA,Beery_Miller,-Unpublished-,300,CM,INA:9640news.ddns.net,IBN,ITN:9640
@@ -361,7 +361,8 @@ Down,142,Off_the_Wall,St_Peters_MO_USA,Robert_Stinnett,-Unpublished-,300,CM,INA:
 ,145,TFSI,London_GBR,Nick_Young,-Unpublished-,300,CM,INA:tfsi.fsxnet.nz,IBN
 ,146,GGNETBBS,Rome_ITA,Maurizio_Dionisi,-Unpublished-,300,CM,INA:mulettotim.ddns.net,IBN
 ,147,Aliens'_Alcove_BBS,Taguig_City_PHL,Eric_Pareja,-Unpublished-,300,CM,INA:aliens.free.net.ph,IBN
-,148,Roon's_BBS,Budapest_HUN,Daniel_Path,-Unpublished-,300,CM,INA:bbs.studio64.hu,IBN,ITN:1212
+;E ,148,Roon's_BBS,Budapest_HUN,Daniel_Path,+3614454412,300,CM,INA:bbs.studio64.hu,IBN,ITN:1212
+;E  -- Invalid phone number -- '+3614454412'
 ,149,UAT_SOC,Mesa_AZ_USA,Aaron_Jones,-Unpublished-,300,CM,INA:UATSOC.fsxnet.nz,IBN
 ,151,CaNerDUH_BBS,Medicine_Hat_CAN,Travis_Mehrer,-Unpublished-,300,CM,INA:bbs.canerduh.com,ITN:23905
 ,152,Blackfair's_Manor_BBS,Lancaster_USA,Keith_Cunningham,-Unpublished-,300,CM,INA:blackf.synchro.net,IBN
