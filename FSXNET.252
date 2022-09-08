@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, September 2, 2022 -- Day number 245 : 34301
+;A fsxNet Nodelist for Friday, September 9, 2022 -- Day number 252 : 49564
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -148,7 +148,7 @@ Down,177,Nephilim_BBS,Shoham_ISR,David_Abutbul,-Unpublished-,300,CM,INA:nephilim
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
 Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
-,182,Positronic_Brain_BBS,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:positronicbrain.net,IBN
+,182,Smuggler's_Cove_BBS,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:scove.talismanbbs.com,IBN
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
 ,185,Lightning_BBS,Spanish_Fork_USA,Steve_Helferich,-Unpublished-,300,CM,INA:lightningbbs.com,IBN,ITN:2400
@@ -303,7 +303,7 @@ Down,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,160,Online_World_BBS,Swanton_USA,Jason_Garneau,-Unpublished-,300,CM,INA:bbs.onlineworld.ninja,IBN
 ,163,42bytes,Morrison_USA,Brian_Klauss,-Unpublished-,300,CM,INA:42bytes.net,IBN
 ,164,angstridden.net,Portland_USA,Steve_Layton,-Unpublished-,300,CM,INA:angstridden.net,IBN
-,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
+,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theundergroundbbs.ddns.net,IBN,ITN:10023
 ,166,The_Ratrace_Losers,EL_Paso_USA,Chad_Douglas,-Unpublished-,300,CM,INA:bbs.theratracelosers.com,IBN
 ,167,VETBBS,Verbena_USA,Mike_Welborn,-Unpublished-,300,CM,INA:0.tcp.ngrok.io,IBN
 ,168,ReTR0aKTiV,Greensboro_USA,Rob_Koliha,-Unpublished-,300,CM,INA:retr0aktiv.com,IBN
@@ -312,7 +312,7 @@ Down,157,Paranormal_Panorama_BBS,Hull_GBR,Owen_Evers,-Unpublished-,300
 ,171,STar_Fleet_HQ,Cuyahoga_Falls_USA,Andrew_Klenotic,-Unpublished-,300,CM,INA:bbs.sfhqbbs.org,ITN:5983
 ,172,d0p3.intersrv.net,Melbourne_AUS,Nicholas_Brennan,-Unpublished-,300,CM,INA:d0p3.intersrv.net,IBN
 ,173,Step_to_the_Left,Sydney_AUS,Jared_Quinn,-Unpublished-,300,CM,INA:bbs.vk2way.id.au,IBN
-,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN:24555,ITN:9707
+,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theundergroundbbs.ddns.net,IBN:24555,ITN:9707
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
