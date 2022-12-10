@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 9, 2022 -- Day number 343 : 08859
+;A fsxNet Nodelist for Friday, December 16, 2022 -- Day number 350 : 23979
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2022
 ;A
@@ -110,7 +110,10 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,130,The_Unmarked_Van_BBS,Mt_Healthy_USA,Dave_Scott,-Unpublished-,300,CM,INA:unmarkedvan.fsxnet.nz,IBN
 ,131,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
 ,132,Weather_Station_WWIV_BBS,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN
+,133,Blacklight_Underground_BBS,West_Barnstable_USA,Jim_Haight,-Unpublished-,300,CM,INA:majicka.at2k.org,IBN
 ,134,Mystic_Prison_Board_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:pbmystic.rdfig.net,IBN:24555,ITN:24
+,135,Brokedown_Palace_Reprise_BBS,Pleasanton_USA,Steven_Southworth,-Unpublished-,300,CM,INA:palace.brokedownpalace.online,IBN
+,136,N4TDX_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:n4tdx.ddns.net,IBN
 ,137,Digital_Distortion_BBS,Hillsboro_USA,Eric_Oulashin,-Unpublished-,300,CM,INA:digdist.synchro.net,IBN
 ,138,Electronic_Warfare_BBS,Vincennes_USA,Nicholas_Loch,-Unpublished-,300,CM,INA:bbs.ewbbs.net,IBN
 ,140,Daves_BBS,Marbury_USA,David_Smith,-Unpublished-,300,CM,INA:davesbbs.com,IBN
