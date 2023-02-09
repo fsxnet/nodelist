@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 3, 2023 -- Day number 034 : 29361
+;A fsxNet Nodelist for Friday, February 10, 2023 -- Day number 041 : 39871
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -232,7 +232,7 @@ Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,113,Fishingnet_BBS,Toronto_CAN,Matthew_Smith,-Unpublished-,300,CM,INA:fishingnet.phatstar.org,IBN
 ,114,Freeside_BBS,Monroe_USA,Marty_Taylor,-Unpublished-,300,CM,INA:freeside.bbs.io,IBN
 ,115,Mystic_Rhythms_BBS,San_Francisco_USA,Rob_Cole,-Unpublished-,300,CM,INA:mystic.wwivbbs.org,IBN
-,116,Chinwag_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:alterant.leenooks.net,IBN:24564
+,116,Chinwag_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:alterant.bbs.dege.au,IBN:24564
 ,118,Halls_of_Valhalla_BBS,San_Francisco_USA,Morgan_Collins,-Unpublished-,300,CM,INA:hoval.synchro.net,IBN:24553
 ,119,The_Other_Realm_BBS,Garland_USA,Lawrence_Stockman,-Unpublished-,300,CM,INA:theotherrealmbbs.com,IBN
 ,122,Battlestar_III_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestar3.dyndns.org,IBN
@@ -319,6 +319,8 @@ Down,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:mortalbbs.co
 ,172,d0p3.intersrv.net,Melbourne_AUS,Nicholas_Brennan,-Unpublished-,300,CM,INA:d0p3.intersrv.net,IBN
 ,173,Step_to_the_Left,Sydney_AUS,Jared_Quinn,-Unpublished-,300,CM,INA:bbs.vk2way.id.au,IBN
 ,174,Made_to_Raid_BBS,Griswold_USA,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
+Pvt,175,One_Ring_BBS,Markle_USA,Dylan_McIntosh,-Unpublished-,300
+,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,2744,Clrghouz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:clrghouz.bbs.dege.au,IBN:24584,ITN:60789
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
