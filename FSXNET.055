@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 17, 2023 -- Day number 048 : 39871
+;A fsxNet Nodelist for Friday, February 24, 2023 -- Day number 055 : 58021
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -379,6 +379,7 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,182,RedFrog_BBS,Tallinn_EST,Ergo_Paalman,-Unpublished-,300,CM,INA:redfrog.duckdns.org,IBN,ITN:667
 ,183,REACT-BBS,Tortoreto_ITA,Nicola_Mettimano,-Unpublished-,300,CM,INA:react-bbs.nikoh.it
 ,184,WarpeD_SocieTy,Griswold_CT_USA,Allen_Mitchell,-Unpublished-,300,CM,INA:73.238.86.237
+,185,Slinkys_Place,Phenix_City_AL_USA,Steven_Bennett,-Unpublished-,300,CM,INA:slinkybbs.com,IBN
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
