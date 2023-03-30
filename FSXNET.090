@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 24, 2023 -- Day number 083 : 45692
+;A fsxNet Nodelist for Friday, March 31, 2023 -- Day number 090 : 10627
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -276,7 +276,7 @@ Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
 Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsxnet.nz,IBN,ITN:60177,OBN:evmfq7ktwocdcsu2a5b75kp4amqr6iqd3xiaz2ornvzpp5qszwg2phyd
 ,100,Mutura_HUB/Linucus_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsxnet.nz,IBN,ITN:60177,OBN:evmfq7ktwocdcsu2a5b75kp4amqr6iqd3xiaz2ornvzpp5qszwg2phyd
-Hold,101,The_Lower_Planes_BBS,Melbourne_AUS,Anthony_Adverse,-Unpublished-,300,CM,INA:tlp.zapto.org,ITN:119
+,101,The_Lower_Planes_BBS,Melbourne_AUS,Anthony_Adverse,-Unpublished-,300,CM,INA:tlp.zapto.org,ITN:119
 ,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300,OBN:fidodofthclbumg4m76nfz4mzmyzxqtgzmai57lfjjojfuybcy4d4qyd
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
