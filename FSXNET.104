@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 7, 2023 -- Day number 097 : 52126
+;A fsxNet Nodelist for Friday, April 14, 2023 -- Day number 104 : 44239
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -161,6 +161,7 @@ Pvt,180,Cold_War_Computing_BBS,Pflugerville_USA,Jeff_Thiele,-Unpublished-,300
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
 ,185,Lightning_BBS,Spanish_Fork_USA,Steve_Helferich,-Unpublished-,300,CM,INA:lightningbbs.com,IBN,ITN:2400
 ,186,Castle_Rock_BBS,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300,CM,INA:bbs.castlerockbbs.com,IBN
+,187,CrNet_BBS,Saint_James_USA,John_Gonzales,-Unpublished-,300,CM,INA:bbs.crnet.net,IBN
 Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,189,Extricate_BBS,Godalming_GBR,Tristan_Greaves,-Unpublished-,300,CM,INA:bbs.extricate.org,IBN
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
@@ -256,6 +257,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,142,TheViper_BBS,Fernley_USA,LLoyd_Fellon,-Unpublished-,300,CM,INA:theviperbbs.mywire.org,IBN
 ,143,Digicom_BBS,Evansville_USA,Gary_Barr,-Unpublished-,300,CM,INA:bbs.digicombbs.com,IBN
 ,144,Outremer_BBS,Vancouver_CAN,Pieter_Bakker,-Unpublished-,300,CM,INA:outremer.fsxnet.nz,IBN
+,145,WalledCTTY_BBS,Fort_Collins_USA,Thom_Miller,-Unpublished-,300,CM,INA:bbs.walledctty.com,IBN
 ,146,Hold_Fast!_BBS,Ottawa_CAN,Paul_Lopez,-Unpublished-,300,CM,INA:mansion.dynv6.net,IBN
 ,147,Altair_IV_BBS,Lufkin_USA,Scott_Daniels,-Unpublished-,300,CM,INA:altairiv.ddns.net,IBN
 ,148,Shurato's_Heavenly_Sphere_BBS,Boise_USA,Martin_Kazmaier,-Unpublished-,300,CM,INA:shsbbs.ddns.net,IBN
@@ -324,8 +326,9 @@ Down,146,Lost_Worlds_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:bbs.los
 Pvt,175,One_Ring_BBS,Markle_USA,Dylan_McIntosh,-Unpublished-,300
 ,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,177,Kludge_BBS,Chicago_USA,Joshua_Stein,-Unpublished-,300,CM,INA:klud.ge,IBN
-,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:qix.diller.org,IBN
+,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
 ,179,Third_Rock_BBS,Newcastle_AUS,Michael_Borthwick,-Unpublished-,300,CM,INA:bbs.thirdrockbbs.au,IBN
+,180,Lost_Reality_BBS,Newcastle_AUS,Michael_Borthwick,-Unpublished-,300,CM,INA:bbs.lostrealitybbs.au:24555,IBN
 ,2744,Clrghouz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:clrghouz.bbs.dege.au,IBN:24584,ITN:60789
 ;
 Host,4,fsxNet_(NET_4),Rio_Rancho_NM_USA,Dan_Richter,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
@@ -385,6 +388,7 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,183,REACT-BBS,Tortoreto_ITA,Nicola_Mettimano,-Unpublished-,300,CM,INA:react-bbs.nikoh.it
 ,184,WarpeD_SocieTy,Griswold_CT_USA,Allen_Mitchell,-Unpublished-,300,CM,INA:73.238.86.237
 ,185,Slinkys_Place,Phenix_City_AL_USA,Steven_Bennett,-Unpublished-,300,CM,INA:slinkybbs.com,IBN
+,186,Excelsior_BBS,Silkeborg_DK,Michael_Christoffersen,-Unpublished-,300,CM,INA:awesome.fredslev.net,IBN,ITN:6969
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
@@ -393,7 +397,6 @@ Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.
 ,103,The_Computer_Express,Anoka_USA,Chris_Costakis,-Unpublished-,300,CM,INA:bbs.costakis.org,ITN:3141,IVM
 ,104,EMS_BBS,Anaheim_USA,Scott_Labrecque,-Unpublished-,300,CM,INA:ems-bbs.com,IVM
 ,107,Cavan_Rural_Community_Wirless_Network,Cavan_IRL,Steve_Reader,-Unpublished-,300,CM,INA:86.47.50.239,IVM
-,108,CrNet_BBS,Saint_James_USA,John_Gonzales,-Unpublished-,300,CM,INA:bbs.crnet.net,IVM
 ;A
 ;A == Nodelist Flags ========================================================
 ;A
