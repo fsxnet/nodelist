@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 23, 2023 -- Day number 174 : 06725
+;A fsxNet Nodelist for Friday, June 30, 2023 -- Day number 181 : 15519
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -306,10 +306,8 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,177,Kludge_BBS,Chicago_USA,Joshua_Stein,-Unpublished-,300,CM,INA:klud.ge,IBN
 ,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
 ,181,StarPort_BBS,Mikkeli_FIN,Tomas_Ukkonen,-Unpublished-,300,CM,INA:bbs.starport.fi,IBN
-;E ,182,Starship_Junkyard,Sheridan_Tighe,-Unpublished-,300,CM,INA:bbs.starshipjunkyard.com,IBN
-;E  -- Invalid baud rate -- 'CM'
-;E ,183,The_River_Styx,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
-;E  -- Invalid baud rate -- 'CM'
+,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300,CM,INA:bbs.starshipjunkyard.com,IBN
+,183,The_River_Styx,Elliot_Adams,Manchester_USA,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 Hub,2744,Clrghouz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:clrghouz.bbs.dege.au,IBN:24584,ITN:60789
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
