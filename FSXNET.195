@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 7, 2023 -- Day number 188 : 10455
+;A fsxNet Nodelist for Friday, July 14, 2023 -- Day number 195 : 24535
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -76,7 +76,7 @@ Zone,21,fsxNet_ZC,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,ICM,MO,INA:net1.fsxn
 Region,21,fsxNet_RC,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,ICM,MO,INA:net1.fsxnet.nz,IBN:24556,REC
 ;
 Host,1,fsxNet_(NET_1),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN
-,10,fsxNet_Games_+_Usenet_Gateway,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN:24557
+,10,fsxNet_Games_+_Usenet_Gateway,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:zen.fsxnet.nz,IBN:24557
 ,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN,SDS,PING,TRACE
 ,101,Agency_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,INA:ipv4.agency.bbs.nz,IBN:24555
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
@@ -252,7 +252,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,145,WalledCTTY_BBS,Fort_Collins_USA,Thom_Miller,-Unpublished-,300,CM,INA:bbs.walledctty.com,IBN
 ,146,Hold_Fast!_BBS,Ottawa_CAN,Paul_Lopez,-Unpublished-,300,CM,INA:mansion.dynv6.net,IBN
 ,147,Altair_IV_BBS,Lufkin_USA,Scott_Daniels,-Unpublished-,300,CM,INA:altairiv.ddns.net,IBN
-,148,Shurato's_Heavenly_Sphere_BBS,Boise_USA,Martin_Kazmaier,-Unpublished-,300,CM,INA:shsbbs.ddns.net,IBN
+,148,Shurato's_Heavenly_Sphere_BBS,Boise_USA,Martin_Kazmaier,-Unpublished-,300,CM,INA:shsbbs.net,IBN
 ,150,2o_fOr_beeRS_BBS,Portland_USA,Paul_Lee,-Unpublished-,300,CM,INA:20ForBeers.com,IBN,ITN:1337
 ,151,Dock_Sud_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300,CM,INA:bbs.docksud.com.ar,IBN
 ,152,UnderZaNet_BBS,London_GBR,Jan_Henkins,-Unpublished-,300,CM,INA:bbs.under.za.net,ITN:2024,IBN:24555
@@ -321,7 +321,8 @@ Pvt,10,fsxNet_FTN_QWK_Gateway,Rio_Rancho_USA,Dan_Richter,-Unpublished-,300
 ,101,Back_to_the_Future_BBS,Pennsylvania_USA,Bill_Simon,-Unpublished-,300,CM,INA:bttfbbs.com,IBN
 ,102,Legends_of_Yesteryear,Huntsville_USA,Dallas_Vinson,-Unpublished-,300,CM,INA:furmenservices.net,IBN:24555,ITN:23322
 ,103,The_Undermine,Calgary_CAN,Kostie_Muirhead,-Unpublished-,300,CM,INA:bbs.undermine.ca,IBN
-,105,Phoenix_BBS,Pawcatuck_USA,Andrew_Leary,-Unpublished-,300,CM,INA:phoenix.bnbbbs.net,IBN:24555,ITN:2323
+;E ,105,Phoenix_BBS,Groton_CT_USA,Andrew_Leary,1-860-446-6118,33600,H16,V34,V32T,V42B,XACM,INA:phoenix.bnbbbs.net,IBN:24555,ITN:60177
+;E  -- Invalid baud rate -- '33600'
 ,106,The_Rusty_Mailbox_BBS,Penticton_CAN,Alan_Ianson,-Unpublished-,300,CM,XW,INA:trmb.ca,IBN
 ,107,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee,-Unpublished-,300,CM,INA:x-bit.org,IBN:24556
 ,108,Inland_Utopia,Ontario_USA,Matthew_Munson,-Unpublished-,300,CM,INA:iutopia.duckdns.org,IBN
