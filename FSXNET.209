@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 21, 2023 -- Day number 202 : 31424
+;A fsxNet Nodelist for Friday, July 28, 2023 -- Day number 209 : 16351
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -186,6 +186,7 @@ Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 ,208,S_W_A_T_S_BBS,Auckland_NZL,Stephen_Hunt,-Unpublished-,300,CM,INA:swatsbbs.ddns.net,IBN:24556
 ,209,LU8FJH_BBS,Rosario_ARG,Juan_Musso,-Unpublished-,300,CM,INA:lu8fjh.dyndns.org,IBN
 ,210,Noverdu_BBS,South_Saint_Paul_USA,Jonah_Clausen,-Unpublished-,300,CM,INA:noverdu.com,IBN
+Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,212,BBSisCOOL_BBS,Holly_Springs_USA,John_Luton,-Unpublished-,300,CM,INA:bbsiscool.emailisstupid.com,IBN
 ,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vortex.redirectme.net,IBN
 ,214,Midnight_Lounge_BBS,Panama_City_Beach_USA,Allie_Prather,-Unpublished-,300,CM,INA:lounge.mbl.social,IBN
@@ -295,7 +296,7 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
 ,149,RoughNeck_BBS,Phoenix_USA,Michael_J_Ryan,-Unpublished-,300,CM,INA:host.roughneckbbs.com,IBN
 ,150,Planet_Caravan,San_Antonio_USA,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
-,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:mortalbbs.com,IBN
+,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:bbs.mortalbbs.com,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,CM,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,159,The_Basement,Kamloops_CAN,Adam_Clark,-Unpublished-,300,CM,INA:basement.isurf.ca,IBN
