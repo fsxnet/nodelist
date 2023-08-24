@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 18, 2023 -- Day number 230 : 10928
+;A fsxNet Nodelist for Friday, August 25, 2023 -- Day number 237 : 28033
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -85,7 +85,7 @@ Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
 ,105,Fluph_BBS,Elkview_USA,Leslie_Given,-Unpublished-,300,CM,INA:47.223.172.117,IBN
 ,106,BlackICE_BBS,Duesseldorf_DEU,Vitus_Zeel,-Unpublished-,300,CM,INA:blackice.bbsindex.de,IBN
 Down,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
-Down,108,Eternal_Domain_BBS,Bakersfield_USA,Kenny_Taylor,-Unpublished-,300,CM,INA:eternaldomain.fsxnet.nz,IBN
+,108,Eternal_Domain_BBS,Bakersfield_USA,Kenny_Taylor,-Unpublished-,300,CM,INA:eternaldomain.fsxnet.nz,IBN
 ,109,Freeway_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:freeway.vkradio.com,IBN
 ,110,AmigaXess,Georgsmarienhuette_DEU,Ingo_Juergensmann,-Unpublished-,300,CM,INA:ftn.amigaxess.de,IBN
 ,111,Another_Droid_BBS,Athens_GRC,Andreas_Apostolou,-Unpublished-,300,CM,INA:andr01d.zapto.org,IBN,ITN:9999
