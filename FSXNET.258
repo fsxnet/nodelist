@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, September 8, 2023 -- Day number 251 : 14222
+;A fsxNet Nodelist for Friday, September 15, 2023 -- Day number 258 : 63765
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -114,6 +114,7 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,135,Brokedown_Palace_Reprise_BBS,Pleasanton_USA,Steven_Southworth,-Unpublished-,300,CM,INA:palace.brokedownpalace.online,IBN
 ,136,N4TDX_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:n4tdx.ddns.net,IBN
 ,137,Digital_Distortion_BBS,Hillsboro_USA,Eric_Oulashin,-Unpublished-,300,CM,INA:digdist.synchro.net,IBN
+,138,Lost_Words_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:lostworldsbbs.com,IBN,ITN:2323
 ,139,Ultramax_BBS,Ladybank_GBR,Martin_Mitchell,-Unpublished-,300,CM,INA:ultramax.synchro.net,IBN
 ,140,Daves_BBS,Marbury_USA,David_Smith,-Unpublished-,300,CM,INA:davesbbs.com,IBN
 ,142,Trashcan_BBS,Auckland_NZL,Nick_MacKechnie,-Unpublished-,300,CM,INA:bbs.thenet.gen.nz,IBN,ITN:2324
@@ -129,7 +130,7 @@ Pvt,150,Sotano_Msx_BBS,Ibiza_ESP,Pepe_Diaz,-Unpublished-,300
 ,156,Global_Chaos_BBS,Prittriching_GER,Michael_Selhof,-Unpublished-,300,CM,INA:globalchaosbbs.com,IBN,ITN:21
 ,157,Shadowscope_BBS,Temple_USA,Richard_Miles,-Unpublished-,300,CM,INA:shadowscope.noip.us,IBN
 ,158,The_Quantum_Wormhole,Ramsgate_GBR,Christian_Sacks,-Unpublished-,300,CM,INA:bbs.erb.pw,IBN
-,159,Bad_Poetry_Blues_BBS,Campbellford_CAN,Mike_Manning,-Unpublished-,300,CM,INA:centralontarioremote.com,IBN
+,159,Central_Ontario_Remote_BBS,Trent_Hills_CAN,Mike_Manning,-Unpublished-,300,CM,INA:centralontarioremote.com,IBN
 ,160,Slime_City_BBS,Ahus_SWE,David_Jacoby,-Unpublished-,300,CM,INA:bbs.retrohack.se,IBN
 ,163,Dreamland_BBS,North_Hollywood_USA,Tony_Master,-Unpublished-,300,CM,INA:bbs.dreamlandbbs.org,IBN
 ,164,Electronic_Chicken_BBS,Toronto_CAN,Derek_Mullin,-Unpublished-,300,CM,INA:bbs.electronicchicken.com,IBN
