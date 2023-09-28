@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, September 22, 2023 -- Day number 265 : 63765
+;A fsxNet Nodelist for Friday, September 29, 2023 -- Day number 272 : 48053
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -281,7 +281,6 @@ Host,3,fsxNet_(NET_3),Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:net3.fsx
 ,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
 ,135,Lunatics_Unleashed_BBS,Tonawanda_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,138,Taliadon_BBS,South_Wales_GBR,Lee_Westlake,-Unpublished-,300,CM,INA:taliadon.ddns.net,IBN
-Down,140,Ground_Central,Jacksonville_USA,Matthew_Blocker,-Unpublished-,300,CM,INA:gcbbs.duckdns.org,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,CM,INA:nodewarrior.net,IBN
@@ -290,7 +289,6 @@ Down,140,Ground_Central,Jacksonville_USA,Matthew_Blocker,-Unpublished-,300,CM,IN
 ,153,Mortal_BBS,Sydney_AUS,Shaun_Ewing,-Unpublished-,300,CM,INA:bbs.mortalbbs.com,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,CM,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
-,159,The_Basement,Kamloops_CAN,Adam_Clark,-Unpublished-,300,CM,INA:basement.isurf.ca,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
 ,167,VETBBS,Verbena_USA,Mike_Welborn,-Unpublished-,300,CM,INA:0.tcp.ngrok.io,IBN
 ,168,ReTR0aKTiV,Greensboro_USA,Rob_Koliha,-Unpublished-,300,CM,INA:retr0aktiv.com,IBN
@@ -304,7 +302,6 @@ Down,140,Ground_Central,Jacksonville_USA,Matthew_Blocker,-Unpublished-,300,CM,IN
 ,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
 ,181,StarPort_BBS,Mikkeli_FIN,Tomas_Ukkonen,-Unpublished-,300,CM,INA:bbs.starport.fi,IBN
 ,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300,CM,INA:bbs.starshipjunkyard.com,IBN
-Down,183,The_River_Styx,Elliot_Adams,Manchester_USA,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 Hub,2744,Clrghouz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:clrghouz.bbs.dege.au,IBN:24584,ITN:60789
 ,184,Port_of_Call_BBS,Dave_Wessinger,Port_Charlotte_USA,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
 ,185,Retroverse_BBS,Matt_Ianson,Sydney_AUS,-Unpublished-,300,CM,INA:retroverse.au,IBN
