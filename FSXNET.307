@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, October 27, 2023 -- Day number 300 : 17912
+;A fsxNet Nodelist for Friday, November 3, 2023 -- Day number 307 : 12794
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -209,7 +209,8 @@ Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net
 ,101,End_Of_The_Line_BBS,Plano_USA,Nigel_Reed,-Unpublished-,300,CM,INA:endofthelinebbs.com,IBN
 ,102,Point_Of_No_Return_BBS,Toronto_CAN,Mark_Da_Silva,-Unpublished-,300,CM,INA:pointofnoreturn.zapto.org,IBN
 ,103,The_Nexus_BBS,Hitchin_GBR,Nathan_Lennox,-Unpublished-,300,CM,INA:nexus.aefinity.io,IBN
-,104,The_Underground_Network_BBS,Clearlake_USA,Daniel_Dziubanski,-Unpublished-,300,CM,INA:theunderground.network,IBN
+;E ,104,The_Lake_House_BBS,Charlotte_USA,Chris_Richardson,Unpublished-,300,CM,INA:lakehouse.lilpenguins.com,IBN
+;E  -- Invalid phone number -- 'Unpublished-'
 ,105,CXX_BBS,Wilton_USA,Jim_Nessen,-Unpublished-,300,CM,INA:ccxbbs.fsxnet.nz,IBN
 Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,107,Torrent_BBS,Gorham_USA,Joseph_Diaz,-Unpublished-,300,CM,INA:torrentbbs.net,IBN
