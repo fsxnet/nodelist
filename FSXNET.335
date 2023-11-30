@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, November 24, 2023 -- Day number 328 : 35951
+;A fsxNet Nodelist for Friday, December 1, 2023 -- Day number 335 : 23988
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -84,12 +84,12 @@ Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
 ,104,Region_15_HQ_BBS,Colorado_Springs_USA,Terry_Barlow,-Unpublished-,300,CM,INA:region15.net,IBN
 ,105,Fluph_BBS,Elkview_USA,Leslie_Given,-Unpublished-,300,CM,INA:47.223.172.117,IBN
 ,106,BlackICE_BBS,Duesseldorf_DEU,Vitus_Zeel,-Unpublished-,300,CM,INA:blackice.bbsindex.de,IBN
-Down,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
+,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
 ,108,Eternal_Domain_BBS,Bakersfield_USA,Kenny_Taylor,-Unpublished-,300,CM,INA:eternaldomain.fsxnet.nz,IBN
 ,109,Freeway_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:freeway.vkradio.com,IBN
 ,110,AmigaXess,Georgsmarienhuette_DEU,Ingo_Juergensmann,-Unpublished-,300,CM,INA:ftn.amigaxess.de,IBN
 ,111,Another_Droid_BBS,Athens_GRC,Andreas_Apostolou,-Unpublished-,300,CM,INA:andr01d.zapto.org,IBN,ITN:9999
-Down,112,Black_Flag_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300,CM,INA:blackflag.acid.org,IBN,ITN:28
+,112,Black_Flag_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300,CM,INA:blackflag.acid.org,IBN,ITN:28
 ,113,Athelstan_BSS,Houston_USA,Lance_Vavricka,-Unpublished-,300,CM,INA:athelstan.fsxnet.nz,IBN
 ,114,Throwback_BBS,Meriden_USA,Todd_Yatzook,-Unpublished-,300,CM,INA:bbs.throwbackbbs.com,IBN
 ,115,1st_Choice_Core_BBS,Ashburton_NZL,Ian_Segers,-Unpublished-,300,CM,INA:1stchoicecore.co.nz,IBN
@@ -147,6 +147,7 @@ Pvt,171,Modema_Tider_BBS,Gothenburg_SWE,Andreas_Selstam,-Unpublished-,300
 ,177,Goosenet_BBS,Nuremberg_GER,Michael_Geller,-Unpublished-,300,CM,INA:bbs.nifty5fty.com,IBN
 ,178,Internal_Dimension_BBS,Ontario_CAN,Dave_Vandermeer,-Unpublished-,300,CM,INA:bbs.idbbs.ca,IBN,ITN:59
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
+,180,The_Realm_of_Serion_BBS,Cloquet_USA,Rex_Hondo,-Unpublished-,300,CM,INA:connect.serionbbs.com,IBN
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
 ,182,Smuggler's_Cove_BBS,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:scove.talismanbbs.com,IBN
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
@@ -224,6 +225,7 @@ Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,115,Mystic_Rhythms_BBS,San_Francisco_USA,Rob_Cole,-Unpublished-,300,CM,INA:mystic.wwivbbs.org,IBN
 ,116,Chinwag_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:alterant.bbs.dege.au,IBN:24564
 ,118,Halls_of_Valhalla_BBS,San_Francisco_USA,Morgan_Collins,-Unpublished-,300,CM,INA:hoval.synchro.net,IBN:24553
+,119,Digital_Asylum_BBS,Rosario_ARG,Damian_Kleiman,-Unpublished-,300,CM,INA:bbs.digitalasylum.com.ar,IBN,ITN:2323
 ,122,Battlestar_III_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestar3.dyndns.org,IBN
 ,123,Deadbeatz_BBS,Albuquerque_USA,Tim_Blada,-Unpublished-,300,CM,INA:deadbeatz.org,IBN
 Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
