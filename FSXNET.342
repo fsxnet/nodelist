@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 1, 2023 -- Day number 335 : 23988
+;A fsxNet Nodelist for Friday, December 8, 2023 -- Day number 342 : 05844
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -82,7 +82,6 @@ Host,1,fsxNet_(NET_1),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.f
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
 Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
 ,104,Region_15_HQ_BBS,Colorado_Springs_USA,Terry_Barlow,-Unpublished-,300,CM,INA:region15.net,IBN
-,105,Fluph_BBS,Elkview_USA,Leslie_Given,-Unpublished-,300,CM,INA:47.223.172.117,IBN
 ,106,BlackICE_BBS,Duesseldorf_DEU,Vitus_Zeel,-Unpublished-,300,CM,INA:blackice.bbsindex.de,IBN
 ,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
 ,108,Eternal_Domain_BBS,Bakersfield_USA,Kenny_Taylor,-Unpublished-,300,CM,INA:eternaldomain.fsxnet.nz,IBN
@@ -99,7 +98,6 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,119,Sysgod_BBS,Sydney_AUS,Scott_Little,61-2-9727-7775,300,CM,XA,V32b,V34,V42b,VFC,INA:ftn.sysgod.org,IBN,ITN:60177,IFC,PING
 ,120,Starbase_11_BBS,Mischelbach_DEU,Alexander_Knerlein,-Unpublished-,300,CM,INA:starbase11.fsxnet.nz,IBN
 ,121,Xibalba_BBS,Salt_Lake_City_USA,Bryan_Ashby,-Unpublished-,300,CM,INA:xibalba.l33t.codes,IBN:54554,ITN:44510
-,122,Necronomicon_BBS,New_Bedford_USA,Carlos_Roldan,-Unpublished-,300,CM,INA:necrobbs.ddns.net,IBN
 ,123,Thiaramus_Den,Brooklyn_USA,Roman_Litvinenko,-Unpublished-,300,CM,INA:thiaramus.fsxnet.nz,IBN
 ,124,EONA_BBS,Sabadell_ESP,Noemi_Abril,-Unpublished-,300,CM,INA:bbs.eona.cat,IBN
 ,125,The_Horizon_BBS,Huntington_Beach_USA,Chris_Wilson,-Unpublished-,300,CM,INA:bbs.horizonbbs.org,IBN
@@ -192,13 +190,10 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
 ,226,Retro16_BBS,Melbourne_AUS,David_Florey,-Unpublished-,300,CM,INA:bbs.retro16.com,IBN
 ,227,Shipwrecks_&_Shibboleths_BBS,Marana_USA,Chris_Hizny,-Unpublished-,300,CM,INA:shibboleths.fsxnet.nz,IBN
-,228,Vienna_Matrix_BBS,Vienna_AUT,Alexander_Payer,-Unpublished-,300,CM,INA:sbbs.viennamatrix.at,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
 ,231,Southern_Comfort_BBS,Savannah_USA,Mike_Giddens,-Unpublished-,300,CM,INA:soco.bbs.io,IBN
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
 ,233,Phrenetic_BBS,Tonstad_NOR,Per_Gustav_Ousdal,-Unpublished-,300,CM,INA:bbs.ousdal.net,IBN
-,234,Crewmate's_Test_Lab_BBS,Reno_County_USA,Mike_Edwards,-Unpublished-,300,CM,INA:testlab.fsxnet.nz,IBN
-,235,ZorgluBBS,Bordeaux_FRA,Pierre_Pignon,-Unpublished-,300,CM,INA:bbs.pitichampi.fr,IBN
 ,236,Lunar_Mod_BBS,New_Port_Richey_USA,David_Thielemann,-Unpublished-,300,CM,INA:bbs.beanzilla.net,IBN
 ,237,Eye_of_the_Storm_BBS,New_Plymouth_NZL,Benjamin_Aitchison,-Unpublished-,300,CM,INA:on.the.net.nz,IBN
 ,238,The_Global_Village_BBS,Emmen_NLD,Sebastian_van_der_Veen,-Unpublished-,300,CM,INA:the.globalvillagebbs.net,IBN
