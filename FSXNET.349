@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 8, 2023 -- Day number 342 : 05844
+;A fsxNet Nodelist for Friday, December 15, 2023 -- Day number 349 : 25041
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
 ;A
@@ -77,7 +77,7 @@ Region,21,fsxNet_RC,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,ICM,MO,INA:net1.fs
 ;
 Host,1,fsxNet_(NET_1),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN
 ,10,fsxNet_Games_+_Usenet_Gateway,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:zen.fsxnet.nz,IBN:24557
-,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN,SDS,PING,TRACE
+Hub,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet.nz,IBN,SDS,PING,TRACE
 ,101,Agency_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,INA:ipv4.agency.bbs.nz,IBN:24555
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
 Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
@@ -201,7 +201,7 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
 Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net2.fsxnet.nz,IBN:24555
-,100,Tholian_HUB,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net2.fsxnet.nz,IBN:24555,SDS
+Hub,100,Tholian_HUB,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net2.fsxnet.nz,IBN:24555,SDS
 ,101,End_Of_The_Line_BBS,Plano_USA,Nigel_Reed,-Unpublished-,300,CM,INA:endofthelinebbs.com,IBN
 ,102,Point_Of_No_Return_BBS,Toronto_CAN,Mark_Da_Silva,-Unpublished-,300,CM,INA:pointofnoreturn.zapto.org,IBN
 ,103,The_Nexus_BBS,Hitchin_GBR,Nathan_Lennox,-Unpublished-,300,CM,INA:nexus.aefinity.io,IBN
@@ -367,7 +367,7 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,187,Operation_Ivy,Delmar_DE_USA,David_Sachs,-Unpublished-,300,CM,INA:opivy-bbs.com,IBN
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
-,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
+Hub,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
 ,101,The_File_Bank_BBS,Cairns_AUS,Terry_Roati,-Unpublished-,300,CM,XR,INA:tfb-bbs.org,IBN,IFT,ITN,IVM,ITX:transx@tfb-bbs.org
 ,102,Tri-Star_BBS,Murfreesboro_USA,Thomas_Kloos,-Unpublished-,300,CM,INA:bbs.tristarbbs.com,IBN
 ,103,The_Computer_Express,Anoka_USA,Chris_Costakis,-Unpublished-,300,CM,INA:bbs.costakis.org,ITN:3141,IVM
