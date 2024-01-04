@@ -1,6 +1,6 @@
-;A fsxNet Nodelist for Friday, December 29, 2023 -- Day number 363 : 25041
+;A fsxNet Nodelist for Friday, January 5, 2024 -- Day number 005 : 20216
 ;A
-;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2023
+;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
 ;A                 ____                    _   __         __
 ;A                / __/   _____   _  __   / | / /  ___   / /_
@@ -164,7 +164,7 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,197,Compufuck_BBS,Binghamton_USA,Aaron_Thomas,-Unpublished-,300,CM,INA:cfbbs.fsxnet.nz
 ,198,The_Fat_Dragon,New_York_USA,Dan_Cross,-Unpublished-,300,CM,INA:trunk.fat-dragon.org,IBN
 ,199,Clutch_BBS,Ontario_CAN,Mark_Stark,-Unpublished-,300,CM,INA:bbs.clutchbbs.com,IBN
-Pvt,200,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
+,200,Pharcyde_HUB,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300,CM,INA:binkp.pharcyde.org,IBN
 ,201,Decker's_Heaven_BBS,Gainesville_USA,Eric_Renfro,-Unpublished-,300,CM,INA:bbs.deckersheaven.com,IBN
 ,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJP,XW,V90C,X2C,VFC,V32T,H16,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
 ,203,Bullseye_Shareware_BBS,Mountain_Home_USA,Robert_Russell,-Unpublished-,300,CM,INA:shareware.ddns.net,IBN
@@ -198,6 +198,7 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,237,Eye_of_the_Storm_BBS,New_Plymouth_NZL,Benjamin_Aitchison,-Unpublished-,300,CM,INA:on.the.net.nz,IBN
 ,238,The_Global_Village_BBS,Emmen_NLD,Sebastian_van_der_Veen,-Unpublished-,300,CM,INA:the.globalvillagebbs.net,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
+Pvt,700,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
 Host,2,fsxNet_(NET_2),Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net2.fsxnet.nz,IBN:24555
