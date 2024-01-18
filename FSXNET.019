@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 12, 2024 -- Day number 012 : 20216
+;A fsxNet Nodelist for Friday, January 19, 2024 -- Day number 019 : 10514
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -98,6 +98,7 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,119,Sysgod_BBS,Sydney_AUS,Scott_Little,61-2-9727-7775,300,CM,XA,V32b,V34,V42b,VFC,INA:ftn.sysgod.org,IBN,ITN:60177,IFC,PING
 ,120,Starbase_11_BBS,Mischelbach_DEU,Alexander_Knerlein,-Unpublished-,300,CM,INA:starbase11.fsxnet.nz,IBN
 ,121,Xibalba_BBS,Salt_Lake_City_USA,Bryan_Ashby,-Unpublished-,300,CM,INA:xibalba.l33t.codes,IBN:54554,ITN:44510
+,122,After_Hours_BBS,Lady_Lake_USA,Greg_Youngblood,-Unpublished-,300,CM,INA:ah-bbs.com,IBN
 ,123,Thiaramus_Den,Brooklyn_USA,Roman_Litvinenko,-Unpublished-,300,CM,INA:thiaramus.fsxnet.nz,IBN
 ,124,EONA_BBS,Sabadell_ESP,Noemi_Abril,-Unpublished-,300,CM,INA:bbs.eona.cat,IBN
 ,125,The_Horizon_BBS,Huntington_Beach_USA,Chris_Wilson,-Unpublished-,300,CM,INA:bbs.horizonbbs.org,IBN
@@ -167,7 +168,6 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,200,Pharcyde_HUB,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300,CM,INA:binkp.pharcyde.org,IBN
 ,201,Decker's_Heaven_BBS,Gainesville_USA,Eric_Renfro,-Unpublished-,300,CM,INA:bbs.deckersheaven.com,IBN
 ,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJP,XW,V90C,X2C,VFC,V32T,H16,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
-,203,Bullseye_Shareware_BBS,Mountain_Home_USA,Robert_Russell,-Unpublished-,300,CM,INA:shareware.ddns.net,IBN
 ,204,Family_BBS,Auckland_NZL,Tony_Pawson,-Unpublished-,300,CM,INA:familybbs.ddns.net,IBN
 ,205,Magnum_BBS,Huddersfield_GBR,Keyop_Troy,-Unpublished-,300,CM,INA:bbs.magnum.uk.net,IBN
 ,206,The_File_Cabinet_BBS,New_Hope_USA,Richard_Vonzel,-Unpublished-,300,CM,INA:filecabi.synchro.net,IBN
@@ -185,7 +185,6 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,219,Radio_Freqs_&_Geeks_BBS,Albany_USA,Rich_Gattie,-Unpublished-,300,CM,INA:rfgeeksbbs.ddns.net,IBN
 ,220,swissIRC_BBS,Aarau_CHE,Alisha_Stutz,-Unpublished-,300,CM,INA:swissirc.fsxnet.nz,IBN:24555
 ,221,The_FBO_BBS,Daytona_Beach_USA,Charles_Blackburn,-Unpublished-,300,CM,INA:bbs.thefbo.us,IBN
-,222,Tiny's_BBS_II,Oshawa_CAN,Shawn_Highfield,-Unpublished-,300,CM,INA:bbs.tinysbbs.com,IBN:24555
 ,223,OldComp_EU_BBS,Louny_CZE,Cerny_Eduard,-Unpublished-,300,CM,INA:bbs1.oldcomp.eu,IBN
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
 ,226,Retro16_BBS,Melbourne_AUS,David_Florey,-Unpublished-,300,CM,INA:bbs.retro16.com,IBN
