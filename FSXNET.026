@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 19, 2024 -- Day number 019 : 10514
+;A fsxNet Nodelist for Friday, January 26, 2024 -- Day number 026 : 40608
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -116,8 +116,10 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,138,Lost_Words_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:lostworldsbbs.com,IBN,ITN:2323
 ,139,Ultramax_BBS,Ladybank_GBR,Martin_Mitchell,-Unpublished-,300,CM,INA:ultramax.synchro.net,IBN
 ,140,Daves_BBS,Marbury_USA,David_Smith,-Unpublished-,300,CM,INA:davesbbs.com,IBN
+,141,68k_Mac_Club,Tokyo_JPN,Andrew_Young,-Unpublished-,300,CM,INA:bbs.m68k.club,IBN
 ,142,Trashcan_BBS,Auckland_NZL,Nick_MacKechnie,-Unpublished-,300,CM,INA:bbs.thenet.gen.nz,IBN,ITN:2324
 ,143,The_Bridge_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:bridge.vkradio.com,IBN
+,144,NorthSEA_BBS,Somewhere_DNK,Torben_Jensen,-Unpublished-,300,CM,INA:bbs.northsea.dk
 ,145,Mystic_Pi_BBS,Nashua_USA,Brian_Wallace,-Unpublished-,300,CM,INA:bcw142.zapto.org,IBN:24556
 ,146,Digital_Sanctuary_BBS,Oakville_CAN,Chris_Hallford,-Unpublished-,300,CM,INA:digitalsanctuarybbs.com,IBN
 ,147,The_Comm's_Nut_BBS,Gagebrook_AUS,Danny_Moss,-Unpublished-,300,CM,INA:tcnbbs.fsxnet.nz,IBN
@@ -159,6 +161,7 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
 ,191,Zruspa's_HUB,Madrid_ESP,Angel_Ripoll,-Unpublished-,300,CM,INA:bbs.zruspas.org,IBN
 ,192,Zruspa's_BBS,Madrid_ESP,Angel_Ripoll,-Unpublished-,300,CM,INA:bbs.zruspas.org,IBN:24555
+,193,Darkstar_BBS,Vienna_AUT,Alexander_Winkler,-Unpublished-,300,CM,INA:darkstar.bmxjo.org,IBN:24556
 ,194,Diamond_Mine_Online_BBS,Fredericksburg_USA,David_Perrussel,-Unpublished-,300,CM,INA:bbs.dmine.net,IBN
 ,195,Dragon's_Claw_HUB,Melbourne_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:ftn.vk3heg.net,IBN
 ,196,Dragon's_Lair_BBS,Ballarat_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:dragon.vk3heg.net,IBN
