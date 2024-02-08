@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 2, 2024 -- Day number 033 : 40608
+;A fsxNet Nodelist for Friday, February 9, 2024 -- Day number 040 : 14350
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -82,6 +82,7 @@ Hub,100,Risa_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net1.fsxnet
 ,102,Error_404_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,INA:error404bbs.ddns.net,IBN,ITN:404
 Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
 ,104,Region_15_HQ_BBS,Colorado_Springs_USA,Terry_Barlow,-Unpublished-,300,CM,INA:region15.net,IBN
+,105,Alien_Signals_BBS,Dutton_USA,Scott_Carter,-Unpublished-,300,CM,INA:bbs.aliensignals.ca,IBN
 ,106,BlackICE_BBS,Duesseldorf_DEU,Vitus_Zeel,-Unpublished-,300,CM,INA:blackice.bbsindex.de,IBN
 ,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
 ,108,Eternal_Domain_BBS,Bakersfield_USA,Kenny_Taylor,-Unpublished-,300,CM,INA:eternaldomain.fsxnet.nz,IBN
@@ -127,6 +128,8 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
 Pvt,150,Sotano_Msx_BBS,Ibiza_ESP,Pepe_Diaz,-Unpublished-,300
 ,152,2nd_Choice_Core_BBS,Ashburton_NZL,Ian_Segers,-Unpublished-,300,CM,INA:2ndchoicecore.ddns.net,IBN:24555,ITN:1024
+,153,Spark_BBS,Liege_BEL,Christian_Vanguers,-Unpublished-,300,CM,INA:poll.sparkbbs.eu,IBN
+,154,Queen_City_BBS,Elmira_USA,Malachi_Doane,-Unpublished-,300,CM,INA:queencitybbs.ddns.net,IBN
 ,155,Haciend_BBS,Helsinki_FIN,Antti_Kiuru,-Unpublished-,300,CM,INA:haciend.com,IBN
 ,156,Global_Chaos_BBS,Prittriching_GER,Michael_Selhof,-Unpublished-,300,CM,INA:globalchaosbbs.com,IBN,ITN:21
 ,157,Shadowscope_BBS,Temple_USA,Richard_Miles,-Unpublished-,300,CM,INA:shadowscope.noip.us,IBN
@@ -238,7 +241,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,137,Tsali's_BBS,Louisville_USA,James_Washington,-Unpublished-,300,CM,INA:tsali.ddns.net,IBN,ITN:9023
 ,138,Palantir_BBS,Pensacola_USA,Dan_Clough,-Unpublished-,300,CM,INA:palantirbbs.ddns.net,IBN
 ,140,Subcarrier_BBS,Ottawa_CAN,John_McCoy,-Unpublished-,300,CM,INA:subcarrier.ignorelist.com,IBN,ITN:2323
-,141,SiliconUnderground_BBS,Rochester_USA,Jason_Bock,-Unpublished-,300,CM,INA:siliconu.fsxnet.nz,IBN
+,141,SiliconUnderground,Rochester_USA,Jason_Bock,-Unpublished-,300,CM,INA:siliconu.com,IBN
 ,142,TheViper_BBS,Fernley_USA,LLoyd_Fellon,-Unpublished-,300,CM,INA:theviperbbs.mywire.org,IBN
 ,143,Digicom_BBS,Evansville_USA,Gary_Barr,-Unpublished-,300,CM,INA:bbs.digicombbs.com,IBN
 ,144,Outremer_BBS,Vancouver_CAN,Pieter_Bakker,-Unpublished-,300,CM,INA:outremer.fsxnet.nz,IBN
