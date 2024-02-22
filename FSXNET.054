@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 16, 2024 -- Day number 047 : 14350
+;A fsxNet Nodelist for Friday, February 23, 2024 -- Day number 054 : 27117
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -136,6 +136,8 @@ Pvt,150,Sotano_Msx_BBS,Ibiza_ESP,Pepe_Diaz,-Unpublished-,300
 ,158,The_Quantum_Wormhole,Ramsgate_GBR,Christian_Sacks,-Unpublished-,300,CM,INA:bbs.erb.pw,IBN
 ,159,Central_Ontario_Remote_BBS,Trent_Hills_CAN,Mike_Manning,-Unpublished-,300,CM,INA:centralontarioremote.com,IBN
 ,160,Slime_City_BBS,Ahus_SWE,David_Jacoby,-Unpublished-,300,CM,INA:bbs.retrohack.se,IBN
+,161,The_Phantom_BBS,White_Oak_USA,Anthony_Bonante,-Unpublished-,300,CM,INA:bbs.phantombbs.info,IBN
+,162,Another_Millennium_BBS,Vancouver_Island_CAN,Chris_Gerlinsky,-Unpublished-,300,CM,INA:another.tel,IBN
 ,163,Dreamland_BBS,North_Hollywood_USA,Tony_Master,-Unpublished-,300,CM,INA:bbs.dreamlandbbs.org,IBN
 ,164,Electronic_Chicken_BBS,Toronto_CAN,Derek_Mullin,-Unpublished-,300,CM,INA:bbs.electronicchicken.com,IBN
 ,166,Datanet_BBS,Melbourne_AUS,Steve_Ellis,-Unpublished-,300,CM,INA:datanetbbs.net,IBN
@@ -234,6 +236,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,126,Rust_Belt_BBS,Rochester_USA,Kevin_Miller,-Unpublished-,300,CM,INA:rbbbs.mtonetwork.com,IBN:24555
 ,127,Battlestar_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestarbbs.dyndns.org,IBN
 ,128,oNyX_BBS,Bristol_USA,Clive_Reuben,-Unpublished-,300,CM,INA:onyxbbs.mywire.org,IBN
+,129,Kuehlbox_BBS,Frankfurt_GER,Philipp_Giebel,-Unpublished-,300,CM,INA:kuehlbox.wtf,IBN
 ,130,Delta_City_BBS,Vallentuna_SWE,Joacim_Melin,-Unpublished-,300,CM,INA:deltacity.fsxnet.nz,IBN:24556
 ,131,Orbit_BBS,Opp_USA,Allen_Scofield,-Unpublished-,300,CM,INA:orbitbbs.ddns.net,IBN
 ,132,Archaic_Binary_BBS,Orlando_USA,Wayne_Smith,-Unpublished-,300,CM,INA:bbs.archaicbinary.net,IBN
