@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 1, 2024 -- Day number 061 : 23632
+;A fsxNet Nodelist for Friday, March 8, 2024 -- Day number 068 : 20394
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -114,7 +114,7 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,135,Brokedown_Palace_Reprise_BBS,Pleasanton_USA,Steven_Southworth,-Unpublished-,300,CM,INA:palace.brokedownpalace.online,IBN
 ,136,N4TDX_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:n4tdx.ddns.net,IBN
 ,137,Digital_Distortion_BBS,Hillsboro_USA,Eric_Oulashin,-Unpublished-,300,CM,INA:digdist.synchro.net,IBN
-,138,Lost_Words_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:lostworldsbbs.com,IBN,ITN:2323
+,138,4WheelHam_BBS,Denver_USA,John_Julian,-Unpublished-,300,CM,INA:108.61.205.134,IBN,ITN:2323
 ,139,Ultramax_BBS,Ladybank_GBR,Martin_Mitchell,-Unpublished-,300,CM,INA:ultramax.synchro.net,IBN
 ,140,Daves_BBS,Marbury_USA,David_Smith,-Unpublished-,300,CM,INA:davesbbs.com,IBN
 ,141,68k_Mac_Club,Tokyo_JPN,Andrew_Young,-Unpublished-,300,CM,INA:bbs.m68k.club,IBN
@@ -189,6 +189,7 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,212,BBSisCOOL_BBS,Holly_Springs_USA,John_Luton,-Unpublished-,300,CM,INA:bbsiscool.emailisstupid.com,IBN
 ,213,Vortex_BBS,Novi_Sad_SRB,Strahinja_Bojovic,-Unpublished-,300,CM,INA:vortex.redirectme.net,IBN
 ,214,Midnight_Lounge_BBS,Panama_City_Beach_USA,Allie_Prather,-Unpublished-,300,CM,INA:lounge.mbl.social,IBN
+,215,Retro32_BBS,Lincs_GBR,Darren_Kenney,-Unpublished-,300,CM,INA:bbs.retro32.com,IBN
 ,216,Mystic_Realms_BBS,Woodstock_CAN,Jeff_Earle,-Unpublished-,300,CM,INA:mysticrealms.ddns.net,IBN
 ,217,Battlestar_Pegasus_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:pegasusbbs.dyndns.org,IBN:24557
 ,218,KCM_BBS,Kautzen_AUT,Andreas_Zahrl,-Unpublished-,300,CM,INA:zahrl.ddns.net,IBN
