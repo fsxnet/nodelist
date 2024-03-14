@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 8, 2024 -- Day number 068 : 20394
+;A fsxNet Nodelist for Friday, March 15, 2024 -- Day number 075 : 22277
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -258,7 +258,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,151,Dock_Sud_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300,CM,INA:bbs.docksud.com.ar,IBN
 ,152,UnderZaNet_BBS,London_GBR,Jan_Henkins,-Unpublished-,300,CM,INA:bbs.under.za.net,ITN:2024,IBN:24555
 ,153,Cw_Shack_BBS,Winter_Park_USA,Tom_Moore,-Unpublished-,300,CM,INA:kf4yey.com,IBN
-,154,Danger_Bay_BBS,Vancouver_CAN,Tom_Swartz,-Unpublished-,300,CM,INA:dangerbaybbs.dyndns.org,IBN,ITN:1337
+,154,Danger_Bay_BBS,Edmonton_CAN,Tom_Swartz,-Unpublished-,300,CM,INA:dangerbaybbs.dyndns.org,IBN,ITN:1337
 ,156,CJ's_Place_BBS,Orange_City_USA,Chris_Johnson,-Unpublished-,300,CM,INA:cjsplace.thruhere.net,IBN
 ,157,The_Black_Tower,Hudson_USA,Hawk_Hubbard,-Unpublished-,300,CM,INA:blackflag.acid.org,IBN:24551,ITN:26
 ,158,Piranha_Reloaded_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300,CM,INA:blackflag.acid.org,IBN:24557,ITN:27
@@ -357,7 +357,7 @@ Down,120,Deep_Space_Gateway_BBS,Crystal_River_USA,Sam_Penwright,-Unpublished-,30
 ,158,The_Alpha_Complex,Berkely_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:alphacomplex.us,IBN,ITN:2323
 ,162,SlipStream_BBS,Oshawa_CAN,Scott_Styles,-Unpublished-,300,CM,INA:slipstreambbs.net,IBN
 ,163,Jensencloud,Fresno_CA_USA,Pat_Jensen,-Unpublished-,300,CM,INA:jensencloud.net,IBN
-,164,FuSiON_BBS,Deer_Park_USA,Chris_Schneider,-Unpublished-,300,CM,INA:fusion.zapto.org,IBN
+Down,164,FuSiON_BBS,Deer_Park_USA,Chris_Schneider,-Unpublished-,300,CM,INA:fusion.zapto.org,IBN
 ,167,The_Vault_BBS,Buenos_Aires_ARG,Rodrigo_Pelaez,-Unpublished-,300,CM,INA:thevaultbbs.fsxnet.nz,IBN
 ,170,Amiga_Retro_Brisbane_BBS,Brisbane_AUS,Mark_Casteleign,-Unpublished-,300,CM,INA:www.amigaretro.com,IBN
 Down,171,Star_Frontiers_BBS,Huntsville_USA,William_Williams,-Unpublished-,300,CM,INA:starfron.synchronetbbs.org,IBN
