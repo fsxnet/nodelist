@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 12, 2024 -- Day number 103 : 13117
+;A fsxNet Nodelist for Friday, April 19, 2024 -- Day number 110 : 17362
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -122,9 +122,11 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,143,The_Bridge_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:bridge.vkradio.com,IBN
 ,144,The_Titantic_BBS_Telnet,New_Derry_USA,T.J._McMillen,-Unpublished-,300,CM,INA:ttb.rgbbs.info,IBN
 ,145,Mystic_Pi_BBS,Nashua_USA,Brian_Wallace,-Unpublished-,300,CM,INA:bcw142.zapto.org,IBN:24556
+Pvt,146,Postbus_7,Nieuw_Vennep_NLD,Floris_van_Unen,-Unpublished-,300
 ,147,The_Comm's_Nut_BBS,Gagebrook_AUS,Danny_Moss,-Unpublished-,300,CM,INA:tcnbbs.fsxnet.nz,IBN
 ,148,Dark_Systems_BBS,Peterborough_CAN,Aaron_Grasswell,-Unpublished-,300,CM,INA:bbs.dsbbs.ca,IBN
 ,149,The_Fool's_Quarter_BBS,West_Linn_USA,Tim_Whitson,-Unpublished-,300,CM,INA:fqbbs.synchro.net,IBN
+,150,Vintage_Pi_BBS,Vancouver_CAN,Lloyd_Alexandre,-Unpublished-,300,CM,INA:vintagepi.asuscomm.com,IBN
 ,152,2nd_Choice_Core_BBS,Ashburton_NZL,Ian_Segers,-Unpublished-,300,CM,INA:2ndchoicecore.ddns.net,IBN:24555,ITN:1024
 ,153,Spark_BBS,Liege_BEL,Christian_Vanguers,-Unpublished-,300,CM,INA:poll.sparkbbs.eu,IBN
 ,154,Queen_City_BBS,Elmira_USA,Malachi_Doane,-Unpublished-,300,CM,INA:queencitybbs.ddns.net,IBN
@@ -153,6 +155,7 @@ Pvt,171,Modema_Tider_BBS,Gothenburg_SWE,Andreas_Selstam,-Unpublished-,300
 ,177,Goosenet_BBS,Nuremberg_GER,Michael_Geller,-Unpublished-,300,CM,INA:bbs.nifty5fty.com,IBN
 ,178,Internal_Dimension_BBS,Ontario_CAN,Dave_Vandermeer,-Unpublished-,300,CM,INA:bbs.idbbs.ca,IBN,ITN:59
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
+,180,Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,CM,INA:lotw.mywire.org,IBN
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
 ,182,Smuggler's_Cove_BBS,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:scove.talismanbbs.com,IBN
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
@@ -339,7 +342,7 @@ Down,120,Deep_Space_Gateway_BBS,Crystal_River_USA,Sam_Penwright,-Unpublished-,30
 ,139,Mythical_Kingdom_Tech_BBS,Dayton_OH_USA,Mark_May,-Unpublished-,300,CM,INA:bbs.mythicalkingdom.com,IBN
 ,144,Sonic_BBS,North_Yorkshire_GBR,Louis_Northmore,-Unpublished-,300,CM,INA:bbs.sonicbbs.co.uk,IBN
 ,145,TFSI,London_GBR,Nick_Young,-Unpublished-,300,CM,INA:tfsi.fsxnet.nz,IBN
-,147,Aliens'_Alcove_BBS,Taguig_City_PHL,Eric_Pareja,-Unpublished-,300,CM,INA:aliens.free.net.ph,IBN
+Down,147,Aliens'_Alcove_BBS,Taguig_City_PHL,Eric_Pareja,-Unpublished-,300,CM,INA:aliens.free.net.ph,IBN
 ,148,Roon's_BBS,Budapest_HUN,Daniel_Path,3614454412,300,CM,INA:bbs.studio64.hu,IBN,ITN:1212
 ,149,UAT_SOC,Mesa_AZ_USA,Aaron_Jones,-Unpublished-,300,CM,INA:UATSOC.fsxnet.nz,IBN
 ,151,CaNerDUH_BBS,Medicine_Hat_CAN,Travis_Mehrer,-Unpublished-,300,CM,INA:bbs.canerduh.com,ITN:23905
