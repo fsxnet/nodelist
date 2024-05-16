@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 10, 2024 -- Day number 131 : 17362
+;A fsxNet Nodelist for Friday, May 17, 2024 -- Day number 138 : 14310
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -101,11 +101,9 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,121,Xibalba_BBS,Salt_Lake_City_USA,Bryan_Ashby,-Unpublished-,300,CM,INA:xibalba.l33t.codes,IBN:54554,ITN:44510
 ,122,After_Hours_BBS,Lady_Lake_USA,Greg_Youngblood,-Unpublished-,300,CM,INA:ah-bbs.com,IBN
 ,123,Thiaramus_Den,Brooklyn_USA,Roman_Litvinenko,-Unpublished-,300,CM,INA:thiaramus.fsxnet.nz,IBN
-,124,EONA_BBS,Sabadell_ESP,Noemi_Abril,-Unpublished-,300,CM,INA:bbs.eona.cat,IBN
 ,125,The_Horizon_BBS,Huntington_Beach_USA,Chris_Wilson,-Unpublished-,300,CM,INA:bbs.horizonbbs.org,IBN
 ,126,Al's_Geek_Lab_BBS,Wellington_NZL,Alistair_Ross,-Unpublished-,300,CM,INA:bbs.alsgeeklab.com,IBN,ITN:2323
 ,127,Capital_Station_BBS,Nassau_USA,Gregory_Deyss,-Unpublished-,300,CM,INA:csbbs.dyndns.org,IBN
-,128,Drakonai_BBS,Vilnius_LUA,Audrius_Puplinskas,-Unpublished-,300,CM,INA:bbs.drakonai.lt,IBN
 ,129,SpaceSST_BBS,Montreal_CAN,Luc_McCarragher,-Unpublished-,300,CM,INA:mccarragher.org,IBN
 ,130,The_Unmarked_Van_BBS,Mt_Healthy_USA,Dave_Scott,-Unpublished-,300,CM,INA:unmarkedvan.fsxnet.nz,IBN
 ,131,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
@@ -161,20 +159,20 @@ Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
 ,185,Lightning_BBS,Spanish_Fork_USA,Steve_Helferich,-Unpublished-,300,CM,INA:lightningbbs.com,IBN,ITN:2400
+,186,Disconnected_by_Peer_BBS,Graz_AUT,Mario_Fetka,-Unpublished-,300,CM,INA:bbs.disconnected-by-peer.at,IBN
 ,187,CrNet_BBS,Saint_James_USA,John_Gonzales,-Unpublished-,300,CM,INA:bbs.crnet.net,IBN
 Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,189,Extricate_BBS,Godalming_GBR,Tristan_Greaves,-Unpublished-,300,CM,INA:bbs.extricate.org,IBN
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
 ,191,Zruspa's_HUB,Madrid_ESP,Angel_Ripoll,-Unpublished-,300,CM,INA:bbs.zruspas.org,IBN
 ,192,Zruspa's_BBS,Madrid_ESP,Angel_Ripoll,-Unpublished-,300,CM,INA:bbs.zruspas.org,IBN:24555
-,193,Darkstar_BBS,Vienna_AUT,Alexander_Winkler,-Unpublished-,300,CM,INA:darkstar.bmxjo.org,IBN:24556
 ,194,Diamond_Mine_Online_BBS,Fredericksburg_USA,David_Perrussel,-Unpublished-,300,CM,INA:bbs.dmine.net,IBN
 ,195,Dragon's_Claw_HUB,Melbourne_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:ftn.vk3heg.net,IBN
 ,196,Dragon's_Lair_BBS,Ballarat_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:dragon.vk3heg.net,IBN
-,197,Compufuck_BBS,Binghamton_USA,Aaron_Thomas,-Unpublished-,300,CM,INA:cfbbs.fsxnet.nz
 ,198,The_Fat_Dragon,New_York_USA,Dan_Cross,-Unpublished-,300,CM,INA:trunk.fat-dragon.org,IBN
 ,199,Clutch_BBS,Ontario_CAN,Mark_Stark,-Unpublished-,300,CM,INA:bbs.clutchbbs.com,IBN
 ,200,Pharcyde_HUB,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300,CM,INA:binkp.pharcyde.org,IBN
+Pvt,201,Halcyon_BBS,Montreal_CAN,Marc_Mathieu,-Unpublished-,300
 ,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJP,XW,V90C,X2C,VFC,V32T,H16,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
 ,204,Family_BBS,Auckland_NZL,Tony_Pawson,-Unpublished-,300,CM,INA:familybbs.ddns.net,IBN
 ,205,Magnum_BBS,Huddersfield_GBR,Keyop_Troy,-Unpublished-,300,CM,INA:bbs.magnum.uk.net,IBN
@@ -196,8 +194,10 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,221,The_FBO_BBS,Daytona_Beach_USA,Charles_Blackburn,-Unpublished-,300,CM,INA:bbs.thefbo.us,IBN
 ,223,OldComp_EU_BBS,Louny_CZE,Cerny_Eduard,-Unpublished-,300,CM,INA:bbs1.oldcomp.eu,IBN
 ,224,Spot_BBS,Whitelaw_USA,Steve_Weinert,-Unpublished-,300,CM,INA:spotbbs.k9zw.com,IBN
+,225,Darkages_BBS,Wayne_USA,Randy_Henderson,-Unpublished-,300,CM,INA:darkagesbbs.com,IBN
 ,226,Retro16_BBS,Melbourne_AUS,David_Florey,-Unpublished-,300,CM,INA:bbs.retro16.com,IBN
 ,227,Shipwrecks_&_Shibboleths_BBS,Marana_USA,Chris_Hizny,-Unpublished-,300,CM,INA:shibboleths.fsxnet.nz,IBN
+,228,SDF-1_BBS,Oakville_CAN,Ray_Slakinski,-Unpublished-,300,CM,INA:bbs.sdf1.net,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
 ,231,Southern_Comfort_BBS,Savannah_USA,Mike_Giddens,-Unpublished-,300,CM,INA:soco.bbs.io,IBN
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
@@ -217,7 +217,7 @@ Hub,100,Tholian_HUB,Perrysburg_USA,Todd_Zieman,-Unpublished-,300,CM,MO,INA:net2.
 ,104,The_Lake_House_BBS,Charlotte_USA,Chris_Richardson,-Unpublished-,300,CM,INA:lakehouse.lilpenguins.com,IBN
 ,105,CXX_BBS,Wilton_USA,Jim_Nessen,-Unpublished-,300,CM,INA:ccxbbs.fsxnet.nz,IBN
 Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
-,107,Torrent_BBS,Gorham_USA,Joseph_Diaz,-Unpublished-,300,CM,INA:torrentbbs.net,IBN
+,107,Another_F-ing_BBS,Eloy_USA,Gary_Crunk,-Unpublished-,300,CM,INA:anotherbbs.dynu.net,IBN
 ,108,Storm_BBS,Los_Altos_USA,April_Monoceros,-Unpublished-,300,CM,INA:telnet.stormbbs.com,IBN
 ,109,ByteBarn_BBS,Sernow_GER,Markus_Maussner,-Unpublished-,300,CM,INA:bbs.bytebarn.de,IBN
 ,110,Ink_Two_BBS,Covina_USA,Lawrence_Manuel,-Unpublished-,300,CM,INA:bbs.inktwo.com,IBN
@@ -357,7 +357,7 @@ Down,164,FuSiON_BBS,Deer_Park_USA,Chris_Schneider,-Unpublished-,300,CM,INA:fusio
 ,167,The_Vault_BBS,Buenos_Aires_ARG,Rodrigo_Pelaez,-Unpublished-,300,CM,INA:thevaultbbs.fsxnet.nz,IBN
 ,170,Amiga_Retro_Brisbane_BBS,Brisbane_AUS,Mark_Casteleign,-Unpublished-,300,CM,INA:www.amigaretro.com,IBN
 Down,171,Star_Frontiers_BBS,Huntsville_USA,William_Williams,-Unpublished-,300,CM,INA:starfron.synchronetbbs.org,IBN
-Down,172,Dark_Forces_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:darkforcesbbs.dyndns.org,IBN:24558
+,172,Dark_Forces_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:darkforcesbbs.dyndns.org,IBN:24558
 ,174,Exoplanet,Severna_Park_MD_USA,Shane_Wolfe,-Unpublished-,300,CM,INA:159.89.189.80,IBN
 ,176,The_Hobby_Line!_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:hobbylinebbs.com,IBN
 ,177,Alcoholiday,Columbia_SC_USA,Andy_Haworth,-Unpublished-,300,CM,INA:alco.bbs.io,IBN
