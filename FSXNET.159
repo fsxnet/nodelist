@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 24, 2024 -- Day number 145 : 42115
+;A fsxNet Nodelist for Friday, June 7, 2024 -- Day number 159 : 13636
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -156,7 +156,6 @@ Pvt,171,Modema_Tider_BBS,Gothenburg_SWE,Andreas_Selstam,-Unpublished-,300
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
 ,180,Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,CM,INA:lotw.mywire.org,IBN
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
-,182,Smuggler's_Cove_BBS,Toowoomba_AUS,Andrew_Pamment,-Unpublished-,300,CM,INA:scove.talismanbbs.com,IBN
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
 ,185,Lightning_BBS,Spanish_Fork_USA,Steve_Helferich,-Unpublished-,300,CM,INA:lightningbbs.com,IBN,ITN:2400
@@ -200,6 +199,7 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,227,Shipwrecks_&_Shibboleths_BBS,Marana_USA,Chris_Hizny,-Unpublished-,300,CM,INA:shibboleths.fsxnet.nz,IBN
 ,228,SDF-1_BBS,Oakville_CAN,Ray_Slakinski,-Unpublished-,300,CM,INA:bbs.sdf1.net,IBN
 ,229,TCOB1_BBS,Renvyle_IRL,Sean_Rima,-Unpublished-,300,CM,INA:tcob1.duckdns.org,IBN
+,230,NerdRage_BBS,St_Thomas_CAN,Jim_Howarth,-Unpublished-,300,CM,INA:nerdragebbs.ddns.net,IBN
 ,231,Southern_Comfort_BBS,Savannah_USA,Mike_Giddens,-Unpublished-,300,CM,INA:soco.bbs.io,IBN
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
 ,233,Phrenetic_BBS,Tonstad_NOR,Per_Gustav_Ousdal,-Unpublished-,300,CM,INA:bbs.ousdal.net,IBN
@@ -281,12 +281,12 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,110,Northern_Realms,Binbrook_ON_CA,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN,ITN:60179
 ,111,The_Unknown_Realm_BBS,Oshawa_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,113,Pweck's_Retreat_BBS,Omaha_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
-,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
+Down,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,122,Final_Zone_BBS,Memphis_USA,Chris_Eldridge,-Unpublished-,300,INA:final-zone.net,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN,ITN:60179
-,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
+Down,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
 ,135,Lunatics_Unleashed_BBS,Tonawanda_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Burnside_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,138,Taliadon_BBS,South_Wales_GBR,Lee_Westlake,-Unpublished-,300,CM,INA:taliadon.ddns.net,IBN
@@ -302,14 +302,14 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,167,VETBBS,Verbena_USA,Mike_Welborn,-Unpublished-,300,INA:0.tcp.ngrok.io,IBN
 ,168,ReTR0aKTiV,Greensboro_USA,Rob_Koliha,-Unpublished-,300,CM,INA:retr0aktiv.com,IBN
 ,169,TassieBob_BBS,Hobart_Tasmania_AU,Bob_Purdon,-Unpublished-,300,INA:bbs.tassiebob.com,IBN,ITN:2323
-,170,RVs_and_RPGs_BBS,Phoenix_USA,Jeff_Brissette,-Unpublished-,300,CM,INA:bbs.rvsandrpgs.com,IBN
+Down,170,RVs_and_RPGs_BBS,Phoenix_USA,Jeff_Brissette,-Unpublished-,300,CM,INA:bbs.rvsandrpgs.com,IBN
 ,171,STar_Fleet_HQ,Cuyahoga_Falls_USA,Andrew_Klenotic,-Unpublished-,300,INA:bbs.sfhqbbs.org,IBN,ITN:5983
 ,172,d0p3.intersrv.net,Melbourne_AUS,Nicholas_Brennan,-Unpublished-,300,INA:d0p3.intersrv.net,IBN
 ,174,Made_to_Raid_BBS,Griswold_USA,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
 ,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,177,Kludge_BBS,Chicago_USA,joshua_stein,13126540090,300,INA:klud.ge,IBN
 ,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,INA:bbs.diller.org,IBN
-,181,StarPort_BBS,Mikkeli_FIN,Tomas_Ukkonen,-Unpublished-,300,CM,INA:bbs.starport.fi,IBN
+Down,181,StarPort_BBS,Mikkeli_FIN,Tomas_Ukkonen,-Unpublished-,300,CM,INA:bbs.starport.fi,IBN
 Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
