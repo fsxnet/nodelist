@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 7, 2024 -- Day number 159 : 13636
+;A fsxNet Nodelist for Friday, June 14, 2024 -- Day number 166 : 32822
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -105,6 +105,7 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,125,The_Horizon_BBS,Huntington_Beach_USA,Chris_Wilson,-Unpublished-,300,CM,INA:bbs.horizonbbs.org,IBN
 ,126,Al's_Geek_Lab_BBS,Wellington_NZL,Alistair_Ross,-Unpublished-,300,CM,INA:bbs.alsgeeklab.com,IBN,ITN:2323
 ,127,Capital_Station_BBS,Nassau_USA,Gregory_Deyss,-Unpublished-,300,CM,INA:csbbs.dyndns.org,IBN
+,128,The_Other_Realm_BBS,Rockport_USA,Lawrence_Stockman,-Unpublished-,300,CM,INA:theotherrealmbbs.com,IBN
 ,129,SpaceSST_BBS,Montreal_CAN,Luc_McCarragher,-Unpublished-,300,CM,INA:mccarragher.org,IBN
 ,130,The_Unmarked_Van_BBS,Mt_Healthy_USA,Dave_Scott,-Unpublished-,300,CM,INA:unmarkedvan.fsxnet.nz,IBN
 ,131,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
@@ -271,6 +272,8 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
 Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:clrghouz.bbs.dege.au,IBN,ITN:60179
+Pvt,1,Discovered_System,Unknown,Unknown,-Unpublished-,300
+Pvt,10,Discovered_System,Unknown,Unknown,-Unpublished-,300
 Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:clrghouz.bbs.dege.au,IBN,ITN:60179
 ,101,The_Lower_Planes_BBS,Melbourne_AUS,Anthony_Adverse,-Unpublished-,300,INA:tlp.zapto.org,ITN:6502
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
@@ -286,7 +289,7 @@ Down,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,CM,INA:funtopia.
 ,122,Final_Zone_BBS,Memphis_USA,Chris_Eldridge,-Unpublished-,300,INA:final-zone.net,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN,ITN:60179
-Down,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
+,130,PB_Renegade_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:gapbbs.rdfig.net,IBN:24559
 ,135,Lunatics_Unleashed_BBS,Tonawanda_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Burnside_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,138,Taliadon_BBS,South_Wales_GBR,Lee_Westlake,-Unpublished-,300,CM,INA:taliadon.ddns.net,IBN
