@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 28, 2024 -- Day number 180 : 32822
+;A fsxNet Nodelist for Friday, July 5, 2024 -- Day number 187 : 44430
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -110,6 +110,7 @@ Pvt,116,sOUNDGARDEn,Zoetermeer_NLD,Marco_Reparon,-Unpublished-,300
 ,130,The_Unmarked_Van_BBS,Mt_Healthy_USA,Dave_Scott,-Unpublished-,300,CM,INA:unmarkedvan.fsxnet.nz,IBN
 ,131,Weather_Station_HUB,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN:24555
 ,132,Weather_Station_WWIV_BBS,Bel_Air_USA,Mark_Hofmann,-Unpublished-,300,CM,INA:bbs.weather-station.org,IBN
+,133,DJDave_BBS,Woodbridge_GBR,Dave_Jordan,-Unpublished-,300,CM,INA:bbs.djdave.uk,IBN,ITN:8088
 ,134,Mystic_Prison_Board_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:pbmystic.rdfig.net,IBN:24555,ITN:24
 ,135,Brokedown_Palace_Reprise_BBS,Pleasanton_USA,Steven_Southworth,-Unpublished-,300,CM,INA:palace.brokedownpalace.online,IBN
 ,136,N4TDX_BBS,Titusville_USA,Ricky_DeLuco,-Unpublished-,300,CM,INA:n4tdx.ddns.net,IBN
@@ -354,6 +355,7 @@ Down,147,Aliens'_Alcove_BBS,Taguig_City_PHL,Eric_Pareja,-Unpublished-,300,CM,INA
 ,153,ARDA_BBS,Delaware_USA,Tim_Woodland,-Unpublished-,300,CM,INA:arda-bbs.com,IBN
 ,156,The_Rock_BBS_III,Goshen_USA,Michael_Batts,-Unpublished-,300,CM,INA:therockbbs.net,IBN,ITN:10023
 ,157,LostCause_Halfway_House,Alden_USA,Ernest_Gainey,-Unpublished-,300,CM,INA:bbs.lostcause.house,IBN
+,158,Space_Junk!_BBS,Berkeley_USA,Robbie_Whiting,-Unpublished-,300,CM,INA:spacejunkbbs.com,IBN:24557,ITN:1992
 ,162,SlipStream_BBS,Oshawa_CAN,Scott_Styles,-Unpublished-,300,CM,INA:slipstreambbs.net,IBN
 ,167,The_Vault_BBS,Buenos_Aires_ARG,Rodrigo_Pelaez,-Unpublished-,300,CM,INA:thevaultbbs.fsxnet.nz,IBN
 ,170,Amiga_Retro_Brisbane_BBS,Brisbane_AUS,Mark_Casteleign,-Unpublished-,300,CM,INA:www.amigaretro.com,IBN
