@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 5, 2024 -- Day number 187 : 44430
+;A fsxNet Nodelist for Friday, July 12, 2024 -- Day number 194 : 31789
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -84,7 +84,7 @@ Pvt,103,Micro_Link_BBS,Maryborough_AUS,Lloyd_Russell,-Unpublished-,300
 ,104,Region_15_HQ_BBS,Colorado_Springs_USA,Terry_Barlow,-Unpublished-,300,CM,INA:region15.net,IBN
 ,105,Alien_Signals_BBS,Dutton_USA,Scott_Carter,-Unpublished-,300,CM,INA:bbs.aliensignals.ca,IBN
 ,106,BlackICE_BBS,Duesseldorf_DEU,Vitus_Zeel,-Unpublished-,300,CM,INA:blackice.bbsindex.de,IBN
-,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
+Down,107,The_ByteXchange_BBS,Lindale_USA,Chad_Adams,-Unpublished-,300,CM,INA:bbs.thebytexchange.com,IBN
 ,108,Eternal_Domain_BBS,Bakersfield_USA,Kenny_Taylor,-Unpublished-,300,CM,INA:eternaldomain.fsxnet.nz,IBN
 ,109,Freeway_BBS,Bendigo_AUS,Tony_Langdon,-Unpublished-,300,CM,INA:freeway.vkradio.com,IBN
 ,110,AmigaXess,Georgsmarienhuette_DEU,Ingo_Juergensmann,-Unpublished-,300,CM,INA:ftn.amigaxess.de,IBN
@@ -168,6 +168,7 @@ Pvt,188,ACiD_Underworld_BBS,Hudson_USA,Hawk_Hubbard,-Unpublished-,300
 ,190,Abacus_BBS,Portland_USA,Rick_Smith,-Unpublished-,300,CM,INA:bbs.abon.us,IBN,ITN:2323
 ,191,Zruspa's_HUB,Madrid_ESP,Angel_Ripoll,-Unpublished-,300,CM,INA:bbs.zruspas.org,IBN
 ,192,Zruspa's_BBS,Madrid_ESP,Angel_Ripoll,-Unpublished-,300,CM,INA:bbs.zruspas.org,IBN:24555
+,193,Dundarach_BBS,Hull_GBR,Chris_Jennings,-Unpublished-,300,CM,INA:dundarach.tplinkdns.com,IBN
 ,194,Diamond_Mine_Online_BBS,Fredericksburg_USA,David_Perrussel,-Unpublished-,300,CM,INA:bbs.dmine.net,IBN
 ,195,Dragon's_Claw_HUB,Melbourne_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:ftn.vk3heg.net,IBN
 ,196,Dragon's_Lair_BBS,Ballarat_AUS,Stephen_Walsh,-Unpublished-,300,CM,INA:dragon.vk3heg.net,IBN
@@ -345,6 +346,7 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,134,Possum_Lodge_South_BBS,Frankfort_USA,Mike_Powell,-Unpublished-,300,CM,INA:possumso.fsxnet.nz,IBN:24555,ITN:7636
 ,137,8_Bit_Boyz_BBS,Rio_Rancho_USA,Shane_O'Neill,-Unpublished-,300,CM,INA:8bitboyz.bbs.io,ITN:6502
 ,138,CIA_Amiga_BBS,Mayflower_USA,Tim_Grooms,-Unpublished-,300,CM,INA:ciaamigabbs.dynu.net,IBN,ITN:6400
+,142,Off_the_Wall,St_Peters_MO_USA,Robert_Stinnett,-Unpublished-,300,CM,INA:offthewall.dmxrob.net,IBN
 ,144,Sonic_BBS,North_Yorkshire_GBR,Louis_Northmore,-Unpublished-,300,CM,INA:bbs.sonicbbs.co.uk,IBN
 ,145,TFSI,London_GBR,Nick_Young,-Unpublished-,300,CM,INA:tfsi.fsxnet.nz,IBN
 Down,147,Aliens'_Alcove_BBS,Taguig_City_PHL,Eric_Pareja,-Unpublished-,300,CM,INA:aliens.free.net.ph,IBN
