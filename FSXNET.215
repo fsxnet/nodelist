@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 26, 2024 -- Day number 208 : 31966
+;A fsxNet Nodelist for Friday, August 2, 2024 -- Day number 215 : 47792
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -208,6 +208,7 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,232,Zooropa_BBS,CABA_ARG,Gaston_Martres,-Unpublished-,300,CM,INA:zooropabbs.ddns.net,IBN
 ,233,Phrenetic_BBS,Tonstad_NOR,Per_Gustav_Ousdal,-Unpublished-,300,CM,INA:bbs.ousdal.net,IBN
 ,234,Rise_n_Shine_BBS,New_Providence_USA,Rob_Olsen,-Unpublished-,300,CM,INA:risenshinebbs.com,IBN
+,235,Va2rfc_BBS,Les_Mechins_CAN,Richard_Murray,-Unpublished-,300,CM,INA:va2rfcbbs.photorm.net,IBN
 ,236,Lunar_Mod_BBS,New_Port_Richey_USA,David_Thielemann,-Unpublished-,300,CM,INA:bbs.beanzilla.net,IBN
 ,237,Eye_of_the_Storm_BBS,New_Plymouth_NZL,Benjamin_Aitchison,-Unpublished-,300,CM,INA:on.the.net.nz,IBN
 ,238,The_Global_Village_BBS,Emmen_NLD,Sebastian_van_der_Veen,-Unpublished-,300,CM,INA:the.globalvillagebbs.net,IBN
@@ -331,11 +332,13 @@ Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet
 ,101,Back_to_the_Future_BBS,Pennsylvania_USA,Bill_Simon,-Unpublished-,300,CM,INA:bttfbbs.com,IBN
 ,102,Legends_of_Yesteryear,Huntsville_USA,Dallas_Vinson,-Unpublished-,300,CM,INA:furmenservices.net,IBN:24555,ITN:23322
 ,103,The_Undermine,Calgary_CAN,Kostie_Muirhead,-Unpublished-,300,CM,INA:bbs.undermine.ca,IBN
+,104,Sweden_Gigabyte_BBS,Mora_SWE,Peter_Nilsson,-Unpublished-,300,CM,INA:bbs.gigabite.se,IBN
 ,105,Phoenix_BBS,Groton_CT_USA,Andrew_Leary,1-860-446-6118,300,H16,V34,V32T,V42B,XACM,INA:phoenix.bnbbbs.net,IBN:24555,ITN:60177
 ,106,The_Rusty_Mailbox_BBS,Penticton_CAN,Alan_Ianson,-Unpublished-,300,CM,XW,INA:trmb.ca,IBN
 ,107,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee,-Unpublished-,300,CM,INA:x-bit.org,IBN:24556
 ,108,Inland_Utopia,Ontario_USA,Matthew_Munson,-Unpublished-,300,CM,INA:iutopia.duckdns.org,IBN
 ,109,9640_News_BBS,Campbellsburg_USA,Beery_Miller,-Unpublished-,300,CM,INA:9640news.ddns.net,IBN,ITN:9640
+,110,NetPoint,Rome_ITA,Alessio_Tempesta,-Unpublished-,300,CM,INA:netpoint.webhop.me,IBN
 ,113,Baud_BBS,Kirkland_WA_USA,Richard_Orr,-Unpublished-,300,CM,INA:bbs.baud.games,IBN
 ,114,Reisub_BBS,Buenos_Aires_ARG,Fabian_Bonetti,-Unpublished-,300,CM,INA:reisub.nsupdate.info,IBN
 ,116,Intermail_Support,Chicago_USA,Dale_Barnes,-Unpublished-,300,CM,INA:im.ifidonet.com,IBN
