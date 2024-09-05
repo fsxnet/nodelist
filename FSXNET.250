@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 30, 2024 -- Day number 243 : 29129
+;A fsxNet Nodelist for Friday, September 6, 2024 -- Day number 250 : 58248
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -156,7 +156,7 @@ Pvt,171,Modema_Tider_BBS,Gothenburg_SWE,Andreas_Selstam,-Unpublished-,300
 ,177,Goosenet_BBS,Nuremberg_GER,Michael_Geller,-Unpublished-,300,CM,INA:bbs.nifty5fty.com,IBN
 ,178,Internal_Dimension_BBS,Ontario_CAN,Dave_Vandermeer,-Unpublished-,300,CM,INA:bbs.idbbs.ca,IBN,ITN:59
 Pvt,179,Cryptogenic_Radix_BBS,Dunedin_NZL,Paul_Hayton,-Unpublished-,300
-,180,Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,CM,INA:lotw.mywire.org,IBN
+,180,The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,CM,INA:bbs.theshardforge.cc,IBN
 ,181,Ninho_do_Abutre_2_BBS,Rio_de_Janeiro_BRA,Mauro_Veiga,-Unpublished-,300,CM,INA:abutre.no-ip.org,ITN:2323
 ,183,Vertrauen_BBS,Norco_USA,Rob_Swindell,-Unpublished-,300,CM,INA:vert.synchro.net,IBN
 ,184,Echo_Base_BBS,Perry_USA,Jeff_Jun,-Unpublished-,300,CM,INA:telnet.echo-base-bbs.com,IBN
@@ -217,6 +217,9 @@ Pvt,211,Crazy_Paradise,Berlin_DEU,Daniel_Elsner,-Unpublished-,300
 ,241,Local_Yocal_BBS,Clearwater_USA,Mark_Meserve,-Unpublished-,300,CM,INA:localyocalbbs.com,IBN
 ,242,Rick's_BBS,North_Carolina_USA,Ricky_Sutphin,-Unpublished-,300,CM,INA:ricksbbs.synchro.net,IBN
 ,243,Galaxy_BBS,Livingston_USA,Thomas_Mccaffery,-Unpublished-,300,CM,INA:galaxybbs.net,IBN
+,244,HeXeD_BBS,Trou_USA,Mitch_Greive,-Unpublished-,300,CM,INA:hexedbbs.com,IBN
+,245,GeoSync_BBS,Texarkana_USA,Claude_Mercy,-Unpublished-,300,CM,INA:geo.synchro.net,IBN
+,246,Cabana_Bar_BBS,Glastonbury_USA,Matt_Webster,-Unpublished-,300,CM,INA:bbs.cabanabar.net,IBN
 ,616,Cold_Fusion_BBS,Grand_Rapids_USA,Alexander_Grotewohl,-Unpublished-,300,CM,INA:cfbbs.net,IBN
 Pvt,700,The_Pharcyde_BBS,Pewaukee_USA,Nicholas_Boel,-Unpublished-,300
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
