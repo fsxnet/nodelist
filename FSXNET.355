@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 13, 2024 -- Day number 348 : 01755
+;A fsxNet Nodelist for Friday, December 20, 2024 -- Day number 355 : 45539
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
 ;A
@@ -252,20 +252,20 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,125,Mystic_Hobbies_BBS,Sun_City_Center_USA,Mike_Dippel,-Unpublished-,300,CM,INA:mystic-hobbies.com,IBN
 ,126,Rust_Belt_BBS,Rochester_USA,Kevin_Miller,-Unpublished-,300,CM,INA:rbbbs.mtonetwork.com,IBN:24555
 ,127,Battlestar_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestarbbs.dyndns.org,IBN
-,128,oNyX_BBS,Bristol_USA,Clive_Reuben,-Unpublished-,300,CM,INA:onyxbbs.mywire.org,IBN
+Down,128,oNyX_BBS,Bristol_USA,Clive_Reuben,-Unpublished-,300,CM,INA:onyxbbs.mywire.org,IBN
 ,129,Kuehlbox_BBS,Frankfurt_GER,Philipp_Giebel,-Unpublished-,300,CM,INA:kuehlbox.wtf,IBN
 ,130,Delta_City_BBS,Vallentuna_SWE,Joacim_Melin,-Unpublished-,300,CM,INA:deltacity.fsxnet.nz,IBN:24556
-,131,Orbit_BBS,Opp_USA,Allen_Scofield,-Unpublished-,300,CM,INA:orbitbbs.ddns.net,IBN
+Down,131,Orbit_BBS,Opp_USA,Allen_Scofield,-Unpublished-,300,CM,INA:orbitbbs.ddns.net,IBN
 ,132,Archaic_Binary_BBS,Orlando_USA,Wayne_Smith,-Unpublished-,300,CM,INA:bbs.archaicbinary.net,IBN
 ,133,Time_Machine_BBS,Dodge_Center_USA,Dennis_Davison,-Unpublished-,300,CM,INA:timemachinebbs.com,IBN
 ,134,Splatterhaus_BBS,Arlington_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:splatter.haus,IBN:24555
-,137,Tsali's_BBS,Louisville_USA,James_Washington,-Unpublished-,300,CM,INA:tsali.ddns.net,IBN,ITN:9023
+Down,137,Tsali's_BBS,Louisville_USA,James_Washington,-Unpublished-,300,CM,INA:tsali.ddns.net,IBN,ITN:9023
 ,138,Palantir_BBS,Pensacola_USA,Dan_Clough,-Unpublished-,300,CM,INA:palantirbbs.ddns.net,IBN
 ,140,Subcarrier_BBS,Ottawa_CAN,John_McCoy,-Unpublished-,300,CM,INA:subcarrier.ignorelist.com,IBN,ITN:2323
 ,141,SiliconUnderground,Rochester_USA,Jason_Bock,-Unpublished-,300,CM,INA:siliconu.com,IBN
 ,142,TheViper_BBS,Fernley_USA,LLoyd_Fellon,-Unpublished-,300,CM,INA:theviperbbs.mywire.org,IBN
-,143,Digicom_BBS,Evansville_USA,Gary_Barr,-Unpublished-,300,CM,INA:bbs.digicombbs.com,IBN
-,144,Outremer_BBS,Vancouver_CAN,Pieter_Bakker,-Unpublished-,300,CM,INA:outremer.fsxnet.nz,IBN
+Down,143,Digicom_BBS,Evansville_USA,Gary_Barr,-Unpublished-,300,CM,INA:bbs.digicombbs.com,IBN
+Down,144,Outremer_BBS,Vancouver_CAN,Pieter_Bakker,-Unpublished-,300,CM,INA:outremer.fsxnet.nz,IBN
 ,145,WalledCTTY_BBS,Fort_Collins_USA,Thom_Miller,-Unpublished-,300,CM,INA:bbs.walledctty.com,IBN
 ,146,Hold_Fast!_BBS,Ottawa_CAN,Paul_Lopez,-Unpublished-,300,CM,INA:mansion.dynv6.net,IBN
 ,147,Altair_IV_BBS,Lufkin_USA,Scott_Daniels,-Unpublished-,300,CM,INA:altairiv.ddns.net,IBN
@@ -284,7 +284,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,161,DaRK_Games_BBS,Kannapolis_USA,Arturo_Busleiman,-Unpublished-,300,CM,INA:darkgame.buanzo.org,IBN
 ,162,BBS_Gametime,Pittsburgh_USA,Gary_Ailes,-Unpublished-,300,CM,INA:web.bbsgametime.com,IBN
 ,165,LoFi_BBS,Ottawa_CAN,Matt_Gibson,-Unpublished-,300,CM,INA:lofi.ooo,IBN
-,166,Dark_Carnival_BBS,LaGrange_USA,Richard_Matthews,-Unpublished-,300,CM,INA:bbs.darkcarnival.org,IBN
+Down,166,Dark_Carnival_BBS,LaGrange_USA,Richard_Matthews,-Unpublished-,300,CM,INA:bbs.darkcarnival.org,IBN
 ,167,ITBNET_BBS,Rome_ITA,Pasquale_Monti,-Unpublished-,300,CM,INA:bbs.itbnet.eu,IBN
 ,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
@@ -334,7 +334,7 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 Hold,192,PsyControl,Watauga_TX,David_DeWell,-Unpublished-,300,INA:psycontrolbbs.com,IBN
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
-,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net
+,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic.a-net-online.lol,IBN
 ,197,Bloodlust,Toowoomba_QLD_AU,Andrew_Pamment,-Unpublished-,300,CM,INA:bloodlust.envybbs.org,IBN:24556
 ,198,DelawareBBS,NewarkDE,Don_Stratton,-Unpublished-,300,CM,INA:delawarebbs.com,IBN,ITN:60179
@@ -355,7 +355,6 @@ Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet
 ,110,NetPoint,Rome_ITA,Alessio_Tempesta,-Unpublished-,300,CM,INA:netpoint.webhop.me,IBN
 ,111,The_Arena_BBS,Defiance_USA,Randall_Schad,-Unpublished-,300,CM,INA:netasylum.com,IBN
 ,113,Baud_BBS,Kirkland_WA_USA,Richard_Orr,-Unpublished-,300,CM,INA:bbs.baud.games,IBN
-,114,Reisub_BBS,Buenos_Aires_ARG,Fabian_Bonetti,-Unpublished-,300,CM,INA:reisub.nsupdate.info,IBN
 ,116,Intermail_Support,Chicago_USA,Dale_Barnes,-Unpublished-,300,CM,INA:im.ifidonet.com,IBN
 Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,121,AlcaBBS,Apeldoorn_NLD,Michael_Trip,-Unpublished-,300,CM,INA:bbs.alcatrash.org,IBN
@@ -382,13 +381,11 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,167,The_Vault_BBS,Buenos_Aires_ARG,Rodrigo_Pelaez,-Unpublished-,300,CM,INA:thevaultbbs.fsxnet.nz,IBN
 ,170,Amiga_Retro_Brisbane_BBS,Brisbane_AUS,Mark_Casteleign,-Unpublished-,300,CM,INA:www.amigaretro.com,IBN
 ,172,Dark_Forces_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:darkforcesbbs.dyndns.org,IBN:24558
-,174,Exoplanet,Severna_Park_MD_USA,Shane_Wolfe,-Unpublished-,300,CM,INA:159.89.189.80,IBN
 ,176,The_Hobby_Line!_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:hobbylinebbs.com,IBN
 ,177,Alcoholiday,Columbia_SC_USA,Andy_Haworth,-Unpublished-,300,CM,INA:alco.bbs.io,IBN
 ,181,Planet_Afr0,Virginia_Beach_VA_USA,Jason_Reznor,-Unpublished-,300,CM,INA:planetafr0.org,IBN:54554
 ,183,REACT-BBS,Tortoreto_ITA,Nicola_Mettimano,-Unpublished-,300,CM,INA:react-bbs.nikoh.it
 Down,184,WarpeD_SocieTy,Griswold_CT_USA,Allen_Mitchell,-Unpublished-,300,CM,INA:73.238.86.237
-,185,Slinkys_Place,Phenix_City_AL_USA,Steven_Bennett,-Unpublished-,300,CM,INA:slinkybbs.com,IBN
 ,187,Operation_Ivy,Delmar_DE_USA,David_Sachs,-Unpublished-,300,CM,INA:opivy-bbs.com,IBN
 ;
 Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
