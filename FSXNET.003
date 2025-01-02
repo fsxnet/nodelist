@@ -1,6 +1,6 @@
-;A fsxNet Nodelist for Friday, December 27, 2024 -- Day number 362 : 19129
+;A fsxNet Nodelist for Friday, January 3, 2025 -- Day number 003 : 26294
 ;A
-;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2024
+;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
 ;A                 ____                    _   __         __
 ;A                / __/   _____   _  __   / | / /  ___   / /_
@@ -336,7 +336,7 @@ Hold,192,PsyControl,Watauga_TX,David_DeWell,-Unpublished-,300,INA:psycontrolbbs.
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
-,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic.a-net-online.lol,IBN
+,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 ,197,Bloodlust,Toowoomba_QLD_AU,Andrew_Pamment,-Unpublished-,300,CM,INA:bloodlust.envybbs.org,IBN:24556
 ,198,DelawareBBS,NewarkDE,Don_Stratton,-Unpublished-,300,CM,INA:delawarebbs.com,IBN,ITN:60179
 ,199,4d2_dot_org,Portland_Oregon_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
