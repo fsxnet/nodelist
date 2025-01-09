@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 3, 2025 -- Day number 003 : 26294
+;A fsxNet Nodelist for Friday, January 10, 2025 -- Day number 010 : 13529
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -290,14 +290,14 @@ Down,166,Dark_Carnival_BBS,LaGrange_USA,Richard_Matthews,-Unpublished-,300,CM,IN
 ,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
-Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21.bbs.dege.au,IBN,ITN:60179
+Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21,IBN,ITN:60179
 Pvt,1,Discovered_System,Unknown,Unknown,-Unpublished-,300
 Pvt,10,Discovered_System,Unknown,Unknown,-Unpublished-,300
-Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.bbs.dege.au,IBN,ITN:60179
+Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21,IBN,ITN:60179
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
-Hold,109,Manic_Modem_BBS,Union_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
+,109,Manic_Modem_BBS,Union_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CA,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN,ITN:60179
 ,111,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,113,Pwecks_Retreat,Omaha_NE_US,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
@@ -330,7 +330,7 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
 ,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN
-,189,A-Net_Online_BBS,Woodstock_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
+,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
 Hold,192,PsyControl,Watauga_TX,David_DeWell,-Unpublished-,300,INA:psycontrolbbs.com,IBN
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
