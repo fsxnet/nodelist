@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 14, 2025 -- Day number 045 : 51925
+;A fsxNet Nodelist for Friday, February 21, 2025 -- Day number 052 : 29949
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -372,13 +372,12 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 Down,184,WarpeD_SocieTy,Griswold_CT_USA,Allen_Mitchell,-Unpublished-,300,CM,INA:73.238.86.237
 ,187,Operation_Ivy,Delmar_DE_USA,David_Sachs,-Unpublished-,300,CM,INA:opivy-bbs.com,IBN
 ;
-Host,5,fsxNet_(NET_5),Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
-Hub,100,Omicron_HUB/WildCat_Prison_BBS,Mesquite_USA,Ruben_Figueroa,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN:24555,ITN:2324,IVM
-,101,The_File_Bank_BBS,Cairns_AUS,Terry_Roati,-Unpublished-,300,CM,XR,INA:tfb-bbs.org,IBN,IFT,ITN,IVM,ITX:transx@tfb-bbs.org
-,102,Tri-Star_BBS,Murfreesboro_USA,Thomas_Kloos,-Unpublished-,300,CM,INA:bbs.tristarbbs.com,IBN
-,103,The_Computer_Express,Anoka_USA,Chris_Costakis,-Unpublished-,300,CM,INA:bbs.costakis.org,ITN:3141,IVM
-,104,EMS_BBS,Anaheim_USA,Scott_Labrecque,-Unpublished-,300,CM,INA:ems-bbs.com,IVM
-,107,Cavan_Rural_Community_Wirless_Network,Cavan_IRL,Steve_Reader,-Unpublished-,300,CM,INA:86.47.50.239,IVM
+Host,5,fsxNet_(NET_5),Cairns_Australia,Terry_Roati,-Unpublished-,300,CM,INA:net5.fsxnet.nz,IBN,ITN,IVM
+Hub,100,The_File_Bank_BBS,Cairns_AUS,Terry_Roati,-Unpublished-,300,CM,XR,INA:tfb-bbs.org,IBN,ITN,IVM
+,101,The_File_Bank_BBS,Cairns_AUS,Terry_Roati,-Unpublished-,300,CM,XR,INA:tfb-bbs.org,IBN,ITN,IVM
+Down,102,Tri-Star_BBS,Murfreesboro_USA,Thomas_Kloos,-Unpublished-,300,CM,INA:bbs.tristarbbs.com,IBN,ITN
+,103,The_Computer_Express,Anoka_USA,Chris_Costakis,-Unpublished-,300,CM,INA:bbs.costakis.org,IBN,ITN,IVM
+,104,EMS_BBS,Anaheim_USA,Scott_Labrecque,-Unpublished-,300,CM,INA:ems-bbs.com,IBN,ITN,IVM
 ;A
 ;A == Nodelist Flags ========================================================
 ;A
