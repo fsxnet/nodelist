@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 21, 2025 -- Day number 052 : 29949
+;A fsxNet Nodelist for Friday, February 28, 2025 -- Day number 059 : 32866
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -292,8 +292,7 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
-Hold,150,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
-Down,153,Mortal_BBS,Blue_Mountains_AU,Shaun_Ewing,-Unpublished-,300,CM,INA:bbs.mortalbbs.com,IBN,ITN:60179
+Down,150,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
@@ -304,16 +303,15 @@ Down,153,Mortal_BBS,Blue_Mountains_AU,Shaun_Ewing,-Unpublished-,300,CM,INA:bbs.m
 ,174,Made_to_Raid,Griswold_CT_US,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
 ,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,177,Kludge_BBS,Chicago_USA,joshua_stein,13126540090,300,INA:klud.ge,IBN
-,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,INA:bbs.diller.org,IBN
+Hold,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,INA:bbs.diller.org,IBN
 Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
-Hold,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN
+,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
-,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN
+Hold,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
-Down,192,PsyControl,Watauga_TX,David_DeWell,-Unpublished-,300,INA:psycontrolbbs.com,IBN
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
@@ -321,7 +319,6 @@ Down,192,PsyControl,Watauga_TX,David_DeWell,-Unpublished-,300,INA:psycontrolbbs.
 ,197,Bloodlust,Toowoomba_QLD_AU,Andrew_Pamment,-Unpublished-,300,CM,INA:bloodlust.envybbs.org,IBN:24556
 ,198,DelawareBBS,NewarkDE,Don_Stratton,-Unpublished-,300,CM,INA:delawarebbs.com,IBN,ITN:60179
 ,199,4d2_dot_org,Portland_Oregon_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
-Down,200,Reverse_Polarity,Vancouver_BC,Matthew_Asham,-Unpublished-,300,INA:revpol.lovelybits.org,IBN
 ,210,Northern_Realms/TG,Binbrook_Ontario_Canada,Jay_Harris,-Unpublished-,300,INA:tg.nrbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
 ;
