@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 28, 2025 -- Day number 059 : 10712
+;A fsxNet Nodelist for Friday, March 7, 2025 -- Day number 066 : 05785
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -229,11 +229,13 @@ Pvt,106,Dock_Sud_Mystic_BBS,Dock_Sud_ARG,Fernando_Toledo,-Unpublished-,300
 ,110,Ink_Two_BBS,Covina_USA,Lawrence_Manuel,-Unpublished-,300,CM,INA:bbs.inktwo.com,IBN
 ,111,Leisure_Time_BBS,New_Baden_USA,Robert_Riddell,-Unpublished-,300,CM,INA:bbs.riddells.net,IBN,ITN:10023
 ,112,Thunder_BBS,Danielsville_USA,Jay_Wheeler,-Unpublished-,300,CM,INA:thunderbss.ringet.org,IBN
+,113,SWORDCOM_BBS,Moville_USA,Chris_Gonzales,-Unpublished-,300,CM,INA:swordcom.heretichunters.org,IBN
 ,114,Freeside_BBS,Monroe_USA,Marty_Taylor,-Unpublished-,300,CM,INA:freeside.bbs.io,IBN
 ,115,Mystic_Rhythms_BBS,San_Francisco_USA,Rob_Cole,-Unpublished-,300,CM,INA:mystic.wwivbbs.org,IBN
 ,116,Chinwag_BBS,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:alterant.bbs.dege.au,IBN:24564
 ,118,Halls_of_Valhalla_BBS,San_Francisco_USA,Morgan_Collins,-Unpublished-,300,CM,INA:hoval.synchro.net,IBN:24553
 ,119,Digital_Asylum_BBS,Rosario_ARG,Damian_Kleiman,-Unpublished-,300,CM,INA:bbs.digitalasylum.com.ar,IBN,ITN:2323
+,121,RetroSwim_BBS,Brisbane_AUS,Brendan_Chant,-Unpublished-,300,CM,INA:ezycom.retroswim.net,IBN
 ,122,Battlestar_III_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:battlestar3.dyndns.org,IBN
 ,123,Deadbeatz_BBS,Albuquerque_USA,Tim_Blada,-Unpublished-,300,CM,INA:deadbeatz.org,IBN
 Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
@@ -303,7 +305,7 @@ Down,150,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,-Unpublished-,300,CM
 ,174,Made_to_Raid,Griswold_CT_US,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
 ,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,177,Kludge_BBS,Chicago_USA,joshua_stein,13126540090,300,INA:klud.ge,IBN
-Hold,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,INA:bbs.diller.org,IBN
+,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
 Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
