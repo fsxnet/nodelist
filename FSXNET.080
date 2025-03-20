@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 14, 2025 -- Day number 073 : 35366
+;A fsxNet Nodelist for Friday, March 21, 2025 -- Day number 080 : 58884
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -273,10 +273,10 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
-Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21,IBN,ITN:60179
+Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21.bbs.dege.au,IBN,ITN:60179
 Pvt,1,Discovered_System,Unknown,Unknown,-Unpublished-,300
 Pvt,10,Discovered_System,Unknown,Unknown,-Unpublished-,300
-Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21,IBN,ITN:60179
+Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.bbs.dege.au,IBN,ITN:60179
 Down,101,The_Lower_Planes_BBS,Melbourne_AUS,Anthony_Adverse,-Unpublished-,300,INA:tlp.zapto.org,ITN:6502
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
@@ -294,7 +294,6 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
-Down,150,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,-Unpublished-,300,CM,INA:lab.zylone.org,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
@@ -311,7 +310,7 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
 ,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
-Hold,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN
+,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN:24555
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
