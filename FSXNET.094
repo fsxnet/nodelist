@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 28, 2025 -- Day number 087 : 59537
+;A fsxNet Nodelist for Friday, April 4, 2025 -- Day number 094 : 52225
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -273,17 +273,15 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
-Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21.bbs.dege.au,IBN,ITN:60179
-Pvt,1,Discovered_System,Unknown,Unknown,-Unpublished-,300
-Pvt,10,Discovered_System,Unknown,Unknown,-Unpublished-,300
-Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.bbs.dege.au,IBN,ITN:60179
+Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21.bbs.dege.au,IBN
+Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.bbs.dege.au,IBN
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
 ,109,Manic_Modem_BBS,Union_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CA,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN,ITN:60179
 ,111,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
-,113,Pwecks_Retreat,Omaha_NE_US,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
+,113,Pweck's_Retreat_BBS,Omaha_NE,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
 ,119,FuNToPia,Potsdam_DE,Stephan_Gebbers,-Unpublished-,300,INA:funtopia.ddnss.eu,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
@@ -301,13 +299,13 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,171,STar_Fleet_HQ,Cuyahoga_Falls_USA,Andrew_Klenotic,-Unpublished-,300,INA:bbs.sfhqbbs.org,IBN,ITN:5983
 ,172,d0p3.intersrv.net,Melbourne_AUS,Nicholas_Brennan,-Unpublished-,300,INA:d0p3.intersrv.net,IBN
 ,174,Made_to_Raid,Griswold_CT_US,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
-,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
+,176,FlipperZero_BBS,Livorno_Italy,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN,ITN:2323
 ,177,Kludge_BBS,Chicago_USA,joshua_stein,13126540090,300,INA:klud.ge,IBN
-,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
+Hold,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
 Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
-,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN
+,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN,ITN:23023
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
 ,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN:24555
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
@@ -317,7 +315,7 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 Hold,197,Bloodlust,Toowoomba_QLD_AU,Andrew_Pamment,-Unpublished-,300,CM,INA:bloodlust.envybbs.org,IBN:24556
-Hold,198,DelawareBBS,NewarkDE,Don_Stratton,-Unpublished-,300,CM,INA:delawarebbs.com,IBN,ITN:60179
+Down,198,DelawareBBS,NewarkDE,Don_Stratton,-Unpublished-,300,CM,INA:delawarebbs.com,IBN,ITN:60179
 ,199,4d2_dot_org,Portland_Oregon_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,210,Northern_Realms/TG,Binbrook_Ontario_Canada,Jay_Harris,-Unpublished-,300,INA:tg.nrbbs.net,IBN
 Pvt,999,New_System,AnyTown_AnyCountry,New_Sysop,-Unpublished-,300
