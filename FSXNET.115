@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 18, 2025 -- Day number 108 : 02728
+;A fsxNet Nodelist for Friday, April 25, 2025 -- Day number 115 : 42992
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -273,7 +273,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,168,Capitol_Shrill_BBS,Washington_DC_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:capitolshrill.com,IBN
 Pvt,1202,Error_1202_BBS,Perrysburg_USA,Todd_Zieman,-Unpublished-,300
 ;
-Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:n3.z21.bbs.dege.au,IBN
+Host,3,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,CM,INA:clrghouz.bbs.dege.au,IBN
 Hub,100,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.bbs.dege.au,IBN
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
@@ -287,10 +287,9 @@ Hold,119,FuNToPia,Potsdam_DE,Stephan_Gebbers,-Unpublished-,300,INA:funtopia.ddns
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN,ITN:60179
 ,135,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
-,137,Wicked_Garden_BBS,Melbourne_Victoria_Australia,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
+Hold,137,Wicked_Garden_BBS,Melbourne_Victoria_Australia,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
-,148,Nodewarrior_BBS,Houston_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
@@ -300,8 +299,8 @@ Hold,119,FuNToPia,Potsdam_DE,Stephan_Gebbers,-Unpublished-,300,INA:funtopia.ddns
 ,172,d0p3.intersrv.net,Melbourne_AUS,Nicholas_Brennan,-Unpublished-,300,INA:d0p3.intersrv.net,IBN
 ,174,Made_to_Raid,Griswold_CT_US,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
 ,176,FlipperZero_BBS,Livorno_Italy,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN,ITN:2323
-,177,Kludge_BBS,Chicago_USA,joshua_stein,13126540090,300,INA:klud.ge,IBN
-Hold,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
+Hold,177,Kludge_BBS,Chicago_USA,joshua_stein,13126540090,300,INA:klud.ge,IBN
+Down,178,Massive_BBS,Philadelphia_USA,Andy_Diller,-Unpublished-,300,CM,INA:bbs.diller.org,IBN
 Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
@@ -314,10 +313,11 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
-Hold,197,Bloodlust,Toowoomba_QLD_AU,Andrew_Pamment,-Unpublished-,300,CM,INA:bloodlust.envybbs.org,IBN:24556
+Down,197,Bloodlust,Toowoomba_QLD_AU,Andrew_Pamment,-Unpublished-,300,CM,INA:bloodlust.envybbs.org,IBN:24556
 Down,198,DelawareBBS,NewarkDE,Don_Stratton,-Unpublished-,300,CM,INA:delawarebbs.com,IBN,ITN:60179
 ,199,4d2_dot_org,Portland_Oregon_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,210,Northern_Realms/TG,Binbrook_Ontario_Canada,Jay_Harris,-Unpublished-,300,INA:tg.nrbbs.net,IBN
+,2744,Clearing_Houz,Parkdale_AUS,Deon_George,-Unpublished-,300,INA:clrghouz.bbs.dege.au,IBN
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
