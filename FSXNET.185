@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 27, 2025 -- Day number 178 : 27048
+;A fsxNet Nodelist for Friday, July 4, 2025 -- Day number 185 : 14276
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -172,7 +172,7 @@ Pvt,201,Halcyon_BBS,Montreal_CAN,Marc_Mathieu,-Unpublished-,300
 ,202,Star_Collision_BBS,Uppsala_SWE,Bjorn_Wiberg,46-18-7501515,9600,ICM,TJP,XW,V90C,X2C,VFC,V32T,H16,INA:scbbs.nsupdate.info,IBN,IFC,ITN:60177,IVM:60177,U,ENC
 ,204,Family_BBS,Auckland_NZL,Tony_Pawson,-Unpublished-,300,CM,INA:familybbs.ddns.net,IBN
 ,205,Magnum_BBS,Huddersfield_GBR,Keyop_Troy,-Unpublished-,300,CM,INA:bbs.magnum.uk.net,IBN
-,206,The_File_Cabinet_BBS,New_Hope_USA,Richard_Vonzel,-Unpublished-,300,CM,INA:filecabi.synchro.net,IBN
+,206,Live_Wire_BBS,New_Hope_USA,Richard_Vonzel,-Unpublished-,300,CM,INA:livewire.casacam.net,IBN
 ,207,The_Trading_Post_[SOUTH]_BBS,Columbia_USA,Craig_Dooley,-Unpublished-,300,CM,INA:ttps.dyndns.org,IBN
 ,208,S_W_A_T_S_BBS,Auckland_NZL,Stephen_Hunt,-Unpublished-,300,CM,INA:swatsbbs.ddns.net,IBN:24556
 ,210,Noverdu_BBS,South_Saint_Paul_USA,Jonah_Clausen,-Unpublished-,300,CM,INA:noverdu.com,IBN
@@ -287,9 +287,9 @@ Hold,111,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,-Unpublished-,300,CM,INA
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN,ITN:60179
 ,135,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
-Hold,137,Wicked_Garden_BBS,Melbourne_Victoria_Australia,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
+,137,Wicked_Garden_BBS,Melbourne_Victoria_Australia,Hung_Tran,-Unpublished-,300,CM,INA:wicked.synchro.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
+Hold,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
@@ -318,16 +318,22 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
 ,101,Back_to_the_Future_BBS,Pennsylvania_USA,Bill_Simon,-Unpublished-,300,CM,INA:bttfbbs.com,IBN
+,102,bbs.intaa.net,Tokyo_JPN,Yoshito_Uchiyama,-Unpublished-,300,CM,INA:bbs.intaa.net,IBN
 ,103,The_Undermine,Calgary_CAN,Kostie_Muirhead,-Unpublished-,300,CM,INA:bbs.undermine.ca,IBN
 ,104,Sweden_Gigabyte_BBS,Mora_SWE,Peter_Nilsson,-Unpublished-,300,CM,INA:bbs.gigabite.se,IBN
 ,105,Phoenix_BBS,Groton_CT_USA,Andrew_Leary,1-860-446-6118,300,H16,V34,V32T,V42B,XACM,INA:phoenix.bnbbbs.net,IBN:24555,ITN:60177
 ,106,The_Rusty_Mailbox_BBS,Penticton_CAN,Alan_Ianson,-Unpublished-,300,CM,XW,INA:trmb.ca,IBN
-,107,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee,-Unpublished-,300,CM,INA:x-bit.org,IBN:24556
+,107,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee,-Unpublished-,300,CM,INA:x-bit.org,IBN:24555
 ,108,Inland_Utopia,Ontario_USA,Matthew_Munson,-Unpublished-,300,CM,INA:iutopia.duckdns.org,IBN
 ,109,9640_News_BBS,Campbellsburg_USA,Beery_Miller,-Unpublished-,300,CM,INA:9640news.ddns.net,IBN,ITN:9640
 ,110,NetPoint,Rome_ITA,Alessio_Tempesta,-Unpublished-,300,CM,INA:netpoint.webhop.me,IBN
 ,111,The_Arena_BBS,Defiance_USA,Randall_Schad,-Unpublished-,300,CM,INA:netasylum.com,IBN
+,112,Spindaddy's_Place_BBS,Mount_Vernon_USA,Jason_Spindler,-Unpublished-,300,CM,INA:spindaddysplace.com,IBN
+,113,Mel's_Diner_BBS,Kingston_CAN,Doug_McComber,-Unpublished-,300,CM,INA:bbs.greenphosphor.ca,IBN
+,114,Themegabbs_6400,Vienna_USA,Phil_Taylor,-Unpublished-,300,CM,INA:themegabbs.com,IBN
+,115,Alcatraz_BBS,Invercargill_NZL,Kim_Jansen,-Unpublished-,300,CM,INA:alcatraz.xunil.co.nz,IBN
 ,116,Intermail_Support,Chicago_USA,Dale_Barnes,-Unpublished-,300,CM,INA:im.ifidonet.com,IBN
+,117,Convolution_BBS,Upper_Milford_USA,Jonathan_Schreiter,-Unpublished-,300,CM,INA:convolution.us,IBN
 Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,121,AlcaBBS,Apeldoorn_NLD,Michael_Trip,-Unpublished-,300,CM,INA:bbs.alcatrash.org,IBN
 ,122,realitycheckBBS,Aptos_USA,Kurt_Weiske,-Unpublished-,300,CM,INA:realitycheckbbs.org,IBN
