@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 18, 2025 -- Day number 199 : 60828
+;A fsxNet Nodelist for Friday, July 25, 2025 -- Day number 206 : 22437
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -247,6 +247,7 @@ Pvt,124,Insane_Asylum_BBS,Racine_USA,James_Kulwicki,-Unpublished-,300
 ,132,Archaic_Binary_BBS,Orlando_USA,Wayne_Smith,-Unpublished-,300,CM,INA:bbs.archaicbinary.net,IBN
 ,133,Time_Machine_BBS,Dodge_Center_USA,Dennis_Davison,-Unpublished-,300,CM,INA:timemachinebbs.com,IBN
 ,134,Splatterhaus_BBS,Arlington_USA,Vincent_Macaluso,-Unpublished-,300,CM,INA:splatter.haus,IBN:24555
+,136,News_BBS,Lauffen_ob_Rottweil_DEU,Juergen_Ihlau,-Unpublished-,300,CM,INA:bbs.dosnetz.de,IBN
 ,138,Palantir_BBS,Pensacola_USA,Dan_Clough,-Unpublished-,300,CM,INA:palantirbbs.ddns.net,IBN
 ,140,Subcarrier_BBS,Ottawa_CAN,John_McCoy,-Unpublished-,300,CM,INA:subcarrier.ignorelist.com,IBN,ITN:2323
 ,141,SiliconUnderground,Rochester_USA,Jason_Bock,-Unpublished-,300,CM,INA:siliconu.com,IBN
@@ -289,7 +290,7 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,135,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_Victoria_Australia,Hung_Tran,-Unpublished-,300,CM,INA:wicked.synchro.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-Hold,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
+Down,142,Baffa_BBS,Rio_de_Janeiro_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN,ITN:10023
