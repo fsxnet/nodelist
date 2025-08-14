@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 8, 2025 -- Day number 220 : 16569
+;A fsxNet Nodelist for Friday, August 15, 2025 -- Day number 227 : 60711
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -284,7 +284,7 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,110,Northern_Realms,Binbrook_ON_CA,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN,ITN:60179
 ,111,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,113,Pweck's_Retreat_BBS,Omaha_NE,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
-,119,FuNToPia,Potsdam_DE,Stephan_Gebbers,49-280-4136,300,INA:funtopia.synchro.net,IBN
+,119,FuNToPia,Potsdam_DE,Stephan_Gebbers,-Unpublished-,300,INA:funtopia.synchro.net,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,126,TheForze,Amsterdam_NLD,Robbert_Langezaal,-Unpublished-,300,CM,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN,ITN:60179
@@ -305,9 +305,9 @@ Pvt,182,Starship_Junkyard,Sheridan_Tighe,Brisbane_AUS,-Unpublished-,300
 ,184,Port_of_Call_BBS,Dave_Wessinger,Dave_Weissinger,-Unpublished-,300,CM,INA:bbs.pctechdr.com,IBN
 ,185,Retroverse,Sydney_NSW_Australia,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN,ITN:23023
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
-Hold,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN:24555
+,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bbs.skynetbbs.com,IBN:24555
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
-Down,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
+,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
