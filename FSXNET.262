@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, September 12, 2025 -- Day number 255 : 26724
+;A fsxNet Nodelist for Friday, September 19, 2025 -- Day number 262 : 53730
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -311,8 +311,10 @@ Hold,188,SkyNet_BBS,Medellin_Colombia,David_Gonzalez,-Unpublished-,300,CM,INA:bb
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_Canada,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
+,197,Quinn,Toowoomba_QLD_Australia,Andrew_Pamment,-Unpublished-,300,CM,INA:bbs.quinnos.com,IBN
 ,199,4d2_dot_org,Portland_Oregon_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_U.K.,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
+,202,Chimia_BBS,Sweden,Peter_London,-Unpublished-,300,INA:chimia.se,IBN
 ,203,Monterey_DD,San_Francisco_CA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
 ,204,The_Crypts_of_Eternity,CTUSA,Joe_Selick,-Unpublished-,300,CM,INA:coe.eow.lol,IBN
 ,210,Northern_Realms/TG,Binbrook_Ontario_Canada,Jay_Harris,-Unpublished-,300,INA:tg.nrbbs.net,IBN
@@ -335,7 +337,7 @@ Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet
 ,112,Spindaddy's_Place_BBS,Mount_Vernon_USA,Jason_Spindler,-Unpublished-,300,CM,INA:spindaddysplace.com,IBN
 ,113,Mel's_Diner_BBS,Kingston_CAN,Doug_McComber,-Unpublished-,300,CM,INA:bbs.greenphosphor.ca,IBN
 ,114,Themegabbs_6400,Vienna_USA,Phil_Taylor,-Unpublished-,300,CM,INA:themegabbs.com,IBN
-,115,Alcatraz_BBS,Invercargill_NZL,Kim_Jansen,-Unpublished-,300,CM,INA:alcatraz.xunil.co.nz,IBN
+,115,The_Crystal_Set_BBS,Invercargill_NZL,Kim_Jansen,-Unpublished-,300,CM,INA:zl4kj.nz,IBN
 ,116,Intermail_Support,Chicago_USA,Dale_Barnes,-Unpublished-,300,CM,INA:im.ifidonet.com,IBN
 ,117,Convolution_BBS,Upper_Milford_USA,Jonathan_Schreiter,-Unpublished-,300,CM,INA:convolution.us,IBN
 Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
