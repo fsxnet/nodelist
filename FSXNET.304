@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, October 24, 2025 -- Day number 297 : 32860
+;A fsxNet Nodelist for Friday, October 31, 2025 -- Day number 304 : 33067
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -304,11 +304,11 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 Pvt,182,Starship_Junkyard,Brisbane_AUS,Sheridan_Tighe,-Unpublished-,300
 ,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Pt_Charlotte_Fl_USA,Dave_Weissinger,-Unpublished-,300,INA:bbs.pctechdr.com,IBN
-,185,Retroverse,Sydney_NSW_AUS,Matt_Ianson,-Unpublished-,300,CM,INA:bbs.retroverse.au,IBN
+,185,Megadodo,Sydney_NSW_AUS,Matt_Ianson,-Unpublished-,300,CM,INA:megadodo.online,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
-,188,SkyNet_BBS,Medellin_COL,David_Gonzalez,-Unpublished-,300,CM,INA:d4490d705224.sn.mynetname.net,IBN
+Hold,188,SkyNet_BBS,Medellin_COL,David_Gonzalez,-Unpublished-,300,CM,INA:d4490d705224.sn.mynetname.net,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN,ITN:60179
-,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
+Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN:24555,ITN:9707
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
@@ -329,7 +329,7 @@ Pvt,209,Ray's_Road_Node,Somewhere_CA_USA,Ray_Quinn,-Unpublished-,300
 ,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.hs.vc,IBN
 ,213,Androids_Dungeon,United_Kingdom_GBR,Owen_Williams,-Unpublished-,300,INA:bbs.androidsdungeon.co.uk
 ,214,Raiders_Inc_BBS,Topeka_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
-,215,The_Next_Byte_BBS,Gold_Coast_AUS,Manu_James_Ngamotu,-Unpublished-,300,CM,INA:bbs.thenextbyte.com.au
+,215,The_Next_Byte_BBS,Gold_Coast_AUS,Manu_James_Ngamotu,-Unpublished-,300,INA:bbs.thenextbyte.com.au
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
