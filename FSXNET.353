@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, December 12, 2025 -- Day number 346 : 14435
+;A fsxNet Nodelist for Friday, December 19, 2025 -- Day number 353 : 18685
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2025
 ;A
@@ -279,10 +279,10 @@ Hub,100,Clearing_Houz,Parkdale_AUS_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_CT_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
-Hold,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
+,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CAN,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN
 ,111,The_Unknown_Realm,Oshawa_ON_CA_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN,ITN:3023
-,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
+Hold,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,INA:funtopia.synchro.net,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,126,TheForze,Amsterdam_NLD_NLD,Robbert_Langezaal,-Unpublished-,300,INA:bbs.opicron.eu,IBN
@@ -314,7 +314,7 @@ Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theundergrou
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
-,197,Quinn,Toowoomba_QLD_AUS,Andrew_Pamment,-Unpublished-,300,INA:bbs.quinnos.com,IBN:24556
+Hold,197,Quinn,Toowoomba_QLD_AUS,Andrew_Pamment,-Unpublished-,300,INA:bbs.quinnos.com,IBN:24556
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
 ,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,INA:chimia.se,IBN
@@ -339,7 +339,8 @@ Pvt,219,Citrick_BBS,S/C_Tenerife_ESP,Tanausu_Martin_Gonzalez,-Unpublished-,300
 ,221,The_Ham_Shack_BBS,Siloam_Springs_AR._USA,Brian_Scott,-Unpublished-,300,INA:hamshack.synchro.net,IBN
 ,222,Angstridden_BBS,Portland_OR_USA,Steve_Layton,-Unpublished-,300,INA:angstridden.net,IBN
 ,223,Fireside_BBS,Little_Flock_AR_USA,Vincent_Jacobs,-Unpublished-,300,INA:firesidebbs.com
-,224,;'MorgsPlaceBBS`;,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bbs.morgs.place
+,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bbs.morgs.place
+,225,The_Montreal_Greek_Times,Montreal_CAN,Dimitri_Papadopoulos,-Unpublished-,300,CM,INA:bbs.greektimes.ca,IBN
 ,2744,Clearing_Houz,Parkdale_AUS_AUS,Deon_George,-Unpublished-,300,INA:clrghouz.bbs.dege.au,IBN
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
