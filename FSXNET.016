@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 9, 2026 -- Day number 009 : 08090
+;A fsxNet Nodelist for Friday, January 16, 2026 -- Day number 016 : 43392
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -279,7 +279,7 @@ Hub,100,Clearing_Houz,Parkdale_AUS_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_CT_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
-,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
+Hold,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CAN,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN
 ,111,The_Unknown_Realm,Oshawa_ON_CA_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN,ITN:3023
 ,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
@@ -290,7 +290,6 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-Down,142,Baffa_BBS,Rio_de_Janeiro_RJ_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,148,Nodewarrior_BBS,Houston_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN,ITN:60179
