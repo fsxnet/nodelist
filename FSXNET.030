@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 23, 2026 -- Day number 023 : 15671
+;A fsxNet Nodelist for Friday, January 30, 2026 -- Day number 030 : 36931
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -290,7 +290,8 @@ Hold,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.m
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-,148,Nodewarrior_BBS,Houston_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
+Down,142,Baffa_BBS,Rio_de_Janeiro_RJ_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
+,148,Nodewarrior_BBS,Houston_USA_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN,ITN:60179
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN
@@ -306,21 +307,21 @@ Pvt,182,Starship_Junkyard,Brisbane_AUS,Sheridan_Tighe,-Unpublished-,300
 ,184,Port_of_Call_BBS,Pt_Charlotte_Fl_USA,Dave_Weissinger,-Unpublished-,300,INA:bbs.pctechdr.com,IBN
 ,185,Megadodo,Sydney_NSW_AUS,Matt_Ianson,-Unpublished-,300,CM,INA:megadodo.online,IBN,ITN:60179
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
-Down,188,SkyNet_BBS,Medellin_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve.lambdast.co,IBN:24555
+Down,188,SkyNet_BBS,Medellin_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve.lambdast.co,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN
 Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN,ITN:9707
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
-Down,197,Quinn,Toowoomba_QLD_AUS,Andrew_Pamment,-Unpublished-,300,INA:bbs.quinnos.com,IBN:24556
+Down,197,Quinn,Toowoomba_QLD_AUS_AUS,Andrew_Pamment,-Unpublished-,300,INA:bbs.quinnos.com,IBN:24556
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
 ,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,INA:chimia.se,IBN
 ,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,CM,INA:montereybbs.com,IBN,ITN:60179
 ,204,The_Crypts_of_Eternity,CT_USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
-,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,INA:silentnode.ddns.net,IBN
+,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,CM,INA:silentnode.ddns.net,IBN
 ,207,MV2K_BBS,Schwerin_Mecklenburg-Vorpommern_Germany_DEU,Memo_Froese,-Unpublished-,300,CM,INA:bbs.mv2k.com,IBN
 ,208,US_99_BBS,Visalia_CA_USA,Ray_Quinn,1-559-429-8280,300,CM,INA:bbs.us99.us,IBN
 Pvt,209,Ray's_Road_Node,Somewhere_CA_USA,Ray_Quinn,-Unpublished-,300
@@ -335,11 +336,12 @@ Hold,215,The_Next_Byte_BBS,Gold_Coast_AUS,Manu_James_Ngamotu,-Unpublished-,300,I
 Pvt,218,Saturn's_Orbit_BBS,Rio_de_Janeiro_RJ_BRA,Flavio_Bessa,-Unpublished-,300
 Pvt,219,Citrick_BBS,S/C_Tenerife_ESP,Tanausu_Martin_Gonzalez,-Unpublished-,300
 ,220,Gods69_BBS,GAN_FRA,Carlos_Serra,-Unpublished-,300,INA:bbs.gods69.com,IBN
-,221,The_Ham_Shack_BBS,Siloam_Springs_AR._USA,Brian_Scott,-Unpublished-,300,INA:hamshack.synchro.net,IBN
+,221,The_Ham_Shack_BBS,Siloam_Springs_AK_USA,Brian_Scott,-Unpublished-,300,INA:hamshack.synchro.net,IBN
 ,222,Angstridden_BBS,Portland_OR_USA,Steve_Layton,-Unpublished-,300,INA:angstridden.net,IBN
-,223,Fireside_BBS,Little_Flock_AR_USA,Vincent_Jacobs,-Unpublished-,300,INA:firesidebbs.com
-,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,CM,INA:bbs.morgs.place
+,223,Fireside_BBS,Little_Flock_AR_USA,Vincent_Jacobs,-Unpublished-,300,INA:firesidebbs.com,IBN
+,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bbs.morgs.place
 ,225,The_Montreal_Greek_Times,Montreal_CAN,Dimitri_Papadopoulos,-Unpublished-,300,CM,INA:bbs.greektimes.ca,IBN
+,226,Silfen_Path_BBS,Columbus_Ohio_USA,Petar_Smilajkov,-Unpublished-,300,CM,INA:bbs.silfenpath.com,IBN
 ,2744,Clearing_Houz,Parkdale_AUS_AUS,Deon_George,-Unpublished-,300,INA:clrghouz.bbs.dege.au,IBN
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
