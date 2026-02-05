@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, January 30, 2026 -- Day number 030 : 36931
+;A fsxNet Nodelist for Friday, February 6, 2026 -- Day number 037 : 37701
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -290,7 +290,6 @@ Hold,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.m
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-Down,142,Baffa_BBS,Rio_de_Janeiro_RJ_BRA,Augusto_Baffa,-Unpublished-,300,CM,INA:baffa.zapto.org,IBN
 ,148,Nodewarrior_BBS,Houston_USA_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN,ITN:60179
@@ -314,7 +313,6 @@ Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theundergrou
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
-Down,197,Quinn,Toowoomba_QLD_AUS_AUS,Andrew_Pamment,-Unpublished-,300,INA:bbs.quinnos.com,IBN:24556
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
 ,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,INA:chimia.se,IBN
@@ -342,6 +340,10 @@ Pvt,219,Citrick_BBS,S/C_Tenerife_ESP,Tanausu_Martin_Gonzalez,-Unpublished-,300
 ,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bbs.morgs.place
 ,225,The_Montreal_Greek_Times,Montreal_CAN,Dimitri_Papadopoulos,-Unpublished-,300,CM,INA:bbs.greektimes.ca,IBN
 ,226,Silfen_Path_BBS,Columbus_Ohio_USA,Petar_Smilajkov,-Unpublished-,300,CM,INA:bbs.silfenpath.com,IBN
+,227,Entropy,Christchurch_NZL,John_Morrison,-Unpublished-,300,INA:entropybbs.zapto.org
+,228,Jegornet,Belgrade_SRB,Jegor_Gluhov,-Unpublished-,300,INA:ftn.jegor.net,IBN
+,229,fEDaPOC,Sacramento_CA_USA,Harrison_Gibson,-Unpublished-,300,INA:fedapoc.tel,IBN
+,230,Frontier_BBS,Redhill_GBR,Dave_Parker,-Unpublished-,300,INA:frontierbbs.co.uk,IBN
 ,2744,Clearing_Houz,Parkdale_AUS_AUS,Deon_George,-Unpublished-,300,INA:clrghouz.bbs.dege.au,IBN
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
