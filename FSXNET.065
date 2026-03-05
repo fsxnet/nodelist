@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, February 27, 2026 -- Day number 058 : 61343
+;A fsxNet Nodelist for Friday, March 6, 2026 -- Day number 065 : 62803
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -290,7 +290,7 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-,148,Nodewarrior_BBS,Houston_USA_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
+,148,Nodewarrior_BBS,Houston_USA_USA_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN,ITN:60179
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN
@@ -307,14 +307,14 @@ Pvt,182,Starship_Junkyard,Brisbane_AUS,Sheridan_Tighe,-Unpublished-,300
 ,185,Megadodo,Sydney_NSW_AUS,Matt_Ianson,-Unpublished-,300,CM,INA:megadodo.online,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN
-Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN,ITN:9707
+Down,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN,ITN:9707
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
-,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,CM,INA:chimia.se,IBN
+Hold,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,CM,INA:chimia.se,IBN
 ,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,CM,INA:montereybbs.com,IBN,ITN:60179
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
@@ -335,8 +335,8 @@ Pvt,219,Citrick_BBS,S/C_Tenerife_ESP,Tanausu_Martin_Gonzalez,-Unpublished-,300
 ,220,Gods69_BBS,GAN_FRA,Carlos_Serra,-Unpublished-,300,INA:bbs.gods69.com,IBN
 ,221,The_Ham_Shack_BBS,Siloam_Springs_AK_USA,Brian_Scott,-Unpublished-,300,INA:hamshack.synchro.net,IBN
 ,222,Angstridden_BBS,Portland_OR_USA,Steve_Layton,-Unpublished-,300,INA:angstridden.net,IBN
-,223,Fireside_BBS,Little_Flock_AR_USA,Vincent_Jacobs,-Unpublished-,300,INA:firesidebbs.com,IBN
-Hold,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bbs.morgs.place
+,223,Fireside_BBS,Little_Flock_AR_USA,Vincent_Jacobs,-Unpublished-,300,CM,INA:firesidebbs.com,IBN
+Down,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bbs.morgs.place
 ,225,The_Montreal_Greek_Times,Montreal_CAN,Dimitri_Papadopoulos,-Unpublished-,300,CM,INA:bbs.greektimes.ca,IBN
 ,226,Silfen_Path_BBS,Columbus_Ohio_USA,Petar_Smilajkov,-Unpublished-,300,CM,INA:bbs.silfenpath.com,IBN
 ,227,Entropy,Christchurch_NZL,John_Morrison,-Unpublished-,300,INA:entropybbs.zapto.org
@@ -344,10 +344,13 @@ Hold,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bb
 ,229,fEDaPOC,Sacramento_CA_USA,Harrison_Gibson,-Unpublished-,300,INA:fedapoc.tel,IBN
 ,230,Frontier_BBS,Redhill_GBR,Dave_Parker,-Unpublished-,300,INA:frontierbbs.co.uk,IBN
 ,231,WINCOR_Headquarters_BBS,Shiraz_IRN,Ali_Khadiv,-Unpublished-,300,CM,INA:wincorhq.freeboxos.fr.,IBN:10001
-,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bayoublog.ddns.net,IBN,ITN:60179
+,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bayoublog.ddns.net,IBN
 ,233,Yak_Station,British_Columbia_CAN,Adam_Clark,-Unpublished-,300,CM,INA:bbs.mycrowd.ca,IBN
 ,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.mynameisgabe.com,IBN
 ,235,Legends_of_Yesteryear,Huntsville_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:loy.hopto.org,IBN
+,236,Claude's_BBS,Vancouver_BC_CAN,Matthew_Asham,-Unpublished-,300,INA:claudes.lovelybits.org,IBN
+Pvt,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300,CM
+,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
