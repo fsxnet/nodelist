@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, March 6, 2026 -- Day number 065 : 62803
+;A fsxNet Nodelist for Friday, March 13, 2026 -- Day number 072 : 22703
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -288,9 +288,10 @@ Pvt,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,126,TheForze,Amsterdam_NLD_NLD,Robbert_Langezaal,-Unpublished-,300,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
-,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
+,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:v1ntagebbs.net,IBN
+,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
-,148,Nodewarrior_BBS,Houston_USA_USA_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
+,148,Nodewarrior_BBS,Houston_USA_USA_USA_USA_USA_USA,Wes_Evans,-Unpublished-,300,INA:nodewarrior.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN,ITN:60179
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN
@@ -307,7 +308,7 @@ Pvt,182,Starship_Junkyard,Brisbane_AUS,Sheridan_Tighe,-Unpublished-,300
 ,185,Megadodo,Sydney_NSW_AUS,Matt_Ianson,-Unpublished-,300,CM,INA:megadodo.online,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN
-Down,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN,ITN:9707
+,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN,ITN:9707
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
@@ -326,8 +327,7 @@ Pvt,209,Ray's_Road_Node,Somewhere_CA_USA,Ray_Quinn,-Unpublished-,300
 ,211,Kalgoorlie_Retro_BBS,Kalgoorie_WA_AUS,Michael_Slater,-Unpublished-,300,CM,INA:bbs.theiguru.au,IBN
 ,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.hs.vc,IBN
 ,213,Androids_Dungeon,United_Kingdom_GBR,Owen_Williams,-Unpublished-,300,INA:bbs.androidsdungeon.co.uk
-,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
-Down,215,The_Next_Byte_BBS,Gold_Coast_AUS,Manu_James_Ngamotu,-Unpublished-,300,INA:bbs.thenextbyte.com.au
+Hold,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
 ,216,Digital_Warfare,Edgemoor_USA,John_Porter,-Unpublished-,300,CM,INA:bbs.digital-warfare.net,IBN
 ,217,No_Carrier_BBS,Peterborough_ON_CAN,Scott_Tompkins,-Unpublished-,300,CM,INA:dn42.toztech.com,IBN
 Pvt,218,Saturn's_Orbit_BBS,Rio_de_Janeiro_RJ_BRA,Flavio_Bessa,-Unpublished-,300
@@ -351,6 +351,7 @@ Down,224,MorgsPlace_BBS,Nashville_TN_USA,James_Stockton,-Unpublished-,300,INA:bb
 ,236,Claude's_BBS,Vancouver_BC_CAN,Matthew_Asham,-Unpublished-,300,INA:claudes.lovelybits.org,IBN
 Pvt,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300,CM
 ,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
+Pvt,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
