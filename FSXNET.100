@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 3, 2026 -- Day number 093 : 19651
+;A fsxNet Nodelist for Friday, April 10, 2026 -- Day number 100 : 17042
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -311,14 +311,14 @@ Hold,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.m
 Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve.lambdast.co,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN
 ,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN
-,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,INA:nebbs.servehttp.com,IBN
+,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,CM,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch,IBN
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,CM,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
-Hold,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,CM,INA:chimia.se,IBN
-,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,CM,INA:montereybbs.com,IBN
+Down,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,CM,INA:chimia.se,IBN
+,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
 ,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,CM,INA:silentnode.ddns.net,IBN
@@ -335,7 +335,7 @@ Hold,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,CM,INA:chimia.se,I
 ,218,Saturn's_Orbit_BBS,Rio_de_Janeiro_RJ_BRA,Flavio_Bessa,-Unpublished-,300
 ,219,Citrick_BBS,S/C_Tenerife_ESP,Tanausu_Martin_Gonzalez,-Unpublished-,300
 ,220,Gods69_BBS,GAN_FRA,Carlos_Serra,-Unpublished-,300,INA:bbs.gods69.com,IBN
-Hold,221,The_Ham_Shack_BBS,Siloam_Springs_AK_USA,Brian_Scott,-Unpublished-,300,INA:hamshack.synchro.net,IBN
+Down,221,The_Ham_Shack_BBS,Siloam_Springs_AK_USA,Brian_Scott,-Unpublished-,300,INA:hamshack.synchro.net,IBN
 ,222,Angstridden_BBS,Portland_OR_USA,Steve_Layton,-Unpublished-,300,INA:angstridden.net,IBN
 ,223,Fireside_BBS,Little_Flock_AR_USA,Vincent_Jacobs,-Unpublished-,300,CM,INA:firesidebbs.com,IBN
 ,225,The_Montreal_Greek_Times,Montreal_CAN,Dimitri_Papadopoulos,-Unpublished-,300,CM,INA:bbs.greektimes.ca,IBN
