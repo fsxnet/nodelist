@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, April 10, 2026 -- Day number 100 : 17042
+;A fsxNet Nodelist for Friday, April 17, 2026 -- Day number 107 : 55670
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -330,6 +330,7 @@ Down,202,Chimia_BBS,Sweden_SWE,Peter_London,-Unpublished-,300,CM,INA:chimia.se,I
 ,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.hs.vc,IBN
 ,213,Androids_Dungeon,United_Kingdom_GBR,Owen_Williams,-Unpublished-,300,INA:bbs.androidsdungeon.co.uk,IBN
 ,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
+,215,Manu's_Home_Network_BBS,Gold_Coast_QLD_AUS,Manu_James_Ngamotu,-Unpublished-,300,CM,INA:bbs.yingyangmassage.com.au,IBN,ITN:60179
 ,216,Digital_Warfare,Edgemoor_USA,John_Porter,-Unpublished-,300,CM,INA:bbs.digital-warfare.net,IBN
 ,217,No_Carrier_BBS,Peterborough_ON_CAN,Scott_Tompkins,-Unpublished-,300,CM,INA:dn42.toztech.com,IBN
 ,218,Saturn's_Orbit_BBS,Rio_de_Janeiro_RJ_BRA,Flavio_Bessa,-Unpublished-,300
