@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 8, 2026 -- Day number 128 : 31330
+;A fsxNet Nodelist for Friday, May 15, 2026 -- Day number 135 : 40607
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -282,7 +282,6 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_CT_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
-Down,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CAN,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN
 ,111,The_Unknown_Realm,Oshawa_ON_CA_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
@@ -322,12 +321,12 @@ Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theundergrou
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
 ,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,CM,INA:silentnode.ddns.net,IBN
-,207,MV2K_BBS,Schwerin_Mecklenburg-Vorpommern_Germany_DEU,Memo_Froese,-Unpublished-,300,CM,INA:bbs.mv2k.com,IBN
+Hold,207,MV2K_BBS,Schwerin_Mecklenburg-Vorpommern_Germany_DEU,Memo_Froese,-Unpublished-,300,CM,INA:bbs.mv2k.com,IBN
 ,208,US_99_BBS,Visalia_CA_USA,Ray_Quinn,1-559-429-8280,300,CM,INA:bbs.us99.us,IBN
 ,209,Ray's_Road_Node,Somewhere_CA_USA,Ray_Quinn,-Unpublished-,300
 ,210,Northern_Realms/TG,Binbrook_Ontario_CAN,Jay_Harris,-Unpublished-,300,INA:tg.nrbbs.net,IBN
 ,211,Kalgoorlie_Retro_BBS,Kalgoorie_WA_AUS,Michael_Slater,-Unpublished-,300,CM,INA:bbs.theiguru.au,IBN
-,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.hs.vc,IBN
+,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.mooo.com,IBN
 ,213,Androids_Dungeon,United_Kingdom_GBR,Owen_Williams,-Unpublished-,300,INA:bbs.androidsdungeon.co.uk,IBN
 ,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
 ,215,Manu's_Home_Network_BBS,Gold_Coast_QLD_AUS,Manu_James_Ngamotu,-Unpublished-,300,INA:yingyangmassage.com.au,IBN,ITN:60179
@@ -348,12 +347,12 @@ Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theundergrou
 ,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bayoublog.ddns.net,IBN
 ,233,Yak_Station,British_Columbia_CAN,Adam_Clark,-Unpublished-,300,CM,INA:bbs.mycrowd.ca,IBN
 ,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.mynameisgabe.com,IBN
-,235,Legends_of_Yesteryear,Huntsville_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:loy.hopto.org,IBN
+,235,Legends_of_Yesteryear,Huntsville_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:furmenservices.net,IBN
 ,236,Claude's_BBS,Vancouver_Canada_CAN,Matthew_Asham,-Unpublished-,300,CM,INA:claudes.lovelybits.org,IBN
 ,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300
 ,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
 ,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300,CM,INA:fido.gfurer.com,IBN
-,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300,CM,INA:iiss.bluesunconsulting.com,IBN
+,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300,INA:iiss.bluesunconsulting.com,IBN
 Hold,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
