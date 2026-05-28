@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 22, 2026 -- Day number 142 : 29088
+;A fsxNet Nodelist for Friday, May 29, 2026 -- Day number 149 : 28257
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -321,7 +321,7 @@ Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theundergrou
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
 ,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,CM,INA:silentnode.ddns.net,IBN
-Hold,207,MV2K_BBS,Schwerin_Mecklenburg-Vorpommern_Germany_DEU,Memo_Froese,-Unpublished-,300,CM,INA:bbs.mv2k.com,IBN
+Down,207,MV2K_BBS,Schwerin_Mecklenburg-Vorpommern_Germany_DEU,Memo_Froese,-Unpublished-,300,CM,INA:bbs.mv2k.com,IBN
 ,208,US_99_BBS,Visalia_CA_USA,Ray_Quinn,1-559-429-8280,300,CM,INA:bbs.us99.us,IBN
 ,209,Ray's_Road_Node,Somewhere_CA_USA,Ray_Quinn,-Unpublished-,300
 ,210,Northern_Realms/TG,Binbrook_Ontario_CAN,Jay_Harris,-Unpublished-,300,INA:tg.nrbbs.net,IBN
@@ -353,7 +353,7 @@ Hold,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300
 ,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
 ,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300,CM,INA:fido.gfurer.com,IBN
 ,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300,INA:iiss.bluesunconsulting.com,IBN
-,241,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:tomcatbbs.ddns.net
+,241,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:tomcatbbs.ddns.net,IBN
 Hold,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
