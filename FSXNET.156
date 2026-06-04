@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, May 29, 2026 -- Day number 149 : 28257
+;A fsxNet Nodelist for Friday, June 5, 2026 -- Day number 156 : 65140
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -304,13 +304,12 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,177,Kludge_BBS,Chicago_USA,Joshua_Stein,13125002600,300,INA:klud.ge,IBN
 ,182,Starship_Junkyard,Brisbane_AUS,Sheridan_Tighe,-Unpublished-,300
-Down,183,The_River_Styx,Manchester_USA,Elliot_Adams,-Unpublished-,300,CM,INA:riverstyx.ddns.net,IBN
 ,184,Port_of_Call_BBS,Pt_Charlotte_Fl_USA,Dave_Weissinger,-Unpublished-,300,INA:bbs.pctechdr.com,IBN
 ,185,Megadodo,Sydney_NSW_AUS,Matt_Ianson,-Unpublished-,300,CM,INA:megadodo.online,IBN
 ,187,Return_to_The_Lair_of_the_Wolverine_BBS,Salt_Lake_City_USA,Kevin_Taylor,-Unpublished-,300,INA:bbs.r2lotw.com,IBN
 Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve.lambdast.co,IBN
 ,189,A-Net_Online_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:a-net-online.lol,IBN
-Hold,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN
+,191,The_Ruins,Carmel_USA,Doug_Cooper,-Unpublished-,300,INA:www.theunderground.us,IBN
 ,193,NE_BBS,Long_Island_USA,Erik_Eriksen,-Unpublished-,300,CM,INA:nebbs.servehttp.com,IBN
 ,194,Maiks_Place_BBS,Neunkirch_CHE,Mike_Dreier,-Unpublished-,300,INA:bbs.maik.ch,IBN
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,INA:13leader.net,IBN
@@ -349,11 +348,12 @@ Down,207,MV2K_BBS,Schwerin_Mecklenburg-Vorpommern_Germany_DEU,Memo_Froese,-Unpub
 ,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.mynameisgabe.com,IBN
 ,235,Legends_of_Yesteryear,Huntsville_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:furmenservices.net,IBN
 ,236,Claude's_BBS,Vancouver_Canada_CAN,Matthew_Asham,-Unpublished-,300,CM,INA:claudes.lovelybits.org,IBN
-Hold,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300
+Down,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300
 ,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
 ,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300,CM,INA:fido.gfurer.com,IBN
 ,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300,INA:iiss.bluesunconsulting.com,IBN
 ,241,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:tomcatbbs.ddns.net,IBN
+,242,Twilight_Node,Stockholm_SWE,Peter_London,-Unpublished-,300,CM,INA:twilightnode.org
 Hold,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
