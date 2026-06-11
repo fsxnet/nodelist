@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 5, 2026 -- Day number 156 : 65140
+;A fsxNet Nodelist for Friday, June 12, 2026 -- Day number 163 : 02672
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -316,7 +316,7 @@ Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
-,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
+Hold,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
 ,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,CM,INA:silentnode.ddns.net,IBN
@@ -353,8 +353,8 @@ Down,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300
 ,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300,CM,INA:fido.gfurer.com,IBN
 ,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300,INA:iiss.bluesunconsulting.com,IBN
 ,241,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:tomcatbbs.ddns.net,IBN
-,242,Twilight_Node,Stockholm_SWE,Peter_London,-Unpublished-,300,CM,INA:twilightnode.org
-Hold,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
+,242,Twilight_Node,Stockholm_SWE,Peter_London,-Unpublished-,300,INA:twilightnode.org,IBN
+,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
 Hub,100,Niba_HUB,Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560,SDS
