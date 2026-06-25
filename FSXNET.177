@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, June 19, 2026 -- Day number 170 : 11222
+;A fsxNet Nodelist for Friday, June 26, 2026 -- Day number 177 : 07147
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -327,7 +327,7 @@ Hold,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:mont
 ,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.mooo.com,IBN
 ,213,Androids_Dungeon,United_Kingdom_GBR,Owen_Williams,-Unpublished-,300,INA:bbs.androidsdungeon.co.uk,IBN
 ,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
-,215,Manu's_Home_Network_BBS,Gold_Coast_QLD_AUS,Manu_James_Ngamotu,-Unpublished-,300,INA:yingyangmassage.com.au,IBN,ITN:60179
+Hold,215,Manu's_Home_Network_BBS,Gold_Coast_QLD_AUS,Manu_James_Ngamotu,-Unpublished-,300,INA:yingyangmassage.com.au,IBN,ITN:60179
 ,216,Digital_Warfare,Edgemoor_USA,John_Porter,-Unpublished-,300,CM,INA:bbs.digital-warfare.net,IBN
 ,217,No_Carrier_BBS,Peterborough_ON_CAN,Scott_Tompkins,-Unpublished-,300,CM,INA:dn42.toztech.com,IBN
 ,218,Saturn's_Orbit_BBS,Rio_de_Janeiro_RJ_BRA,Flavio_Bessa,-Unpublished-,300
@@ -341,19 +341,20 @@ Hold,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:mont
 ,228,Jegornet,Belgrade_SRB,Jegor_Gluhov,-Unpublished-,300,CM,INA:ftn.jegor.net,IBN
 ,229,fEDaPOC,Sacramento_CA_USA,Harrison_Gibson,-Unpublished-,300,INA:fedapoc.tel,IBN
 ,230,Frontier_BBS,Redhill_GBR,Dave_Parker,-Unpublished-,300,INA:frontierbbs.co.uk,IBN
-,231,WINCOR_Headquarters_BBS,Shiraz_IRN,Ali_Khadiv,-Unpublished-,300,CM,INA:wincorhq.freeboxos.fr.,IBN
+Hold,231,WINCOR_Headquarters_BBS,Shiraz_IRN,Ali_Khadiv,-Unpublished-,300,CM,INA:wincorhq.freeboxos.fr.,IBN
 ,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bayoublog.ddns.net,IBN
 ,233,Yak_Station,British_Columbia_CAN,Adam_Clark,-Unpublished-,300,CM,INA:bbs.mycrowd.ca,IBN
 ,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.mynameisgabe.com,IBN
 ,235,Legends_of_Yesteryear,Huntsville_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:furmenservices.net,IBN
 ,236,Claude's_BBS,Vancouver_Canada_CAN,Matthew_Asham,-Unpublished-,300,CM,INA:claudes.lovelybits.org,IBN
-Down,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300
 ,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
 ,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300,CM,INA:fido.gfurer.com,IBN
-,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300,INA:iiss.bluesunconsulting.com,IBN
+,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300
 ,241,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:tomcatbbs.ddns.net,IBN
 ,242,Twilight_Node,Stockholm_SWE,Peter_London,-Unpublished-,300,INA:twilightnode.org,IBN
-,243,WonderCore,Netherlands_NLD,Theo_Fonteijn,-Unpublished-,300,INA:wondercore.mooo.com,IBN
+,243,WonderCore,Netherlands_NLD,Theo_Fonteijn,-Unpublished-,300
+,244,Falcon_BBS,Boxtel_NLD,Michel_van_Osenbruggen,-Unpublished-,300,INA:bbs.falconbbs.nl,IBN
+,245,The_Down-Lo_BBS,Lakeville_MN_USA,Brian_Davidson,-Unpublished-,300,CM,INA:bbs.winzlo.com,IBN
 ,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
