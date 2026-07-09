@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 3, 2026 -- Day number 184 : 00873
+;A fsxNet Nodelist for Friday, July 10, 2026 -- Day number 191 : 49093
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -282,7 +282,7 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,102,Types_of_Squash_BBS,Thueringen_DEU,Oliver_Thuns,-Unpublished-,300
 ,105,The_Lab_BBS,Dickson_USA,Les_Wade,-Unpublished-,300,CM,INA:bbs.dicksonlabs.net,IBN
 ,107,Arcadia_BBS,Putnam_CT_USA,Michael_Pedersen,-Unpublished-,300,CM,INA:telnet.arcadiabbs.com,IBN
-Down,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
+,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CAN,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN
 ,111,The_Unknown_Realm,Oshawa_ON_CA_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
 ,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
@@ -317,7 +317,7 @@ Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
 ,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
-Down,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
+,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
 ,206,Silent_Node,Prince_George_BC_CAN,John_Gerwing,-Unpublished-,300,CM,INA:silentnode.ddns.net,IBN
@@ -339,7 +339,7 @@ Hold,215,Manu's_Home_Network_BBS,Gold_Coast_QLD_AUS,Manu_James_Ngamotu,-Unpublis
 ,225,The_Montreal_Greek_Times,Montreal_CAN_CAN,Dimitri_Papadopoulos,-Unpublished-,300,INA:bbs.greektimes.ca,IBN
 ,226,Silfen_Path_BBS,Columbus_Ohio_USA,Petar_Smilajkov,-Unpublished-,300,CM,INA:bbs.silfenpath.com,IBN
 ,227,Entropy,Christchurch_NZL,John_Morrison,-Unpublished-,300,INA:entropybbs.zapto.org,IBN
-,228,Jegornet,Belgrade_SRB,Jegor_Gluhov,-Unpublished-,300,CM,INA:ftn.jegor.net,IBN
+,228,Jegornet,Belgrade_SRB,Yegor_Gluhov,-Unpublished-,300,CM,INA:ftn.jegor.net,IBN
 ,229,fEDaPOC,Sacramento_CA_USA,Harrison_Gibson,-Unpublished-,300,INA:fedapoc.tel,IBN
 ,230,Frontier_BBS,Redhill_GBR,Dave_Parker,-Unpublished-,300,INA:frontierbbs.co.uk,IBN
 Hold,231,WINCOR_Headquarters_BBS,Shiraz_IRN,Ali_Khadiv,-Unpublished-,300,CM,INA:wincorhq.freeboxos.fr.,IBN
@@ -356,7 +356,7 @@ Hold,231,WINCOR_Headquarters_BBS,Shiraz_IRN,Ali_Khadiv,-Unpublished-,300,CM,INA:
 ,243,WonderCore,Netherlands_NLD,Theo_Fonteijn,-Unpublished-,300
 ,244,Falcon_BBS,Boxtel_NLD,Michel_van_Osenbruggen,-Unpublished-,300,INA:bbs.falconbbs.nl,IBN
 ,245,The_Down-Lo_BBS,Lakeville_MN_USA,Brian_Davidson,-Unpublished-,300,CM,INA:bbs.winzlo.com,IBN
-,246,Sklaffkom,Vallentuna_SWE,Joakim_Melin,-Unpublished-,300,CM,INA:sklaffkom.se,IBN:24559
+,246,Sklaffkom,Vallentuna_SWE,Joakim_Melin,-Unpublished-,300,CM
 ,247,K4JTT_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:k4jttbbs.ddns.net,IBN:24555
 ,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
