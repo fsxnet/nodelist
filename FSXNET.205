@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 17, 2026 -- Day number 198 : 05366
+;A fsxNet Nodelist for Friday, July 24, 2026 -- Day number 205 : 32854
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -358,6 +358,7 @@ Hold,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.
 ,245,The_Down-Lo_BBS,Lakeville_MN_USA,Brian_Davidson,-Unpublished-,300,CM,INA:bbs.winzlo.com,IBN
 ,246,Sklaffkom,Vallentuna_SWE,Joakim_Melin,-Unpublished-,300,CM,INA:sklaffkom.se,IBN:24559
 ,247,K4JTT_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:k4jttbbs.ddns.net,IBN:24555
+,248,The_Boneyard,San_Diego_CA_USA,Knight_Shadow,-Unpublished-,300,CM
 ,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
