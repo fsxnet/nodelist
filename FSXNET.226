@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, July 31, 2026 -- Day number 212 : 51755
+;A fsxNet Nodelist for Friday, August 14, 2026 -- Day number 226 : 44655
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -291,7 +291,7 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,126,TheForze,Amsterdam_NLD_NLD,Robbert_Langezaal,-Unpublished-,300,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
-,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:v1ntagebbs.net,IBN
+Hold,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:v1ntagebbs.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
@@ -356,9 +356,10 @@ Down,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.
 ,245,The_Down-Lo_BBS,Lakeville_MN_USA,Brian_Davidson,-Unpublished-,300,CM,INA:bbs.winzlo.com,IBN
 ,246,Sklaffkom,Vallentuna_SWE,Joakim_Melin,-Unpublished-,300,CM,INA:sklaffkom.se,IBN:24559
 ,247,K4JTT_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:k4jttbbs.ddns.net,IBN:24555
-,248,The_Boneyard,San_Diego_CA_USA,Knight_Shadow,-Unpublished-,300,CM
-,249,Revolt,Auckland_NZL,James_Kelly,-Unpublished-,300,INA:revolt.av4.dev,IBN
+,248,The_Boneyard,San_Diego_CA_USA,Knight_Shadow,-Unpublished-,300
+,249,Revolt,Auckland_NZL,James_Kelly,-Unpublished-,300,CM,INA:revolt.av4.dev,IBN
 ,250,bbs.homes,Pasadena_CA_USA,John_Lin,-Unpublished-,300
+,251,Altair_Mini,Palombara_Sabina_ITA,Pino_Convertino,-Unpublished-,300,CM,INA:altairminibbs.net,IBN
 ,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
