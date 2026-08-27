@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, August 14, 2026 -- Day number 226 : 44655
+;A fsxNet Nodelist for Friday, August 28, 2026 -- Day number 240 : 41676
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -285,13 +285,13 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,109,Manic_Modem_BBS,Union_KY_USA,John_Cameron,-Unpublished-,300,INA:binkp.manic-modem.com,IBN
 ,110,Northern_Realms,Binbrook_ON_CAN,Jay_Harris,-Unpublished-,300,CM,INA:bbs.nrbbs.net,IBN
 ,111,The_Unknown_Realm,Oshawa_ON_CA_CAN,Mike_McCafferty,-Unpublished-,300,CM,INA:turealm.no-ip.org,IBN
-,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:pwecksretreat.com,IBN
+,113,Pweck's_Retreat_BBS,Omaha_NE_USA,Dean_Lodge,-Unpublished-,300,INA:bbs.pwecksretreat.com,IBN
 ,119,FuNToPia,Potsdam_DEU,Stephan_Gebbers,-Unpublished-,300,INA:funtopia.synchro.net,IBN
 ,120,Westland_BBS,Westland_NLD,Martien_Korenblom,-Unpublished-,300,CM,INA:bbs.korenblom.nl,IBN
 ,126,TheForze,Amsterdam_NLD_NLD,Robbert_Langezaal,-Unpublished-,300,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
-Hold,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,CM,INA:v1ntagebbs.net,IBN
+,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,INA:v1ntagebbs.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
@@ -316,7 +316,6 @@ Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve
 ,195,13_Leader,Vineland_Ont_CAN,Paul_Jones,-Unpublished-,300,INA:13leader.net,IBN
 ,196,A-Net_Online_Mystic_BBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:mystic-anet.online,IBN
 ,199,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,-Unpublished-,300,CM,INA:bbs.4d2.org,IBN
-Down,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:nottinghambbs.com,IBN
 ,203,Monterey_DD,San_Francisco_CA_USA,Ryan_Fantus,-Unpublished-,300,INA:montereybbs.com,IBN
 ,204,The_Crypts_of_Eternity,Conn._USA,Joe_Selick,-Unpublished-,300,CM,INA:bbs.eow.lol,IBN
 ,205,ZenBBS,Mena_AR_USA,John_James,-Unpublished-,300,CM,INA:zen.kawasu.wtf,IBN
@@ -327,7 +326,7 @@ Down,201,Nottingham_BBS,Nottingham_GBR,Richard_Bagshaw,-Unpublished-,300,CM,INA:
 ,211,Kalgoorlie_Retro_BBS,Kalgoorie_WA_AUS,Michael_Slater,-Unpublished-,300,CM,INA:bbs.theiguru.au,IBN
 ,212,Mcore_BBS,Jerusalem_ISR,Evgeny_Shaverin,-Unpublished-,300,CM,INA:mcore.mooo.com,IBN
 ,213,Androids_Dungeon,United_Kingdom_GBR,Owen_Williams,-Unpublished-,300,INA:bbs.androidsdungeon.co.uk,IBN
-Hold,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
+Down,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:raidersbbs.zapto.org,IBN
 ,216,Digital_Warfare,Edgemoor_USA,John_Porter,-Unpublished-,300,CM,INA:bbs.digital-warfare.net,IBN
 ,217,No_Carrier_BBS,Peterborough_ON_CAN,Scott_Tompkins,-Unpublished-,300,CM,INA:dn42.toztech.com,IBN
 ,218,Saturn's_Orbit_BBS,Rio_de_Janeiro_RJ_BRA,Flavio_Bessa,-Unpublished-,300
@@ -343,7 +342,6 @@ Hold,214,Raiders_Inc_BBS,Wichita_KS_USA,Jon_Justvig,-Unpublished-,300,CM,INA:rai
 ,230,Frontier_BBS,Redhill_GBR,Dave_Parker,-Unpublished-,300,INA:frontierbbs.co.uk,IBN
 ,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bayoublog.ddns.net,IBN
 ,233,Yak_Station,British_Columbia_CAN,Adam_Clark,-Unpublished-,300,CM,INA:bbs.mycrowd.ca,IBN
-Down,234,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,-Unpublished-,300,CM,INA:bbs.mynameisgabe.com,IBN
 ,235,Legends_of_Yesteryear,Dothan_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:furmenservices.net,IBN
 ,236,Claude's_BBS,Vancouver_Canada_CAN,Matthew_Asham,-Unpublished-,300,CM,INA:claudes.lovelybits.org,IBN
 ,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
