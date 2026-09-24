@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, September 11, 2026 -- Day number 254 : 54540
+;A fsxNet Nodelist for Friday, September 25, 2026 -- Day number 268 : 20184
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -293,7 +293,7 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
 ,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,INA:v1ntagebbs.net,IBN
 Hold,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
-Hold,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
+Down,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.tabakov.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
 ,165,The_Underground_BBS,Carmel_USA,Doug_Cooper,-Unpublished-,300,CM,INA:theunderground.us,IBN
@@ -301,7 +301,7 @@ Hold,141,Thrace_BBS,Plovdiv_BGR,Dafcho_Tabakov,-Unpublished-,300,CM,INA:bbs.taba
 ,169,TassieBob_BBS,Hobart_Tas_AUS,Bob_Purdon,-Unpublished-,300,CM,INA:bbs.tassiebob.com,IBN
 ,171,STar_Fleet_HQ,Cuyahoga_Falls_USA,Andrew_Klenotic,-Unpublished-,300,INA:bbs.sfhqbbs.org,IBN
 ,172,d0p3,Melbourne_Vic_AUS,Nicholas_Brennan,-Unpublished-,300,INA:d0p3.intersrv.net,IBN
-Hold,174,Made_to_Raid_BBS,Griswold_CT_USA,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
+Down,174,Made_to_Raid_BBS,Griswold_CT_USA,Chris_Manigan,-Unpublished-,300,CM,INA:bbs.madetoraid.com,IBN
 ,176,FlipperZero_BBS,Livorno_ITA,Guido_Giorgi,-Unpublished-,300,CM,INA:bbs.gglab.cloud,IBN
 ,177,Kludge_BBS,Chicago_USA,Joshua_Stein,13125002600,300,INA:klud.ge,IBN
 ,182,Starship_Junkyard,Brisbane_AUS,Sheridan_Tighe,-Unpublished-,300
@@ -357,9 +357,11 @@ Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve
 ,249,Revolt,Auckland_NZL,James_Kelly,-Unpublished-,300,CM,INA:revolt.av4.dev,IBN
 ,250,bbs.homes,Pasadena_CA_USA,John_Lin,-Unpublished-,300
 ,251,Altair_Mini,Palombara_Sabina_ITA,Pino_Convertino,-Unpublished-,300,CM,INA:altairminibbs.net,IBN
-,252,IntraServe,Kamloops_CAN,Madison_Brooks,-Unpublished-,300,INA:intraserve.an,IBN
+,252,IntraServe,Kamloops_CAN,Madison_Brooks,-Unpublished-,300,INA:intraserve.su.gy,IBN
 ,253,Jersey_Jam_BBS,Budd_Lake_NJ_USA,Brian_Piper,-Unpublished-,300,INA:JerseyJam.com,IBN
 ,254,The_Adventure_BBS,AlmonteOntatio_CAN,Derek_Bird,-Unpublished-,300,INA:bbs.ourbirdhouse.ca,IBN
+,255,Dead_Socket_Church,Warsaw_POL,Grzegorz_Worona,-Unpublished-,300,CM,INA:deadsocket.church,IBN
+,256,Dumpster_Dive,Gippsland_Victoria_AUS,Tom_Aberdeen,-Unpublished-,300,INA:dumpster.krystalbbs.net,IBN
 ,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
