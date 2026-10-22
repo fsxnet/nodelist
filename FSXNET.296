@@ -1,4 +1,4 @@
-;A fsxNet Nodelist for Friday, October 9, 2026 -- Day number 282 : 08044
+;A fsxNet Nodelist for Friday, October 23, 2026 -- Day number 296 : 30540
 ;A
 ;A fsxNet (fsxnet.nz) | All Rights Reserved | Copyright 2015-2026
 ;A
@@ -291,7 +291,6 @@ Hub,100,Clearing_Houz,Parkdale_VIC_AUS,Deon_George,-Unpublished-,300,INA:n3.z21.
 ,126,TheForze,Amsterdam_NLD_NLD,Robbert_Langezaal,-Unpublished-,300,INA:bbs.opicron.eu,IBN
 ,127,Imzadi_Box,Karlsruhe_DEU,Anna_Christina_Nass,-Unpublished-,300,CM,INA:box.imzadi.de,IBN
 ,135,Lunatics_Unleashed_BBS,Buffalo_NY_USA,Ross_Branham,-Unpublished-,300,CM,INA:lunaticsunleashed.ddns.net,IBN
-,136,V1ntage_BBS,East_Gippsland_VIC_AUS,Tom_Aberdeen,-Unpublished-,300,INA:v1ntagebbs.net,IBN
 ,137,Wicked_Garden_BBS,Melbourne_AUS,Hung_Tran,-Unpublished-,300,CM,INA:wgbbs.ddns.net,IBN
 ,156,The_Digital_Abyss,Tampa_USA,Karl_Schleelein,-Unpublished-,300,INA:bbs.deepdive.net,IBN
 ,158,BodaX_BBS,Sweden_SWE,Tobias_Rosenqvist,-Unpublished-,300,CM,INA:bbs.beardy.se,IBN
@@ -337,12 +336,12 @@ Down,188,SkyNet_BBS,Medellin_COL_COL,David_Gonzalez,-Unpublished-,300,CM,INA:pve
 ,228,Jegornet,Belgrade_SRB,Yegor_Gluhov,-Unpublished-,300,CM,INA:ftn.jegor.net,IBN
 ,229,fEDaPOC,Sacramento_CA_USA,Harrison_Gibson,-Unpublished-,300,INA:fedapoc.tel,IBN
 ,230,Frontier_BBS,Redhill_GBR,Dave_Parker,-Unpublished-,300,INA:frontierbbs.co.uk,IBN
-,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bayoublog.ddns.net,IBN
+,232,Bayou_Blog_BBS,Escatawpa_MS_USA,John_Richards,-Unpublished-,300,INA:bamboo.ddns.net,IBN
 ,233,Yak_Station,British_Columbia_CAN,Adam_Clark,-Unpublished-,300,CM,INA:bbs.mycrowd.ca,IBN
 ,235,Legends_of_Yesteryear,Dothan_AL_USA,Dallas_Vinson,-Unpublished-,300,INA:furmenservices.net,IBN
 ,236,Claude's_BBS,Vancouver_Canada_CAN,Matthew_Asham,-Unpublished-,300,CM,INA:claudes.lovelybits.org,IBN
 ,237,Gemenon,Los_Angeles_CA_USA,Ryan_Fantus,-Unpublished-,300,CM,INA:gemenon.org
-Hold,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
+Down,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bgall.uk,IBN
 ,239,s2r,Ciudad_de_Buenos_Aires_ARG,Javier_Sturman,-Unpublished-,300,CM,INA:fido.gfurer.com,IBN
 ,240,Imperial_Scout_Service,Chino_Valley_USA,Jeff_Brissette,-Unpublished-,300
 ,241,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,-Unpublished-,300,INA:tomcatbbs.ddns.net,IBN
@@ -363,8 +362,13 @@ Hold,238,lostnotfound,Taunton_GBR,Ben_Gallagher,-Unpublished-,300,CM,INA:404.bga
 ,256,Dumpster_Dive,Gippsland_Victoria_AUS,Tom_Aberdeen,-Unpublished-,300,INA:dumpster.krystalbbs.net,IBN
 ,257,Off_The_Hook_BBS,Denver_CO_USA,Jay_Hurt,-Unpublished-,300,CM,INA:offthehook.sytes.net,IBN
 ,258,Tentacle_BBS,Chicago_IL_USA,Gabriel_Conte,-Unpublished-,300
-,259,kk4qbn_bbs,chatsworth_ga_USA,Tim_Smith,-Unpublished-,300,INA:kk4qbn.synchro.net
+,259,kk4qbn_bbs,chatsworth_ga_USA,Tim_Smith,-Unpublished-,300,CM,INA:kk4qbn.synchro.net
 ,260,A-Net_Online_ANetBBS,Woodstock_GA_USA,Jerry_Reed,-Unpublished-,300,CM,INA:bbs.a-net.fyi,IBN
+,261,The_DaRkZoNe_BBS,Luxembourg_LUX,Sascha_Busser,-Unpublished-,300,INA:bbs.darkzone.ipv64.net
+,262,Herbies_BBS_III,Weil_am_Rhein_DEU,Thorsten_Herb,-Unpublished-,300,CM,INA:herbies-bbs.ddns.net,IBN
+,263,HLS_BBS,Budapest_HUN,Daniel_Szabo,-Unpublished-,300,INA:bbs.tokacpt.pro
+,264,dookin_ferret_den,Oak_Hill_WV_USA,Wesley_Williams,-Unpublished-,300,INA:mystic.dookinferret.us
+,265,Stellar_Darkness,Toronto_CAN,Mike_Da_Costa,-Unpublished-,300,INA:stellardarkness.com,IBN
 ,999,-New_Node_Applicant-,AnyTown_AnyCountry,-New_Sysop-,-Unpublished-,300
 ;
 Host,4,fsxNet_(NET_4),Dunedin_NZL,Paul_Hayton,-Unpublished-,300,CM,MO,INA:net4.fsxnet.nz,IBN:24560
@@ -410,7 +414,6 @@ Pvt,118,Bit's_Lair_BBS,Madrid_ESP,Yeray_Dorta,-Unpublished-,300
 ,162,SlipStream_BBS,Oshawa_CAN,Scott_Styles,-Unpublished-,300,CM,INA:slipstreambbs.net,IBN
 ,167,The_Vault_BBS,Buenos_Aires_ARG,Rodrigo_Pelaez,-Unpublished-,300,CM,INA:thevaultbbs.fsxnet.nz,IBN
 ,170,Amiga_Retro_Brisbane_BBS,Brisbane_AUS,Mark_Casteleign,-Unpublished-,300,CM,INA:www.amigaretro.com,IBN
-Down,172,Dark_Forces_BBS,Warminster_USA,Mark_Iezzi,-Unpublished-,300,CM,INA:darkforcesbbs.dyndns.org,IBN:24558
 ,174,Exoplanet,Severna_Park_MD_USA,Shane_Wolfe,-Unpublished-,300,CM,INA:exoplanetbbs.net,IBN
 ,176,The_Hobby_Line!_BBS,Sun_City_Center_FL_USA,Mike_Dippel,-Unpublished-,300,CM,INA:hobbylinebbs.com,IBN
 ,177,Alcoholiday,Columbia_SC_USA,Andy_Haworth,-Unpublished-,300,CM,INA:alco.bbs.io,IBN
